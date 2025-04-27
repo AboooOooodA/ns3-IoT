@@ -1,0 +1,108 @@
+run CsmaSCRIPTN10D100M7P64T0.5seed6
+attr experiment "wifi-distance-test"
+attr strategy "wifi-default"
+attr measurement "100"
+attr description ""
+attr "author" "tjkopena"
+
+scalar . measurement "100"
+scalar . "author" "tjkopena"
+scalar node[1] avec nodeID: 1 wifi-tx-frames 60
+scalar node[2] avec nodeID: 2 wifi-tx-frames 60
+scalar node[3] avec nodeID: 3 wifi-tx-frames 60
+scalar node[4] avec nodeID: 4 wifi-tx-frames 60
+scalar node[5] avec nodeID: 5 wifi-tx-frames 60
+scalar node[6] avec nodeID: 6 wifi-tx-frames 60
+scalar node[7] avec nodeID: 7 wifi-tx-frames 60
+scalar node[8] avec nodeID: 8 wifi-tx-frames 60
+scalar node[9] avec nodeID: 9 wifi-tx-frames 60
+scalar node[0] wifi-rx-frames 540
+scalar node[1] sender-tx-packets 59
+scalar node[2] sender-tx-packets 59
+scalar node[3] sender-tx-packets 59
+scalar node[4] sender-tx-packets 59
+scalar node[5] sender-tx-packets 59
+scalar node[6] sender-tx-packets 59
+scalar node[7] sender-tx-packets 59
+scalar node[8] sender-tx-packets 59
+scalar node[9] sender-tx-packets 59
+scalar node[0] receiver-rx-packets 531
+statistic node[1] tx-pkt-size
+field count 59
+field sum 5192
+field mean 88
+field min 88
+field max 88
+field sqrsum 456896
+field stddev 0
+statistic node[2] tx-pkt-size
+field count 59
+field sum 5192
+field mean 88
+field min 88
+field max 88
+field sqrsum 456896
+field stddev 0
+statistic node[3] tx-pkt-size
+field count 59
+field sum 5192
+field mean 88
+field min 88
+field max 88
+field sqrsum 456896
+field stddev 0
+statistic node[4] tx-pkt-size
+field count 59
+field sum 5192
+field mean 88
+field min 88
+field max 88
+field sqrsum 456896
+field stddev 0
+statistic node[5] tx-pkt-size
+field count 59
+field sum 5192
+field mean 88
+field min 88
+field max 88
+field sqrsum 456896
+field stddev 0
+statistic node[6] tx-pkt-size
+field count 59
+field sum 5192
+field mean 88
+field min 88
+field max 88
+field sqrsum 456896
+field stddev 0
+statistic node[7] tx-pkt-size
+field count 59
+field sum 5192
+field mean 88
+field min 88
+field max 88
+field sqrsum 456896
+field stddev 0
+statistic node[8] tx-pkt-size
+field count 59
+field sum 5192
+field mean 88
+field min 88
+field max 88
+field sqrsum 456896
+field stddev 0
+statistic node[9] tx-pkt-size
+field count 59
+field sum 5192
+field mean 88
+field min 88
+field max 88
+field sqrsum 456896
+field stddev 0
+scalar . delay-count 531
+scalar . delay-total 116056827
+scalar . delay-average 218562
+scalar . delay-max 7688957
+scalar . delay-min 56013
+
+

@@ -1,0 +1,208 @@
+run 78
+attr experiment "wifi-distance-test"
+attr strategy "wifi-default"
+attr measurement "200"
+attr description ""
+attr "author" "tjkopena"
+
+scalar . measurement "200"
+scalar . "author" "tjkopena"
+scalar node[1] wifi-tx-frames 31
+scalar node[2] wifi-tx-frames 31
+scalar node[3] wifi-tx-frames 31
+scalar node[4] wifi-tx-frames 31
+scalar node[5] wifi-tx-frames 31
+scalar node[6] wifi-tx-frames 4
+scalar node[7] wifi-tx-frames 4
+scalar node[8] wifi-tx-frames 4
+scalar node[9] wifi-tx-frames 31
+scalar node[10] wifi-tx-frames 31
+scalar node[11] wifi-tx-frames 4
+scalar node[12] wifi-tx-frames 4
+scalar node[13] wifi-tx-frames 31
+scalar node[14] wifi-tx-frames 31
+scalar node[15] wifi-tx-frames 4
+scalar node[16] wifi-tx-frames 4
+scalar node[17] wifi-tx-frames 31
+scalar node[18] wifi-tx-frames 31
+scalar node[19] wifi-tx-frames 4
+scalar node[0] wifi-rx-frames 341
+scalar node[1] sender-tx-packets 30
+scalar node[2] sender-tx-packets 30
+scalar node[3] sender-tx-packets 30
+scalar node[4] sender-tx-packets 30
+scalar node[5] sender-tx-packets 30
+scalar node[6] sender-tx-packets 30
+scalar node[7] sender-tx-packets 30
+scalar node[8] sender-tx-packets 30
+scalar node[9] sender-tx-packets 30
+scalar node[10] sender-tx-packets 30
+scalar node[11] sender-tx-packets 30
+scalar node[12] sender-tx-packets 30
+scalar node[13] sender-tx-packets 30
+scalar node[14] sender-tx-packets 30
+scalar node[15] sender-tx-packets 30
+scalar node[16] sender-tx-packets 30
+scalar node[17] sender-tx-packets 30
+scalar node[18] sender-tx-packets 30
+scalar node[19] sender-tx-packets 30
+scalar node[0] receiver-rx-packets 330
+statistic node[1] tx-pkt-size
+field count 30
+field sum 1920
+field mean 64
+field min 64
+field max 64
+field sqrsum 122880
+field stddev 0
+statistic node[2] tx-pkt-size
+field count 30
+field sum 1920
+field mean 64
+field min 64
+field max 64
+field sqrsum 122880
+field stddev 0
+statistic node[3] tx-pkt-size
+field count 30
+field sum 1920
+field mean 64
+field min 64
+field max 64
+field sqrsum 122880
+field stddev 0
+statistic node[4] tx-pkt-size
+field count 30
+field sum 1920
+field mean 64
+field min 64
+field max 64
+field sqrsum 122880
+field stddev 0
+statistic node[5] tx-pkt-size
+field count 30
+field sum 1920
+field mean 64
+field min 64
+field max 64
+field sqrsum 122880
+field stddev 0
+statistic node[6] tx-pkt-size
+field count 30
+field sum 1920
+field mean 64
+field min 64
+field max 64
+field sqrsum 122880
+field stddev 0
+statistic node[7] tx-pkt-size
+field count 30
+field sum 1920
+field mean 64
+field min 64
+field max 64
+field sqrsum 122880
+field stddev 0
+statistic node[8] tx-pkt-size
+field count 30
+field sum 1920
+field mean 64
+field min 64
+field max 64
+field sqrsum 122880
+field stddev 0
+statistic node[9] tx-pkt-size
+field count 30
+field sum 1920
+field mean 64
+field min 64
+field max 64
+field sqrsum 122880
+field stddev 0
+statistic node[10] tx-pkt-size
+field count 30
+field sum 1920
+field mean 64
+field min 64
+field max 64
+field sqrsum 122880
+field stddev 0
+statistic node[11] tx-pkt-size
+field count 30
+field sum 1920
+field mean 64
+field min 64
+field max 64
+field sqrsum 122880
+field stddev 0
+statistic node[12] tx-pkt-size
+field count 30
+field sum 1920
+field mean 64
+field min 64
+field max 64
+field sqrsum 122880
+field stddev 0
+statistic node[13] tx-pkt-size
+field count 30
+field sum 1920
+field mean 64
+field min 64
+field max 64
+field sqrsum 122880
+field stddev 0
+statistic node[14] tx-pkt-size
+field count 30
+field sum 1920
+field mean 64
+field min 64
+field max 64
+field sqrsum 122880
+field stddev 0
+statistic node[15] tx-pkt-size
+field count 30
+field sum 1920
+field mean 64
+field min 64
+field max 64
+field sqrsum 122880
+field stddev 0
+statistic node[16] tx-pkt-size
+field count 30
+field sum 1920
+field mean 64
+field min 64
+field max 64
+field sqrsum 122880
+field stddev 0
+statistic node[17] tx-pkt-size
+field count 30
+field sum 1920
+field mean 64
+field min 64
+field max 64
+field sqrsum 122880
+field stddev 0
+statistic node[18] tx-pkt-size
+field count 30
+field sum 1920
+field mean 64
+field min 64
+field max 64
+field sqrsum 122880
+field stddev 0
+statistic node[19] tx-pkt-size
+field count 30
+field sum 1920
+field mean 64
+field min 64
+field max 64
+field sqrsum 122880
+field stddev 0
+scalar . delay-count 330
+scalar . delay-total 437086470
+scalar . delay-average 1324504
+scalar . delay-max 11706161
+scalar . delay-min 196074
+
+

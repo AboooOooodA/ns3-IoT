@@ -1,0 +1,38 @@
+run 41
+attr experiment "wifi-distance-test"
+attr strategy "wifi-default"
+attr measurement "50"
+attr description ""
+attr "author" "tjkopena"
+
+scalar . measurement "50"
+scalar . "author" "tjkopena"
+scalar node[1] wifi-tx-frames 31
+scalar node[2] wifi-tx-frames 31
+scalar node[0] wifi-rx-frames 62
+scalar node[1] sender-tx-packets 30
+scalar node[2] sender-tx-packets_TWO 30
+scalar node[0] receiver-rx-packets 60
+statistic node[1] tx-pkt-size
+field count 30
+field sum 1920
+field mean 64
+field min 64
+field max 64
+field sqrsum 122880
+field stddev 0
+statistic node[2] tx-pkt-size_TWO
+field count 30
+field sum 1920
+field mean 64
+field min 64
+field max 64
+field sqrsum 122880
+field stddev 0
+scalar . delay-count 60
+scalar . delay-total 35484478
+scalar . delay-average 591407
+scalar . delay-max 6656498
+scalar . delay-min 108000
+
+

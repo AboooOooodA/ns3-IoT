@@ -1,0 +1,3006 @@
+Node[0]:     cpt:0      cpt2:0
+Node[1]:     cpt:58      cpt2:58
+awake time avg Node[1]: 11163884.0ns
+Node[2]:     cpt:58      cpt2:58
+awake time avg Node[2]: 33210520.0ns
+Node[3]:     cpt:58      cpt2:58
+awake time avg Node[3]: 29934763.0ns
+Node[4]:     cpt:58      cpt2:58
+awake time avg Node[4]: 9973624.0ns
+Node[5]:     cpt:58      cpt2:58
+awake time avg Node[5]: 38551167.0ns
+Node[6]:     cpt:58      cpt2:58
+awake time avg Node[6]: 123384815.0ns
+Node[7]:     cpt:58      cpt2:58
+awake time avg Node[7]: 10724221.0ns
+Node[8]:     cpt:58      cpt2:58
+awake time avg Node[8]: 9975364.0ns
+Node[9]:     cpt:58      cpt2:58
+awake time avg Node[9]: 50955987.0ns
+Node[10]:     cpt:58      cpt2:58
+awake time avg Node[10]: 88153956.0ns
+Node[11]:     cpt:58      cpt2:58
+awake time avg Node[11]: 59369867.0ns
+Node[12]:     cpt:58      cpt2:58
+awake time avg Node[12]: 36989242.0ns
+Node[13]:     cpt:58      cpt2:58
+awake time avg Node[13]: 75838186.0ns
+Node[14]:     cpt:58      cpt2:58
+awake time avg Node[14]: 46925303.0ns
+Node[15]:     cpt:58      cpt2:58
+awake time avg Node[15]: 27871982.0ns
+Node[16]:     cpt:58      cpt2:58
+awake time avg Node[16]: 137628881.0ns
+Node[17]:     cpt:58      cpt2:58
+awake time avg Node[17]: 13061083.0ns
+Node[18]:     cpt:58      cpt2:58
+awake time avg Node[18]: 29510862.0ns
+Node[19]:     cpt:58      cpt2:58
+awake time avg Node[19]: 13802915.0ns
+Node[20]:     cpt:58      cpt2:58
+awake time avg Node[20]: 18801842.0ns
+Node[21]:     cpt:58      cpt2:58
+awake time avg Node[21]: 28049645.0ns
+Node[22]:     cpt:58      cpt2:58
+awake time avg Node[22]: 19675434.0ns
+Node[23]:     cpt:58      cpt2:58
+awake time avg Node[23]: 25257783.0ns
+Node[24]:     cpt:58      cpt2:58
+awake time avg Node[24]: 57714079.0ns
+Node[25]:     cpt:58      cpt2:58
+awake time avg Node[25]: 175000156.0ns
+Node[26]:     cpt:58      cpt2:58
+awake time avg Node[26]: 14884727.0ns
+Node[27]:     cpt:58      cpt2:58
+awake time avg Node[27]: 107445491.0ns
+Node[28]:     cpt:58      cpt2:58
+awake time avg Node[28]: 9984760.0ns
+Node[29]:     cpt:58      cpt2:58
+awake time avg Node[29]: 33479862.0ns
+Node[30]:     cpt:58      cpt2:58
+awake time avg Node[30]: 14554185.0ns
+Node[31]:     cpt:58      cpt2:58
+awake time avg Node[31]: 15650800.0ns
+Node[32]:     cpt:58      cpt2:58
+awake time avg Node[32]: 33283343.0ns
+Node[33]:     cpt:58      cpt2:58
+awake time avg Node[33]: 180815862.0ns
+Node[34]:     cpt:58      cpt2:58
+awake time avg Node[34]: 232576298.0ns
+Node[35]:     cpt:58      cpt2:58
+awake time avg Node[35]: 14024342.0ns
+Node[36]:     cpt:58      cpt2:58
+awake time avg Node[36]: 10301532.0ns
+Node[37]:     cpt:58      cpt2:58
+awake time avg Node[37]: 9980932.0ns
+Node[38]:     cpt:58      cpt2:58
+awake time avg Node[38]: 61357962.0ns
+Node[39]:     cpt:58      cpt2:58
+awake time avg Node[39]: 71995364.0ns
+Node[40]:     cpt:58      cpt2:58
+awake time avg Node[40]: 54188313.0ns
+Node[41]:     cpt:58      cpt2:58
+awake time avg Node[41]: 20807151.0ns
+Node[42]:     cpt:58      cpt2:58
+awake time avg Node[42]: 12134668.0ns
+Node[43]:     cpt:58      cpt2:58
+awake time avg Node[43]: 11878028.0ns
+Node[44]:     cpt:58      cpt2:58
+awake time avg Node[44]: 11887458.0ns
+Node[45]:     cpt:58      cpt2:58
+awake time avg Node[45]: 113511660.0ns
+Node[46]:     cpt:58      cpt2:58
+awake time avg Node[46]: 24692435.0ns
+Node[47]:     cpt:58      cpt2:58
+awake time avg Node[47]: 15240765.0ns
+Node[48]:     cpt:58      cpt2:58
+awake time avg Node[48]: 10957780.0ns
+Node[49]:     cpt:58      cpt2:58
+awake time avg Node[49]: 49343374.0ns
+Node[50]:     cpt:58      cpt2:58
+awake time avg Node[50]: 21739941.0ns
+Node[51]:     cpt:58      cpt2:58
+awake time avg Node[51]: 18296488.0ns
+Node[52]:     cpt:58      cpt2:58
+awake time avg Node[52]: 31010794.0ns
+Node[53]:     cpt:58      cpt2:58
+awake time avg Node[53]: 11671107.0ns
+Node[54]:     cpt:58      cpt2:58
+awake time avg Node[54]: 130107690.0ns
+Node[55]:     cpt:58      cpt2:58
+awake time avg Node[55]: 21905079.0ns
+Node[56]:     cpt:58      cpt2:58
+awake time avg Node[56]: 13916143.0ns
+Node[57]:     cpt:58      cpt2:58
+awake time avg Node[57]: 14728792.0ns
+Node[58]:     cpt:58      cpt2:58
+awake time avg Node[58]: 52590440.0ns
+Node[59]:     cpt:58      cpt2:58
+awake time avg Node[59]: 16605282.0ns
+Node[60]:     cpt:58      cpt2:58
+awake time avg Node[60]: 87983431.0ns
+Node[61]:     cpt:58      cpt2:58
+awake time avg Node[61]: 28376207.0ns
+Node[62]:     cpt:58      cpt2:58
+awake time avg Node[62]: 93842572.0ns
+Node[63]:     cpt:58      cpt2:58
+awake time avg Node[63]: 77943165.0ns
+Node[64]:     cpt:58      cpt2:58
+awake time avg Node[64]: 242542947.0ns
+Node[65]:     cpt:58      cpt2:58
+awake time avg Node[65]: 63499482.0ns
+Node[66]:     cpt:58      cpt2:58
+awake time avg Node[66]: 9984180.0ns
+Node[67]:     cpt:58      cpt2:58
+awake time avg Node[67]: 13363534.0ns
+Node[68]:     cpt:58      cpt2:58
+awake time avg Node[68]: 9978728.0ns
+Node[69]:     cpt:58      cpt2:58
+awake time avg Node[69]: 71690282.0ns
+Node[70]:     cpt:58      cpt2:58
+awake time avg Node[70]: 110356063.0ns
+Node[71]:     cpt:58      cpt2:58
+awake time avg Node[71]: 9980468.0ns
+Node[72]:     cpt:58      cpt2:58
+awake time avg Node[72]: 12064677.0ns
+Node[73]:     cpt:58      cpt2:58
+awake time avg Node[73]: 10597624.0ns
+Node[74]:     cpt:58      cpt2:58
+awake time avg Node[74]: 34728486.0ns
+Node[75]:     cpt:58      cpt2:58
+awake time avg Node[75]: 231098423.0ns
+Node[76]:     cpt:58      cpt2:58
+awake time avg Node[76]: 39175283.0ns
+Node[77]:     cpt:58      cpt2:58
+awake time avg Node[77]: 55059331.0ns
+Node[78]:     cpt:58      cpt2:58
+awake time avg Node[78]: 9984876.0ns
+Node[79]:     cpt:58      cpt2:58
+awake time avg Node[79]: 183906273.0ns
+Node[80]:     cpt:58      cpt2:58
+awake time avg Node[80]: 52286033.0ns
+Node[81]:     cpt:58      cpt2:58
+awake time avg Node[81]: 31279106.0ns
+Node[82]:     cpt:58      cpt2:58
+awake time avg Node[82]: 11679824.0ns
+Node[83]:     cpt:58      cpt2:58
+awake time avg Node[83]: 13304730.0ns
+Node[84]:     cpt:58      cpt2:58
+awake time avg Node[84]: 9982672.0ns
+Node[85]:     cpt:58      cpt2:58
+awake time avg Node[85]: 22676809.0ns
+Node[86]:     cpt:58      cpt2:58
+awake time avg Node[86]: 228155037.0ns
+Node[87]:     cpt:58      cpt2:58
+awake time avg Node[87]: 84084064.0ns
+Node[88]:     cpt:58      cpt2:58
+awake time avg Node[88]: 178526832.0ns
+Node[89]:     cpt:58      cpt2:58
+awake time avg Node[89]: 128093123.0ns
+Node[90]:     cpt:58      cpt2:58
+awake time avg Node[90]: 21120382.0ns
+Node[91]:     cpt:58      cpt2:58
+awake time avg Node[91]: 9973508.0ns
+Node[92]:     cpt:58      cpt2:58
+awake time avg Node[92]: 91896671.0ns
+Node[93]:     cpt:58      cpt2:58
+awake time avg Node[93]: 16353866.0ns
+Node[94]:     cpt:58      cpt2:58
+awake time avg Node[94]: 18729919.0ns
+Node[95]:     cpt:58      cpt2:58
+awake time avg Node[95]: 21298669.0ns
+Node[96]:     cpt:58      cpt2:58
+awake time avg Node[96]: 23113961.0ns
+Node[97]:     cpt:58      cpt2:58
+awake time avg Node[97]: 180134721.0ns
+Node[98]:     cpt:58      cpt2:58
+awake time avg Node[98]: 126823521.0ns
+Node[99]:     cpt:58      cpt2:58
+awake time avg Node[99]: 19813005.0ns
+Node[100]:     cpt:58      cpt2:58
+awake time avg Node[100]: 11285112.0ns
+Node[101]:     cpt:58      cpt2:58
+awake time avg Node[101]: 44681989.0ns
+Node[102]:     cpt:58      cpt2:58
+awake time avg Node[102]: 9975596.0ns
+Node[103]:     cpt:58      cpt2:58
+awake time avg Node[103]: 28689456.0ns
+Node[104]:     cpt:58      cpt2:58
+awake time avg Node[104]: 49995846.0ns
+Node[105]:     cpt:58      cpt2:58
+awake time avg Node[105]: 12543232.0ns
+Node[106]:     cpt:58      cpt2:58
+awake time avg Node[106]: 247647518.0ns
+Node[107]:     cpt:58      cpt2:58
+awake time avg Node[107]: 11059662.0ns
+Node[108]:     cpt:58      cpt2:58
+awake time avg Node[108]: 10391731.0ns
+Node[109]:     cpt:58      cpt2:58
+awake time avg Node[109]: 14518840.0ns
+Node[110]:     cpt:58      cpt2:58
+awake time avg Node[110]: 10957548.0ns
+Node[111]:     cpt:58      cpt2:58
+awake time avg Node[111]: 193724905.0ns
+Node[112]:     cpt:58      cpt2:58
+awake time avg Node[112]: 21271295.0ns
+Node[113]:     cpt:58      cpt2:58
+awake time avg Node[113]: 58999191.0ns
+Node[114]:     cpt:58      cpt2:58
+awake time avg Node[114]: 21143859.0ns
+Node[115]:     cpt:58      cpt2:58
+awake time avg Node[115]: 16261110.0ns
+Node[116]:     cpt:58      cpt2:58
+awake time avg Node[116]: 12475378.0ns
+Node[117]:     cpt:58      cpt2:58
+awake time avg Node[117]: 33388165.0ns
+Node[118]:     cpt:58      cpt2:58
+awake time avg Node[118]: 208147383.0ns
+Node[119]:     cpt:58      cpt2:58
+awake time avg Node[119]: 18329965.0ns
+Node[120]:     cpt:58      cpt2:58
+awake time avg Node[120]: 137579328.0ns
+Node[121]:     cpt:58      cpt2:58
+awake time avg Node[121]: 41692374.0ns
+Node[122]:     cpt:58      cpt2:58
+awake time avg Node[122]: 14051834.0ns
+Node[123]:     cpt:58      cpt2:58
+awake time avg Node[123]: 12118985.0ns
+Node[124]:     cpt:58      cpt2:58
+awake time avg Node[124]: 9984528.0ns
+Node[125]:     cpt:58      cpt2:58
+awake time avg Node[125]: 14021183.0ns
+Node[126]:     cpt:58      cpt2:58
+awake time avg Node[126]: 14496572.0ns
+Node[127]:     cpt:58      cpt2:58
+awake time avg Node[127]: 27240367.0ns
+Node[128]:     cpt:58      cpt2:58
+awake time avg Node[128]: 12135596.0ns
+Node[129]:     cpt:58      cpt2:58
+awake time avg Node[129]: 36727166.0ns
+Node[130]:     cpt:58      cpt2:58
+awake time avg Node[130]: 27185759.0ns
+Node[131]:     cpt:58      cpt2:58
+awake time avg Node[131]: 20218627.0ns
+Node[132]:     cpt:58      cpt2:58
+awake time avg Node[132]: 12376491.0ns
+Node[133]:     cpt:58      cpt2:58
+awake time avg Node[133]: 61930983.0ns
+Node[134]:     cpt:58      cpt2:58
+awake time avg Node[134]: 30430635.0ns
+Node[135]:     cpt:58      cpt2:58
+awake time avg Node[135]: 22240196.0ns
+Node[136]:     cpt:58      cpt2:58
+awake time avg Node[136]: 41956518.0ns
+Node[137]:     cpt:58      cpt2:58
+awake time avg Node[137]: 10958592.0ns
+Node[138]:     cpt:58      cpt2:58
+awake time avg Node[138]: 121380962.0ns
+Node[139]:     cpt:58      cpt2:58
+awake time avg Node[139]: 19951009.0ns
+Node[140]:     cpt:58      cpt2:58
+awake time avg Node[140]: 99644467.0ns
+Node[141]:     cpt:58      cpt2:58
+awake time avg Node[141]: 51385307.0ns
+Node[142]:     cpt:58      cpt2:58
+awake time avg Node[142]: 11793868.0ns
+Node[143]:     cpt:58      cpt2:58
+awake time avg Node[143]: 22530660.0ns
+Node[144]:     cpt:58      cpt2:58
+awake time avg Node[144]: 31060800.0ns
+Node[145]:     cpt:58      cpt2:58
+awake time avg Node[145]: 9984296.0ns
+Node[146]:     cpt:58      cpt2:58
+awake time avg Node[146]: 15043940.0ns
+Node[147]:     cpt:58      cpt2:58
+awake time avg Node[147]: 22839983.0ns
+Node[148]:     cpt:58      cpt2:58
+awake time avg Node[148]: 206074767.0ns
+Node[149]:     cpt:58      cpt2:58
+awake time avg Node[149]: 66327187.0ns
+Node[150]:     cpt:58      cpt2:58
+awake time avg Node[150]: 29264147.0ns
+Node[151]:     cpt:58      cpt2:58
+awake time avg Node[151]: 68596532.0ns
+Node[152]:     cpt:58      cpt2:58
+awake time avg Node[152]: 130709402.0ns
+Node[153]:     cpt:58      cpt2:58
+awake time avg Node[153]: 44378364.0ns
+Node[154]:     cpt:58      cpt2:58
+awake time avg Node[154]: 10583979.0ns
+Node[155]:     cpt:58      cpt2:58
+awake time avg Node[155]: 146726452.0ns
+Node[156]:     cpt:58      cpt2:58
+awake time avg Node[156]: 24745035.0ns
+Node[157]:     cpt:58      cpt2:58
+awake time avg Node[157]: 44636721.0ns
+Node[158]:     cpt:58      cpt2:58
+awake time avg Node[158]: 62724451.0ns
+Node[159]:     cpt:58      cpt2:58
+awake time avg Node[159]: 86127104.0ns
+Node[160]:     cpt:58      cpt2:58
+awake time avg Node[160]: 11334410.0ns
+Node[161]:     cpt:58      cpt2:58
+awake time avg Node[161]: 85562542.0ns
+Node[162]:     cpt:58      cpt2:58
+awake time avg Node[162]: 12634340.0ns
+Node[163]:     cpt:58      cpt2:58
+awake time avg Node[163]: 100954850.0ns
+Node[164]:     cpt:58      cpt2:58
+awake time avg Node[164]: 18180465.0ns
+Node[165]:     cpt:58      cpt2:58
+awake time avg Node[165]: 80596621.0ns
+Node[166]:     cpt:58      cpt2:58
+awake time avg Node[166]: 55590622.0ns
+Node[167]:     cpt:58      cpt2:58
+awake time avg Node[167]: 10834542.0ns
+Node[168]:     cpt:58      cpt2:58
+awake time avg Node[168]: 9984644.0ns
+Node[169]:     cpt:58      cpt2:58
+awake time avg Node[169]: 169713497.0ns
+Node[170]:     cpt:58      cpt2:58
+awake time avg Node[170]: 11405353.0ns
+Node[171]:     cpt:58      cpt2:58
+awake time avg Node[171]: 41471112.0ns
+Node[172]:     cpt:58      cpt2:58
+awake time avg Node[172]: 20944000.0ns
+
+ hhh20944000.0
+Node[173]:     cpt:58      cpt2:58
+awake time avg Node[173]: 21775120.0ns
+Node[174]:     cpt:58      cpt2:58
+awake time avg Node[174]: 17595064.0ns
+Node[175]:     cpt:58      cpt2:58
+awake time avg Node[175]: 163174107.0ns
+Node[176]:     cpt:58      cpt2:58
+awake time avg Node[176]: 84563497.0ns
+Node[177]:     cpt:58      cpt2:58
+awake time avg Node[177]: 14243488.0ns
+Node[178]:     cpt:58      cpt2:58
+awake time avg Node[178]: 12845767.0ns
+Node[179]:     cpt:58      cpt2:58
+awake time avg Node[179]: 115077767.0ns
+Node[180]:     cpt:58      cpt2:58
+awake time avg Node[180]: 11113968.0ns
+Node[181]:     cpt:58      cpt2:58
+awake time avg Node[181]: 9987544.0ns
+Node[182]:     cpt:58      cpt2:58
+awake time avg Node[182]: 14573163.0ns
+Node[183]:     cpt:58      cpt2:58
+awake time avg Node[183]: 29498210.0ns
+Node[184]:     cpt:58      cpt2:58
+awake time avg Node[184]: 10097239.0ns
+Node[185]:     cpt:58      cpt2:58
+awake time avg Node[185]: 102430510.0ns
+Node[186]:     cpt:58      cpt2:58
+awake time avg Node[186]: 118898644.0ns
+Node[187]:     cpt:58      cpt2:58
+awake time avg Node[187]: 25048770.0ns
+Node[188]:     cpt:58      cpt2:58
+awake time avg Node[188]: 78653107.0ns
+Node[189]:     cpt:58      cpt2:58
+awake time avg Node[189]: 191356728.0ns
+Node[190]:     cpt:58      cpt2:58
+awake time avg Node[190]: 132702676.0ns
+Node[191]:     cpt:58      cpt2:58
+awake time avg Node[191]: 9985920.0ns
+Node[192]:     cpt:58      cpt2:58
+awake time avg Node[192]: 154364715.0ns
+Node[193]:     cpt:58      cpt2:58
+awake time avg Node[193]: 57688962.0ns
+Node[194]:     cpt:58      cpt2:58
+awake time avg Node[194]: 25929579.0ns
+Node[195]:     cpt:58      cpt2:58
+awake time avg Node[195]: 70820508.0ns
+Node[196]:     cpt:58      cpt2:58
+awake time avg Node[196]: 23085097.0ns
+Node[197]:     cpt:58      cpt2:58
+awake time avg Node[197]: 14776269.0ns
+Node[198]:     cpt:58      cpt2:58
+awake time avg Node[198]: 159143217.0ns
+Node[199]:     cpt:58      cpt2:58
+awake time avg Node[199]: 197695822.0ns
+Node[200]:     cpt:58      cpt2:58
+awake time avg Node[200]: 42902663.0ns
+Node[201]:     cpt:58      cpt2:58
+awake time avg Node[201]: 26410784.0ns
+Node[202]:     cpt:58      cpt2:58
+awake time avg Node[202]: 158898189.0ns
+Node[203]:     cpt:58      cpt2:58
+awake time avg Node[203]: 35312319.0ns
+Node[204]:     cpt:58      cpt2:58
+awake time avg Node[204]: 17286976.0ns
+Node[205]:     cpt:58      cpt2:58
+awake time avg Node[205]: 78871969.0ns
+Node[206]:     cpt:58      cpt2:58
+awake time avg Node[206]: 68255503.0ns
+Node[207]:     cpt:58      cpt2:58
+awake time avg Node[207]: 13898045.0ns
+Node[208]:     cpt:58      cpt2:58
+awake time avg Node[208]: 17103769.0ns
+Node[209]:     cpt:58      cpt2:58
+awake time avg Node[209]: 11878045.0ns
+Node[210]:     cpt:58      cpt2:58
+awake time avg Node[210]: 11459588.0ns
+Node[211]:     cpt:58      cpt2:58
+awake time avg Node[211]: 26255204.0ns
+Node[212]:     cpt:58      cpt2:58
+awake time avg Node[212]: 46535547.0ns
+Node[213]:     cpt:58      cpt2:58
+awake time avg Node[213]: 20608174.0ns
+Node[214]:     cpt:58      cpt2:58
+awake time avg Node[214]: 69612338.0ns
+Node[215]:     cpt:58      cpt2:58
+awake time avg Node[215]: 53174868.0ns
+Node[216]:     cpt:58      cpt2:58
+awake time avg Node[216]: 19356145.0ns
+Node[217]:     cpt:58      cpt2:58
+awake time avg Node[217]: 112339580.0ns
+Node[218]:     cpt:58      cpt2:58
+awake time avg Node[218]: 10982094.0ns
+Node[219]:     cpt:58      cpt2:58
+awake time avg Node[219]: 62399337.0ns
+Node[220]:     cpt:58      cpt2:58
+awake time avg Node[220]: 147066990.0ns
+Node[221]:     cpt:58      cpt2:58
+awake time avg Node[221]: 28626156.0ns
+Node[222]:     cpt:58      cpt2:58
+awake time avg Node[222]: 24071856.0ns
+Node[223]:     cpt:58      cpt2:58
+awake time avg Node[223]: 30581295.0ns
+Node[224]:     cpt:58      cpt2:58
+awake time avg Node[224]: 53084292.0ns
+Node[225]:     cpt:58      cpt2:58
+awake time avg Node[225]: 43026611.0ns
+Node[226]:     cpt:58      cpt2:58
+awake time avg Node[226]: 84750704.0ns
+Node[227]:     cpt:58      cpt2:58
+awake time avg Node[227]: 43235395.0ns
+Node[228]:     cpt:58      cpt2:58
+awake time avg Node[228]: 21626256.0ns
+Node[229]:     cpt:58      cpt2:58
+awake time avg Node[229]: 163415332.0ns
+Node[230]:     cpt:58      cpt2:58
+awake time avg Node[230]: 19008625.0ns
+Node[231]:     cpt:58      cpt2:58
+awake time avg Node[231]: 231275916.0ns
+Node[232]:     cpt:58      cpt2:58
+awake time avg Node[232]: 131472858.0ns
+Node[233]:     cpt:58      cpt2:58
+awake time avg Node[233]: 95955382.0ns
+Node[234]:     cpt:58      cpt2:58
+awake time avg Node[234]: 17873120.0ns
+Node[235]:     cpt:58      cpt2:58
+awake time avg Node[235]: 35139547.0ns
+Node[236]:     cpt:58      cpt2:58
+awake time avg Node[236]: 28875472.0ns
+Node[237]:     cpt:58      cpt2:58
+awake time avg Node[237]: 19546815.0ns
+Node[238]:     cpt:58      cpt2:58
+awake time avg Node[238]: 108889680.0ns
+Node[239]:     cpt:58      cpt2:58
+awake time avg Node[239]: 20587076.0ns
+Node[240]:     cpt:58      cpt2:58
+awake time avg Node[240]: 210002636.0ns
+Node[241]:     cpt:58      cpt2:58
+awake time avg Node[241]: 256012993.0ns
+Node[242]:     cpt:58      cpt2:58
+awake time avg Node[242]: 16278068.0ns
+Node[243]:     cpt:58      cpt2:58
+awake time avg Node[243]: 9986964.0ns
+Node[244]:     cpt:58      cpt2:58
+awake time avg Node[244]: 76281624.0ns
+Node[245]:     cpt:58      cpt2:58
+awake time avg Node[245]: 178592139.0ns
+Node[246]:     cpt:58      cpt2:58
+awake time avg Node[246]: 24425641.0ns
+Node[247]:     cpt:58      cpt2:58
+awake time avg Node[247]: 16217128.0ns
+Node[248]:     cpt:58      cpt2:58
+awake time avg Node[248]: 120699505.0ns
+Node[249]:     cpt:58      cpt2:58
+awake time avg Node[249]: 19712393.0ns
+Node[250]:     cpt:58      cpt2:58
+awake time avg Node[250]: 66806132.0ns
+Node[251]:     cpt:58      cpt2:58
+awake time avg Node[251]: 114863843.0ns
+Node[252]:     cpt:58      cpt2:58
+awake time avg Node[252]: 106401039.0ns
+Node[253]:     cpt:58      cpt2:58
+awake time avg Node[253]: 20594165.0ns
+Node[254]:     cpt:58      cpt2:58
+awake time avg Node[254]: 110079564.0ns
+Node[255]:     cpt:58      cpt2:58
+awake time avg Node[255]: 24620467.0ns
+Node[256]:     cpt:58      cpt2:58
+awake time avg Node[256]: 10957664.0ns
+Node[257]:     cpt:58      cpt2:58
+awake time avg Node[257]: 56024994.0ns
+Node[258]:     cpt:58      cpt2:58
+awake time avg Node[258]: 17560622.0ns
+Node[259]:     cpt:58      cpt2:58
+awake time avg Node[259]: 11168583.0ns
+Node[260]:     cpt:58      cpt2:58
+awake time avg Node[260]: 202567721.0ns
+Node[261]:     cpt:58      cpt2:58
+awake time avg Node[261]: 19434464.0ns
+Node[262]:     cpt:58      cpt2:58
+awake time avg Node[262]: 9974088.0ns
+Node[263]:     cpt:58      cpt2:58
+awake time avg Node[263]: 233202614.0ns
+Node[264]:     cpt:58      cpt2:58
+awake time avg Node[264]: 67999506.0ns
+Node[265]:     cpt:58      cpt2:58
+awake time avg Node[265]: 15596091.0ns
+Node[266]:     cpt:58      cpt2:58
+awake time avg Node[266]: 12795942.0ns
+Node[267]:     cpt:58      cpt2:58
+awake time avg Node[267]: 69120735.0ns
+Node[268]:     cpt:58      cpt2:58
+awake time avg Node[268]: 138860004.0ns
+Node[269]:     cpt:58      cpt2:58
+awake time avg Node[269]: 27509031.0ns
+Node[270]:     cpt:58      cpt2:58
+awake time avg Node[270]: 180384579.0ns
+Node[271]:     cpt:58      cpt2:58
+awake time avg Node[271]: 230478943.0ns
+Node[272]:     cpt:58      cpt2:58
+awake time avg Node[272]: 18860636.0ns
+Node[273]:     cpt:58      cpt2:58
+awake time avg Node[273]: 10360680.0ns
+Node[274]:     cpt:58      cpt2:58
+awake time avg Node[274]: 36932624.0ns
+Node[275]:     cpt:58      cpt2:58
+awake time avg Node[275]: 11381207.0ns
+Node[276]:     cpt:58      cpt2:58
+awake time avg Node[276]: 12044768.0ns
+Node[277]:     cpt:58      cpt2:58
+awake time avg Node[277]: 59889575.0ns
+Node[278]:     cpt:58      cpt2:58
+awake time avg Node[278]: 10244072.0ns
+Node[279]:     cpt:58      cpt2:58
+awake time avg Node[279]: 10300488.0ns
+Node[280]:     cpt:58      cpt2:58
+awake time avg Node[280]: 12135364.0ns
+Node[281]:     cpt:58      cpt2:58
+awake time avg Node[281]: 15131351.0ns
+Node[282]:     cpt:58      cpt2:58
+awake time avg Node[282]: 17060099.0ns
+Node[283]:     cpt:58      cpt2:58
+awake time avg Node[283]: 66859351.0ns
+Node[284]:     cpt:58      cpt2:58
+awake time avg Node[284]: 20477386.0ns
+Node[285]:     cpt:58      cpt2:58
+awake time avg Node[285]: 20089831.0ns
+Node[286]:     cpt:58      cpt2:58
+awake time avg Node[286]: 96930780.0ns
+Node[287]:     cpt:58      cpt2:58
+awake time avg Node[287]: 17391111.0ns
+Node[288]:     cpt:58      cpt2:58
+awake time avg Node[288]: 17549816.0ns
+Node[289]:     cpt:58      cpt2:58
+awake time avg Node[289]: 104581261.0ns
+Node[290]:     cpt:58      cpt2:58
+awake time avg Node[290]: 13074150.0ns
+Node[291]:     cpt:58      cpt2:58
+awake time avg Node[291]: 133591709.0ns
+Node[292]:     cpt:58      cpt2:58
+awake time avg Node[292]: 86039968.0ns
+Node[293]:     cpt:58      cpt2:58
+awake time avg Node[293]: 10421385.0ns
+Node[294]:     cpt:58      cpt2:58
+awake time avg Node[294]: 21318687.0ns
+Node[295]:     cpt:58      cpt2:58
+awake time avg Node[295]: 19860561.0ns
+Node[296]:     cpt:58      cpt2:58
+awake time avg Node[296]: 15733714.0ns
+Node[297]:     cpt:58      cpt2:58
+awake time avg Node[297]: 149783641.0ns
+Node[298]:     cpt:58      cpt2:58
+awake time avg Node[298]: 206470617.0ns
+Node[299]:     cpt:58      cpt2:58
+awake time avg Node[299]: 46090972.0ns
+Node[300]:     cpt:58      cpt2:58
+awake time avg Node[300]: 83698804.0ns
+Node[301]:     cpt:58      cpt2:58
+awake time avg Node[301]: 27345645.0ns
+Node[302]:     cpt:58      cpt2:58
+awake time avg Node[302]: 224318916.0ns
+Node[303]:     cpt:58      cpt2:58
+awake time avg Node[303]: 10483924.0ns
+Node[304]:     cpt:58      cpt2:58
+awake time avg Node[304]: 20301480.0ns
+Node[305]:     cpt:58      cpt2:58
+awake time avg Node[305]: 113049465.0ns
+Node[306]:     cpt:58      cpt2:58
+awake time avg Node[306]: 23578026.0ns
+Node[307]:     cpt:58      cpt2:58
+awake time avg Node[307]: 183758376.0ns
+Node[308]:     cpt:58      cpt2:58
+awake time avg Node[308]: 211943469.0ns
+Node[309]:     cpt:58      cpt2:58
+awake time avg Node[309]: 24170867.0ns
+Node[310]:     cpt:58      cpt2:58
+awake time avg Node[310]: 52859922.0ns
+Node[311]:     cpt:58      cpt2:58
+awake time avg Node[311]: 231020349.0ns
+Node[312]:     cpt:58      cpt2:58
+awake time avg Node[312]: 10961956.0ns
+Node[313]:     cpt:58      cpt2:58
+awake time avg Node[313]: 54129328.0ns
+Node[314]:     cpt:58      cpt2:58
+awake time avg Node[314]: 10259885.0ns
+Node[315]:     cpt:58      cpt2:58
+awake time avg Node[315]: 25299353.0ns
+Node[316]:     cpt:58      cpt2:58
+awake time avg Node[316]: 20228639.0ns
+Node[317]:     cpt:58      cpt2:58
+awake time avg Node[317]: 16298540.0ns
+Node[318]:     cpt:58      cpt2:58
+awake time avg Node[318]: 23940798.0ns
+Node[319]:     cpt:58      cpt2:58
+awake time avg Node[319]: 225802253.0ns
+Node[320]:     cpt:58      cpt2:58
+awake time avg Node[320]: 244136233.0ns
+Node[321]:     cpt:58      cpt2:58
+awake time avg Node[321]: 126077507.0ns
+Node[322]:     cpt:58      cpt2:58
+awake time avg Node[322]: 41837308.0ns
+Node[323]:     cpt:58      cpt2:58
+awake time avg Node[323]: 150465614.0ns
+Node[324]:     cpt:58      cpt2:58
+awake time avg Node[324]: 92625067.0ns
+Node[325]:     cpt:58      cpt2:58
+awake time avg Node[325]: 45386939.0ns
+Node[326]:     cpt:58      cpt2:58
+awake time avg Node[326]: 20728528.0ns
+Node[327]:     cpt:58      cpt2:58
+awake time avg Node[327]: 11071358.0ns
+Node[328]:     cpt:58      cpt2:58
+awake time avg Node[328]: 11420785.0ns
+Node[329]:     cpt:58      cpt2:58
+awake time avg Node[329]: 137190652.0ns
+Node[330]:     cpt:58      cpt2:58
+awake time avg Node[330]: 12603479.0ns
+Node[331]:     cpt:58      cpt2:58
+awake time avg Node[331]: 27665348.0ns
+Node[332]:     cpt:58      cpt2:58
+awake time avg Node[332]: 56882614.0ns
+Node[333]:     cpt:58      cpt2:58
+awake time avg Node[333]: 38280251.0ns
+Node[334]:     cpt:58      cpt2:58
+awake time avg Node[334]: 10574975.0ns
+Node[335]:     cpt:58      cpt2:58
+awake time avg Node[335]: 85453616.0ns
+Node[336]:     cpt:58      cpt2:58
+awake time avg Node[336]: 14718187.0ns
+Node[337]:     cpt:58      cpt2:58
+awake time avg Node[337]: 133848445.0ns
+Node[338]:     cpt:58      cpt2:58
+awake time avg Node[338]: 25680392.0ns
+Node[339]:     cpt:58      cpt2:58
+awake time avg Node[339]: 162397901.0ns
+Node[340]:     cpt:58      cpt2:57
+awake time avg Node[340]: 126916782.0ns
+Node[341]:     cpt:58      cpt2:58
+awake time avg Node[341]: 20269416.0ns
+Node[342]:     cpt:58      cpt2:58
+awake time avg Node[342]: 91972809.0ns
+Node[343]:     cpt:58      cpt2:58
+awake time avg Node[343]: 29373478.0ns
+Node[344]:     cpt:58      cpt2:58
+awake time avg Node[344]: 12056122.0ns
+Node[345]:     cpt:58      cpt2:58
+awake time avg Node[345]: 59086625.0ns
+Node[346]:     cpt:58      cpt2:58
+awake time avg Node[346]: 22505600.0ns
+Node[347]:     cpt:58      cpt2:58
+awake time avg Node[347]: 26057339.0ns
+Node[348]:     cpt:58      cpt2:58
+awake time avg Node[348]: 9977452.0ns
+Node[349]:     cpt:58      cpt2:58
+awake time avg Node[349]: 225986727.0ns
+Node[350]:     cpt:58      cpt2:58
+awake time avg Node[350]: 134217373.0ns
+Node[351]:     cpt:58      cpt2:58
+awake time avg Node[351]: 82413512.0ns
+Node[352]:     cpt:58      cpt2:58
+awake time avg Node[352]: 44878610.0ns
+Node[353]:     cpt:58      cpt2:58
+awake time avg Node[353]: 27141189.0ns
+Node[354]:     cpt:58      cpt2:58
+awake time avg Node[354]: 47919877.0ns
+Node[355]:     cpt:58      cpt2:58
+awake time avg Node[355]: 14325687.0ns
+Node[356]:     cpt:58      cpt2:58
+awake time avg Node[356]: 17080097.0ns
+Node[357]:     cpt:58      cpt2:58
+awake time avg Node[357]: 15018412.0ns
+Node[358]:     cpt:58      cpt2:58
+awake time avg Node[358]: 19487930.0ns
+Node[359]:     cpt:58      cpt2:58
+awake time avg Node[359]: 11603140.0ns
+Node[360]:     cpt:58      cpt2:58
+awake time avg Node[360]: 12120113.0ns
+Node[361]:     cpt:58      cpt2:58
+awake time avg Node[361]: 168049884.0ns
+Node[362]:     cpt:58      cpt2:58
+awake time avg Node[362]: 134591921.0ns
+Node[363]:     cpt:58      cpt2:58
+awake time avg Node[363]: 11119128.0ns
+Node[364]:     cpt:58      cpt2:58
+awake time avg Node[364]: 12135712.0ns
+Node[365]:     cpt:58      cpt2:58
+awake time avg Node[365]: 15031320.0ns
+Node[366]:     cpt:58      cpt2:58
+awake time avg Node[366]: 189843700.0ns
+Node[367]:     cpt:58      cpt2:58
+awake time avg Node[367]: 209310848.0ns
+Node[368]:     cpt:58      cpt2:58
+awake time avg Node[368]: 16348892.0ns
+Node[369]:     cpt:58      cpt2:58
+awake time avg Node[369]: 10363629.0ns
+Node[370]:     cpt:58      cpt2:58
+awake time avg Node[370]: 24245039.0ns
+Node[371]:     cpt:58      cpt2:58
+awake time avg Node[371]: 23000710.0ns
+Node[372]:     cpt:58      cpt2:58
+awake time avg Node[372]: 231187448.0ns
+Node[373]:     cpt:58      cpt2:58
+awake time avg Node[373]: 12495811.0ns
+Node[374]:     cpt:58      cpt2:58
+awake time avg Node[374]: 20188130.0ns
+Node[375]:     cpt:58      cpt2:58
+awake time avg Node[375]: 13123087.0ns
+Node[376]:     cpt:58      cpt2:58
+awake time avg Node[376]: 13773741.0ns
+Node[377]:     cpt:58      cpt2:58
+awake time avg Node[377]: 20320073.0ns
+Node[378]:     cpt:58      cpt2:58
+awake time avg Node[378]: 10163403.0ns
+Node[379]:     cpt:58      cpt2:58
+awake time avg Node[379]: 65412121.0ns
+Node[380]:     cpt:58      cpt2:58
+awake time avg Node[380]: 29570329.0ns
+Node[381]:     cpt:58      cpt2:58
+awake time avg Node[381]: 92083212.0ns
+Node[382]:     cpt:58      cpt2:58
+awake time avg Node[382]: 11478548.0ns
+Node[383]:     cpt:58      cpt2:58
+awake time avg Node[383]: 10779618.0ns
+Node[384]:     cpt:58      cpt2:58
+awake time avg Node[384]: 27618126.0ns
+Node[385]:     cpt:58      cpt2:58
+awake time avg Node[385]: 12945610.0ns
+Node[386]:     cpt:58      cpt2:58
+awake time avg Node[386]: 177052571.0ns
+Node[387]:     cpt:58      cpt2:58
+awake time avg Node[387]: 46006015.0ns
+Node[388]:     cpt:58      cpt2:58
+awake time avg Node[388]: 36512467.0ns
+Node[389]:     cpt:58      cpt2:58
+awake time avg Node[389]: 188310974.0ns
+Node[390]:     cpt:58      cpt2:58
+awake time avg Node[390]: 140531485.0ns
+Node[391]:     cpt:58      cpt2:58
+awake time avg Node[391]: 201563050.0ns
+Node[392]:     cpt:58      cpt2:58
+awake time avg Node[392]: 18360985.0ns
+Node[393]:     cpt:58      cpt2:58
+awake time avg Node[393]: 26321415.0ns
+Node[394]:     cpt:58      cpt2:58
+awake time avg Node[394]: 12511337.0ns
+Node[395]:     cpt:58      cpt2:58
+awake time avg Node[395]: 203546613.0ns
+Node[396]:     cpt:58      cpt2:58
+awake time avg Node[396]: 14943222.0ns
+Node[397]:     cpt:58      cpt2:58
+awake time avg Node[397]: 20234500.0ns
+Node[398]:     cpt:58      cpt2:58
+awake time avg Node[398]: 147153870.0ns
+Node[399]:     cpt:58      cpt2:58
+awake time avg Node[399]: 18795058.0ns
+Node[400]:     cpt:58      cpt2:58
+awake time avg Node[400]: 86466074.0ns
+Node[401]:     cpt:58      cpt2:58
+awake time avg Node[401]: 30303668.0ns
+Node[402]:     cpt:58      cpt2:58
+awake time avg Node[402]: 9988820.0ns
+Node[403]:     cpt:58      cpt2:58
+awake time avg Node[403]: 36492934.0ns
+Node[404]:     cpt:58      cpt2:58
+awake time avg Node[404]: 18781688.0ns
+Node[405]:     cpt:58      cpt2:58
+awake time avg Node[405]: 20777262.0ns
+Node[406]:     cpt:58      cpt2:58
+awake time avg Node[406]: 9985804.0ns
+Node[407]:     cpt:58      cpt2:58
+awake time avg Node[407]: 15847924.0ns
+Node[408]:     cpt:58      cpt2:58
+awake time avg Node[408]: 34670246.0ns
+Node[409]:     cpt:58      cpt2:58
+awake time avg Node[409]: 10271111.0ns
+Node[410]:     cpt:58      cpt2:58
+awake time avg Node[410]: 9985572.0ns
+Node[411]:     cpt:58      cpt2:58
+awake time avg Node[411]: 10171836.0ns
+Node[412]:     cpt:58      cpt2:58
+awake time avg Node[412]: 78735408.0ns
+Node[413]:     cpt:58      cpt2:58
+awake time avg Node[413]: 10927879.0ns
+Node[414]:     cpt:58      cpt2:58
+awake time avg Node[414]: 12971580.0ns
+Node[415]:     cpt:58      cpt2:58
+awake time avg Node[415]: 11368172.0ns
+Node[416]:     cpt:58      cpt2:58
+awake time avg Node[416]: 20209456.0ns
+Node[417]:     cpt:58      cpt2:58
+awake time avg Node[417]: 14951346.0ns
+Node[418]:     cpt:58      cpt2:58
+awake time avg Node[418]: 32509996.0ns
+Node[419]:     cpt:58      cpt2:58
+awake time avg Node[419]: 233146152.0ns
+Node[420]:     cpt:58      cpt2:58
+awake time avg Node[420]: 105012922.0ns
+Node[421]:     cpt:58      cpt2:58
+awake time avg Node[421]: 15212868.0ns
+Node[422]:     cpt:58      cpt2:58
+awake time avg Node[422]: 24554276.0ns
+Node[423]:     cpt:58      cpt2:58
+awake time avg Node[423]: 11481908.0ns
+Node[424]:     cpt:58      cpt2:58
+awake time avg Node[424]: 9976292.0ns
+Node[425]:     cpt:58      cpt2:58
+awake time avg Node[425]: 74678499.0ns
+Node[426]:     cpt:58      cpt2:58
+awake time avg Node[426]: 96172237.0ns
+Node[427]:     cpt:58      cpt2:58
+awake time avg Node[427]: 236186144.0ns
+Node[428]:     cpt:58      cpt2:58
+awake time avg Node[428]: 14647084.0ns
+Node[429]:     cpt:58      cpt2:58
+awake time avg Node[429]: 237164937.0ns
+Node[430]:     cpt:58      cpt2:58
+awake time avg Node[430]: 10823175.0ns
+Node[431]:     cpt:58      cpt2:58
+awake time avg Node[431]: 216962798.0ns
+Node[432]:     cpt:58      cpt2:58
+awake time avg Node[432]: 182288913.0ns
+Node[433]:     cpt:58      cpt2:58
+awake time avg Node[433]: 27273563.0ns
+Node[434]:     cpt:58      cpt2:58
+awake time avg Node[434]: 21325907.0ns
+Node[435]:     cpt:58      cpt2:58
+awake time avg Node[435]: 28281652.0ns
+Node[436]:     cpt:58      cpt2:58
+awake time avg Node[436]: 34392724.0ns
+Node[437]:     cpt:58      cpt2:58
+awake time avg Node[437]: 11679062.0ns
+Node[438]:     cpt:58      cpt2:58
+awake time avg Node[438]: 12626677.0ns
+Node[439]:     cpt:58      cpt2:58
+awake time avg Node[439]: 10482825.0ns
+Node[440]:     cpt:58      cpt2:58
+awake time avg Node[440]: 111800928.0ns
+Node[441]:     cpt:58      cpt2:58
+awake time avg Node[441]: 18912732.0ns
+Node[442]:     cpt:58      cpt2:58
+awake time avg Node[442]: 12359184.0ns
+Node[443]:     cpt:58      cpt2:58
+awake time avg Node[443]: 24129733.0ns
+Node[444]:     cpt:58      cpt2:58
+awake time avg Node[444]: 17604654.0ns
+Node[445]:     cpt:58      cpt2:58
+awake time avg Node[445]: 22649187.0ns
+Node[446]:     cpt:58      cpt2:58
+awake time avg Node[446]: 64060741.0ns
+Node[447]:     cpt:58      cpt2:58
+awake time avg Node[447]: 34862696.0ns
+Node[448]:     cpt:58      cpt2:58
+awake time avg Node[448]: 19524101.0ns
+Node[449]:     cpt:58      cpt2:58
+awake time avg Node[449]: 70586840.0ns
+Node[450]:     cpt:58      cpt2:58
+awake time avg Node[450]: 41949427.0ns
+Node[451]:     cpt:58      cpt2:58
+awake time avg Node[451]: 10412034.0ns
+Node[452]:     cpt:58      cpt2:58
+awake time avg Node[452]: 14056794.0ns
+Node[453]:     cpt:58      cpt2:58
+awake time avg Node[453]: 9986268.0ns
+Node[454]:     cpt:58      cpt2:58
+awake time avg Node[454]: 154572366.0ns
+Node[455]:     cpt:58      cpt2:58
+awake time avg Node[455]: 99035605.0ns
+Node[456]:     cpt:58      cpt2:58
+awake time avg Node[456]: 55806425.0ns
+Node[457]:     cpt:58      cpt2:58
+awake time avg Node[457]: 59732812.0ns
+Node[458]:     cpt:58      cpt2:58
+awake time avg Node[458]: 24583582.0ns
+Node[459]:     cpt:58      cpt2:58
+awake time avg Node[459]: 41578060.0ns
+Node[460]:     cpt:58      cpt2:58
+awake time avg Node[460]: 44154186.0ns
+Node[461]:     cpt:58      cpt2:58
+awake time avg Node[461]: 19426896.0ns
+Node[462]:     cpt:58      cpt2:58
+awake time avg Node[462]: 178237689.0ns
+Node[463]:     cpt:58      cpt2:58
+awake time avg Node[463]: 58951840.0ns
+Node[464]:     cpt:58      cpt2:58
+awake time avg Node[464]: 60581091.0ns
+Node[465]:     cpt:58      cpt2:58
+awake time avg Node[465]: 20130064.0ns
+Node[466]:     cpt:58      cpt2:58
+awake time avg Node[466]: 13378364.0ns
+Node[467]:     cpt:58      cpt2:58
+awake time avg Node[467]: 9977916.0ns
+Node[468]:     cpt:58      cpt2:58
+awake time avg Node[468]: 15207616.0ns
+Node[469]:     cpt:58      cpt2:58
+awake time avg Node[469]: 12135364.0ns
+Node[470]:     cpt:58      cpt2:58
+awake time avg Node[470]: 160639162.0ns
+Node[471]:     cpt:58      cpt2:58
+awake time avg Node[471]: 12547552.0ns
+Node[472]:     cpt:58      cpt2:58
+awake time avg Node[472]: 11936578.0ns
+Node[473]:     cpt:58      cpt2:58
+awake time avg Node[473]: 9981396.0ns
+Node[474]:     cpt:58      cpt2:58
+awake time avg Node[474]: 163041249.0ns
+Node[475]:     cpt:58      cpt2:58
+awake time avg Node[475]: 11215044.0ns
+Node[476]:     cpt:58      cpt2:58
+awake time avg Node[476]: 9979424.0ns
+Node[477]:     cpt:58      cpt2:58
+awake time avg Node[477]: 38563216.0ns
+Node[478]:     cpt:58      cpt2:58
+awake time avg Node[478]: 53091364.0ns
+Node[479]:     cpt:58      cpt2:58
+awake time avg Node[479]: 165572095.0ns
+Node[480]:     cpt:58      cpt2:58
+awake time avg Node[480]: 16357711.0ns
+Node[481]:     cpt:58      cpt2:58
+awake time avg Node[481]: 12134668.0ns
+Node[482]:     cpt:58      cpt2:58
+awake time avg Node[482]: 89453418.0ns
+Node[483]:     cpt:58      cpt2:58
+awake time avg Node[483]: 163398655.0ns
+Node[484]:     cpt:58      cpt2:58
+awake time avg Node[484]: 44099195.0ns
+Node[485]:     cpt:58      cpt2:57
+awake time avg Node[485]: 126748399.0ns
+Node[486]:     cpt:58      cpt2:58
+awake time avg Node[486]: 85750843.0ns
+Node[487]:     cpt:58      cpt2:58
+awake time avg Node[487]: 35554962.0ns
+Node[488]:     cpt:58      cpt2:58
+awake time avg Node[488]: 12133740.0ns
+Node[489]:     cpt:58      cpt2:58
+awake time avg Node[489]: 92427491.0ns
+Node[490]:     cpt:58      cpt2:58
+awake time avg Node[490]: 93568332.0ns
+Node[491]:     cpt:58      cpt2:58
+awake time avg Node[491]: 57432800.0ns
+Node[492]:     cpt:58      cpt2:58
+awake time avg Node[492]: 44581098.0ns
+Node[493]:     cpt:58      cpt2:58
+awake time avg Node[493]: 10424575.0ns
+Node[494]:     cpt:58      cpt2:58
+awake time avg Node[494]: 39660798.0ns
+Node[495]:     cpt:58      cpt2:58
+awake time avg Node[495]: 12603452.0ns
+Node[496]:     cpt:58      cpt2:58
+awake time avg Node[496]: 10299560.0ns
+Node[497]:     cpt:58      cpt2:58
+awake time avg Node[497]: 139482916.0ns
+Node[498]:     cpt:58      cpt2:58
+awake time avg Node[498]: 18287932.0ns
+Node[499]:     cpt:58      cpt2:58
+awake time avg Node[499]: 21257322.0ns
+Node[500]:     cpt:58      cpt2:58
+awake time avg Node[500]: 10640581.0ns
+Node[501]:     cpt:58      cpt2:58
+awake time avg Node[501]: 228675794.0ns
+Node[502]:     cpt:58      cpt2:58
+awake time avg Node[502]: 19961483.0ns
+Node[503]:     cpt:58      cpt2:58
+awake time avg Node[503]: 208605374.0ns
+Node[504]:     cpt:58      cpt2:58
+awake time avg Node[504]: 10060685.0ns
+Node[505]:     cpt:58      cpt2:58
+awake time avg Node[505]: 11463416.0ns
+Node[506]:     cpt:58      cpt2:58
+awake time avg Node[506]: 32582572.0ns
+Node[507]:     cpt:58      cpt2:58
+awake time avg Node[507]: 27270138.0ns
+Node[508]:     cpt:58      cpt2:58
+awake time avg Node[508]: 12608752.0ns
+Node[509]:     cpt:58      cpt2:58
+awake time avg Node[509]: 11911410.0ns
+Node[510]:     cpt:58      cpt2:58
+awake time avg Node[510]: 33401649.0ns
+Node[511]:     cpt:58      cpt2:58
+awake time avg Node[511]: 79623531.0ns
+Node[512]:     cpt:58      cpt2:58
+awake time avg Node[512]: 13504640.0ns
+Node[513]:     cpt:58      cpt2:58
+awake time avg Node[513]: 12126444.0ns
+Node[514]:     cpt:58      cpt2:58
+awake time avg Node[514]: 172864557.0ns
+Node[515]:     cpt:58      cpt2:58
+awake time avg Node[515]: 23264570.0ns
+Node[516]:     cpt:58      cpt2:58
+awake time avg Node[516]: 203229791.0ns
+Node[517]:     cpt:58      cpt2:58
+awake time avg Node[517]: 12222010.0ns
+Node[518]:     cpt:58      cpt2:58
+awake time avg Node[518]: 98166134.0ns
+Node[519]:     cpt:58      cpt2:58
+awake time avg Node[519]: 19938872.0ns
+Node[520]:     cpt:58      cpt2:58
+awake time avg Node[520]: 114914537.0ns
+Node[521]:     cpt:58      cpt2:58
+awake time avg Node[521]: 12591456.0ns
+Node[522]:     cpt:58      cpt2:58
+awake time avg Node[522]: 16351574.0ns
+Node[523]:     cpt:58      cpt2:58
+awake time avg Node[523]: 10300140.0ns
+Node[524]:     cpt:58      cpt2:58
+awake time avg Node[524]: 11301492.0ns
+Node[525]:     cpt:58      cpt2:58
+awake time avg Node[525]: 12686222.0ns
+Node[526]:     cpt:58      cpt2:58
+awake time avg Node[526]: 74071547.0ns
+Node[527]:     cpt:58      cpt2:58
+awake time avg Node[527]: 9980352.0ns
+Node[528]:     cpt:58      cpt2:58
+awake time avg Node[528]: 232960750.0ns
+Node[529]:     cpt:58      cpt2:58
+awake time avg Node[529]: 14650172.0ns
+Node[530]:     cpt:58      cpt2:58
+awake time avg Node[530]: 237968443.0ns
+Node[531]:     cpt:58      cpt2:58
+awake time avg Node[531]: 11747120.0ns
+Node[532]:     cpt:58      cpt2:58
+awake time avg Node[532]: 9980932.0ns
+Node[533]:     cpt:58      cpt2:58
+awake time avg Node[533]: 49190833.0ns
+Node[534]:     cpt:58      cpt2:58
+awake time avg Node[534]: 38305079.0ns
+Node[535]:     cpt:58      cpt2:58
+awake time avg Node[535]: 12134204.0ns
+Node[536]:     cpt:58      cpt2:58
+awake time avg Node[536]: 144652231.0ns
+Node[537]:     cpt:58      cpt2:58
+awake time avg Node[537]: 9972000.0ns
+Node[538]:     cpt:58      cpt2:58
+awake time avg Node[538]: 51982567.0ns
+Node[539]:     cpt:58      cpt2:58
+awake time avg Node[539]: 18790524.0ns
+Node[540]:     cpt:58      cpt2:58
+awake time avg Node[540]: 12670430.0ns
+Node[541]:     cpt:58      cpt2:58
+awake time avg Node[541]: 64416175.0ns
+Node[542]:     cpt:58      cpt2:58
+awake time avg Node[542]: 20382334.0ns
+Node[543]:     cpt:58      cpt2:58
+awake time avg Node[543]: 9983600.0ns
+Node[544]:     cpt:58      cpt2:58
+awake time avg Node[544]: 190257524.0ns
+Node[545]:     cpt:58      cpt2:58
+awake time avg Node[545]: 146289975.0ns
+Node[546]:     cpt:58      cpt2:58
+awake time avg Node[546]: 15954285.0ns
+Node[547]:     cpt:58      cpt2:58
+awake time avg Node[547]: 65977012.0ns
+Node[548]:     cpt:58      cpt2:58
+awake time avg Node[548]: 22750553.0ns
+Node[549]:     cpt:58      cpt2:58
+awake time avg Node[549]: 40320899.0ns
+Node[550]:     cpt:58      cpt2:58
+awake time avg Node[550]: 203317164.0ns
+Node[551]:     cpt:58      cpt2:58
+awake time avg Node[551]: 215434494.0ns
+Node[552]:     cpt:58      cpt2:58
+awake time avg Node[552]: 18523332.0ns
+Node[553]:     cpt:58      cpt2:58
+awake time avg Node[553]: 17800655.0ns
+Node[554]:     cpt:58      cpt2:58
+awake time avg Node[554]: 44975084.0ns
+Node[555]:     cpt:58      cpt2:58
+awake time avg Node[555]: 9973392.0ns
+Node[556]:     cpt:58      cpt2:58
+awake time avg Node[556]: 24586195.0ns
+Node[557]:     cpt:58      cpt2:58
+awake time avg Node[557]: 35673846.0ns
+Node[558]:     cpt:58      cpt2:58
+awake time avg Node[558]: 10168160.0ns
+Node[559]:     cpt:58      cpt2:58
+awake time avg Node[559]: 52968787.0ns
+Node[560]:     cpt:58      cpt2:58
+awake time avg Node[560]: 19803478.0ns
+Node[561]:     cpt:58      cpt2:58
+awake time avg Node[561]: 11967652.0ns
+Node[562]:     cpt:58      cpt2:58
+awake time avg Node[562]: 33872289.0ns
+Node[563]:     cpt:58      cpt2:58
+awake time avg Node[563]: 10301068.0ns
+Node[564]:     cpt:58      cpt2:58
+awake time avg Node[564]: 105145798.0ns
+Node[565]:     cpt:58      cpt2:58
+awake time avg Node[565]: 74665560.0ns
+Node[566]:     cpt:58      cpt2:58
+awake time avg Node[566]: 112182183.0ns
+Node[567]:     cpt:58      cpt2:58
+awake time avg Node[567]: 56156306.0ns
+Node[568]:     cpt:58      cpt2:58
+awake time avg Node[568]: 79448436.0ns
+Node[569]:     cpt:58      cpt2:58
+awake time avg Node[569]: 19305130.0ns
+Node[570]:     cpt:58      cpt2:58
+awake time avg Node[570]: 237748681.0ns
+Node[571]:     cpt:58      cpt2:58
+awake time avg Node[571]: 256129309.0ns
+Node[572]:     cpt:58      cpt2:58
+awake time avg Node[572]: 40151945.0ns
+Node[573]:     cpt:58      cpt2:58
+awake time avg Node[573]: 150639030.0ns
+Node[574]:     cpt:58      cpt2:58
+awake time avg Node[574]: 13891717.0ns
+Node[575]:     cpt:58      cpt2:58
+awake time avg Node[575]: 44194042.0ns
+Node[576]:     cpt:58      cpt2:58
+awake time avg Node[576]: 196803378.0ns
+Node[577]:     cpt:58      cpt2:58
+awake time avg Node[577]: 10617397.0ns
+Node[578]:     cpt:58      cpt2:58
+awake time avg Node[578]: 19973526.0ns
+Node[579]:     cpt:58      cpt2:58
+awake time avg Node[579]: 10979748.0ns
+Node[580]:     cpt:58      cpt2:58
+awake time avg Node[580]: 20845786.0ns
+Node[581]:     cpt:58      cpt2:58
+awake time avg Node[581]: 54363336.0ns
+Node[582]:     cpt:58      cpt2:58
+awake time avg Node[582]: 14116090.0ns
+Node[583]:     cpt:58      cpt2:58
+awake time avg Node[583]: 45499446.0ns
+Node[584]:     cpt:58      cpt2:58
+awake time avg Node[584]: 22196826.0ns
+Node[585]:     cpt:58      cpt2:58
+awake time avg Node[585]: 13478914.0ns
+Node[586]:     cpt:58      cpt2:58
+awake time avg Node[586]: 9979424.0ns
+Node[587]:     cpt:58      cpt2:58
+awake time avg Node[587]: 56603387.0ns
+Node[588]:     cpt:58      cpt2:58
+awake time avg Node[588]: 22447918.0ns
+Node[589]:     cpt:58      cpt2:58
+awake time avg Node[589]: 91978782.0ns
+Node[590]:     cpt:58      cpt2:58
+awake time avg Node[590]: 180050990.0ns
+Node[591]:     cpt:58      cpt2:58
+awake time avg Node[591]: 9976640.0ns
+Node[592]:     cpt:58      cpt2:58
+awake time avg Node[592]: 12134204.0ns
+Node[593]:     cpt:58      cpt2:58
+awake time avg Node[593]: 37015370.0ns
+Node[594]:     cpt:58      cpt2:58
+awake time avg Node[594]: 10958244.0ns
+Node[595]:     cpt:58      cpt2:58
+awake time avg Node[595]: 34633854.0ns
+Node[596]:     cpt:58      cpt2:58
+awake time avg Node[596]: 114057253.0ns
+Node[597]:     cpt:58      cpt2:58
+awake time avg Node[597]: 180323970.0ns
+Node[598]:     cpt:58      cpt2:58
+awake time avg Node[598]: 194044379.0ns
+Node[599]:     cpt:58      cpt2:58
+awake time avg Node[599]: 46867017.0ns
+Node[600]:     cpt:58      cpt2:58
+awake time avg Node[600]: 41159693.0ns
+Node[601]:     cpt:58      cpt2:58
+awake time avg Node[601]: 16719705.0ns
+Node[602]:     cpt:58      cpt2:58
+awake time avg Node[602]: 12853947.0ns
+Node[603]:     cpt:58      cpt2:58
+awake time avg Node[603]: 9977916.0ns
+Node[604]:     cpt:58      cpt2:58
+awake time avg Node[604]: 16881035.0ns
+Node[605]:     cpt:58      cpt2:58
+awake time avg Node[605]: 14610985.0ns
+Node[606]:     cpt:58      cpt2:58
+awake time avg Node[606]: 231027536.0ns
+Node[607]:     cpt:58      cpt2:58
+awake time avg Node[607]: 20607296.0ns
+Node[608]:     cpt:58      cpt2:58
+awake time avg Node[608]: 22092296.0ns
+Node[609]:     cpt:58      cpt2:58
+awake time avg Node[609]: 21377876.0ns
+Node[610]:     cpt:58      cpt2:58
+awake time avg Node[610]: 37989417.0ns
+Node[611]:     cpt:58      cpt2:58
+awake time avg Node[611]: 15195202.0ns
+Node[612]:     cpt:58      cpt2:58
+awake time avg Node[612]: 71560498.0ns
+Node[613]:     cpt:58      cpt2:58
+awake time avg Node[613]: 9982208.0ns
+Node[614]:     cpt:58      cpt2:58
+awake time avg Node[614]: 10300372.0ns
+Node[615]:     cpt:58      cpt2:58
+awake time avg Node[615]: 15831732.0ns
+Node[616]:     cpt:58      cpt2:58
+awake time avg Node[616]: 9977916.0ns
+Node[617]:     cpt:58      cpt2:58
+awake time avg Node[617]: 14288697.0ns
+Node[618]:     cpt:58      cpt2:58
+awake time avg Node[618]: 10029308.0ns
+Node[619]:     cpt:58      cpt2:58
+awake time avg Node[619]: 12730308.0ns
+Node[620]:     cpt:58      cpt2:58
+awake time avg Node[620]: 234649885.0ns
+Node[621]:     cpt:58      cpt2:58
+awake time avg Node[621]: 9988124.0ns
+Node[622]:     cpt:58      cpt2:58
+awake time avg Node[622]: 9981628.0ns
+Node[623]:     cpt:58      cpt2:58
+awake time avg Node[623]: 41327305.0ns
+Node[624]:     cpt:58      cpt2:58
+awake time avg Node[624]: 9986964.0ns
+Node[625]:     cpt:58      cpt2:58
+awake time avg Node[625]: 199933309.0ns
+Node[626]:     cpt:58      cpt2:58
+awake time avg Node[626]: 99905296.0ns
+Node[627]:     cpt:58      cpt2:58
+awake time avg Node[627]: 92222880.0ns
+Node[628]:     cpt:58      cpt2:58
+awake time avg Node[628]: 22341442.0ns
+Node[629]:     cpt:58      cpt2:58
+awake time avg Node[629]: 10957200.0ns
+Node[630]:     cpt:58      cpt2:58
+awake time avg Node[630]: 36486659.0ns
+Node[631]:     cpt:58      cpt2:58
+awake time avg Node[631]: 12133276.0ns
+Node[632]:     cpt:58      cpt2:58
+awake time avg Node[632]: 13838188.0ns
+Node[633]:     cpt:58      cpt2:58
+awake time avg Node[633]: 12135132.0ns
+Node[634]:     cpt:58      cpt2:58
+awake time avg Node[634]: 66489431.0ns
+Node[635]:     cpt:58      cpt2:58
+awake time avg Node[635]: 22970747.0ns
+Node[636]:     cpt:58      cpt2:58
+awake time avg Node[636]: 16618778.0ns
+Node[637]:     cpt:58      cpt2:58
+awake time avg Node[637]: 20058068.0ns
+Node[638]:     cpt:58      cpt2:58
+awake time avg Node[638]: 168733944.0ns
+Node[639]:     cpt:58      cpt2:58
+awake time avg Node[639]: 12761525.0ns
+Node[640]:     cpt:58      cpt2:58
+awake time avg Node[640]: 15213928.0ns
+Node[641]:     cpt:58      cpt2:58
+awake time avg Node[641]: 126986779.0ns
+Node[642]:     cpt:58      cpt2:58
+awake time avg Node[642]: 19449903.0ns
+Node[643]:     cpt:58      cpt2:58
+awake time avg Node[643]: 12212437.0ns
+Node[644]:     cpt:58      cpt2:58
+awake time avg Node[644]: 9979192.0ns
+Node[645]:     cpt:58      cpt2:58
+awake time avg Node[645]: 22743870.0ns
+Node[646]:     cpt:58      cpt2:58
+awake time avg Node[646]: 35285587.0ns
+Node[647]:     cpt:58      cpt2:58
+awake time avg Node[647]: 9979540.0ns
+Node[648]:     cpt:58      cpt2:58
+awake time avg Node[648]: 10960216.0ns
+Node[649]:     cpt:58      cpt2:58
+awake time avg Node[649]: 12133044.0ns
+Node[650]:     cpt:58      cpt2:58
+awake time avg Node[650]: 12613984.0ns
+Node[651]:     cpt:58      cpt2:58
+awake time avg Node[651]: 10302228.0ns
+Node[652]:     cpt:58      cpt2:58
+awake time avg Node[652]: 16453678.0ns
+Node[653]:     cpt:58      cpt2:58
+awake time avg Node[653]: 13502065.0ns
+Node[654]:     cpt:58      cpt2:58
+awake time avg Node[654]: 97270938.0ns
+Node[655]:     cpt:58      cpt2:58
+awake time avg Node[655]: 102738578.0ns
+Node[656]:     cpt:58      cpt2:58
+awake time avg Node[656]: 20382775.0ns
+Node[657]:     cpt:58      cpt2:58
+awake time avg Node[657]: 187465664.0ns
+Node[658]:     cpt:58      cpt2:58
+awake time avg Node[658]: 27131707.0ns
+Node[659]:     cpt:58      cpt2:58
+awake time avg Node[659]: 72922691.0ns
+Node[660]:     cpt:58      cpt2:58
+awake time avg Node[660]: 135565760.0ns
+Node[661]:     cpt:58      cpt2:58
+awake time avg Node[661]: 12983566.0ns
+Node[662]:     cpt:58      cpt2:58
+awake time avg Node[662]: 51402301.0ns
+Node[663]:     cpt:58      cpt2:58
+awake time avg Node[663]: 120251822.0ns
+Node[664]:     cpt:58      cpt2:58
+awake time avg Node[664]: 27644098.0ns
+Node[665]:     cpt:58      cpt2:58
+awake time avg Node[665]: 187060661.0ns
+Node[666]:     cpt:58      cpt2:58
+awake time avg Node[666]: 114255419.0ns
+Node[667]:     cpt:58      cpt2:58
+awake time avg Node[667]: 23275386.0ns
+Node[668]:     cpt:58      cpt2:58
+awake time avg Node[668]: 22029741.0ns
+Node[669]:     cpt:58      cpt2:58
+awake time avg Node[669]: 174089805.0ns
+Node[670]:     cpt:58      cpt2:58
+awake time avg Node[670]: 143389038.0ns
+Node[671]:     cpt:58      cpt2:58
+awake time avg Node[671]: 56634347.0ns
+Node[672]:     cpt:58      cpt2:58
+awake time avg Node[672]: 228682169.0ns
+Node[673]:     cpt:58      cpt2:58
+awake time avg Node[673]: 179023729.0ns
+Node[674]:     cpt:58      cpt2:58
+awake time avg Node[674]: 10278193.0ns
+Node[675]:     cpt:58      cpt2:58
+awake time avg Node[675]: 11164203.0ns
+Node[676]:     cpt:58      cpt2:58
+awake time avg Node[676]: 19027609.0ns
+Node[677]:     cpt:58      cpt2:58
+awake time avg Node[677]: 9983484.0ns
+Node[678]:     cpt:58      cpt2:58
+awake time avg Node[678]: 162145637.0ns
+Node[679]:     cpt:58      cpt2:58
+awake time avg Node[679]: 23307859.0ns
+Node[680]:     cpt:58      cpt2:58
+awake time avg Node[680]: 54942858.0ns
+Node[681]:     cpt:58      cpt2:58
+awake time avg Node[681]: 55384915.0ns
+Node[682]:     cpt:58      cpt2:58
+awake time avg Node[682]: 9980932.0ns
+Node[683]:     cpt:58      cpt2:58
+awake time avg Node[683]: 238554441.0ns
+Node[684]:     cpt:58      cpt2:58
+awake time avg Node[684]: 16737268.0ns
+Node[685]:     cpt:58      cpt2:58
+awake time avg Node[685]: 12575608.0ns
+Node[686]:     cpt:58      cpt2:58
+awake time avg Node[686]: 10738983.0ns
+Node[687]:     cpt:58      cpt2:58
+awake time avg Node[687]: 9980352.0ns
+Node[688]:     cpt:58      cpt2:58
+awake time avg Node[688]: 92767207.0ns
+Node[689]:     cpt:58      cpt2:58
+awake time avg Node[689]: 158385698.0ns
+Node[690]:     cpt:58      cpt2:58
+awake time avg Node[690]: 51419932.0ns
+Node[691]:     cpt:58      cpt2:58
+awake time avg Node[691]: 25100148.0ns
+Node[692]:     cpt:58      cpt2:58
+awake time avg Node[692]: 13241707.0ns
+Node[693]:     cpt:58      cpt2:58
+awake time avg Node[693]: 95172419.0ns
+Node[694]:     cpt:58      cpt2:58
+awake time avg Node[694]: 150995386.0ns
+Node[695]:     cpt:58      cpt2:58
+awake time avg Node[695]: 13902551.0ns
+Node[696]:     cpt:58      cpt2:58
+awake time avg Node[696]: 25661736.0ns
+Node[697]:     cpt:58      cpt2:58
+awake time avg Node[697]: 70162966.0ns
+Node[698]:     cpt:58      cpt2:58
+awake time avg Node[698]: 10688090.0ns
+Node[699]:     cpt:58      cpt2:58
+awake time avg Node[699]: 25140056.0ns
+Node[700]:     cpt:58      cpt2:58
+awake time avg Node[700]: 9985340.0ns
+Node[701]:     cpt:58      cpt2:58
+awake time avg Node[701]: 16981856.0ns
+Node[702]:     cpt:58      cpt2:58
+awake time avg Node[702]: 62083186.0ns
+Node[703]:     cpt:58      cpt2:58
+awake time avg Node[703]: 9977336.0ns
+Node[704]:     cpt:58      cpt2:58
+awake time avg Node[704]: 11084093.0ns
+Node[705]:     cpt:58      cpt2:58
+awake time avg Node[705]: 35495908.0ns
+Node[706]:     cpt:58      cpt2:58
+awake time avg Node[706]: 83515594.0ns
+Node[707]:     cpt:58      cpt2:58
+awake time avg Node[707]: 17350042.0ns
+Node[708]:     cpt:58      cpt2:58
+awake time avg Node[708]: 21196424.0ns
+Node[709]:     cpt:58      cpt2:58
+awake time avg Node[709]: 35265960.0ns
+Node[710]:     cpt:58      cpt2:58
+awake time avg Node[710]: 10223614.0ns
+Node[711]:     cpt:58      cpt2:58
+awake time avg Node[711]: 115403691.0ns
+Node[712]:     cpt:58      cpt2:58
+awake time avg Node[712]: 12229959.0ns
+Node[713]:     cpt:58      cpt2:58
+awake time avg Node[713]: 36798551.0ns
+Node[714]:     cpt:58      cpt2:58
+awake time avg Node[714]: 10923635.0ns
+Node[715]:     cpt:58      cpt2:58
+awake time avg Node[715]: 9983252.0ns
+Node[716]:     cpt:58      cpt2:58
+awake time avg Node[716]: 24411435.0ns
+Node[717]:     cpt:58      cpt2:58
+awake time avg Node[717]: 23282725.0ns
+Node[718]:     cpt:58      cpt2:58
+awake time avg Node[718]: 17209766.0ns
+Node[719]:     cpt:58      cpt2:58
+awake time avg Node[719]: 11031293.0ns
+Node[720]:     cpt:58      cpt2:58
+awake time avg Node[720]: 81003204.0ns
+Node[721]:     cpt:58      cpt2:58
+awake time avg Node[721]: 12410573.0ns
+Node[722]:     cpt:58      cpt2:58
+awake time avg Node[722]: 16122996.0ns
+Node[723]:     cpt:58      cpt2:58
+awake time avg Node[723]: 95819126.0ns
+Node[724]:     cpt:58      cpt2:58
+awake time avg Node[724]: 81315029.0ns
+Node[725]:     cpt:58      cpt2:58
+awake time avg Node[725]: 9974668.0ns
+Node[726]:     cpt:58      cpt2:58
+awake time avg Node[726]: 48623466.0ns
+Node[727]:     cpt:58      cpt2:58
+awake time avg Node[727]: 20956368.0ns
+Node[728]:     cpt:58      cpt2:58
+awake time avg Node[728]: 55331076.0ns
+Node[729]:     cpt:58      cpt2:58
+awake time avg Node[729]: 64077495.0ns
+Node[730]:     cpt:58      cpt2:58
+awake time avg Node[730]: 42042339.0ns
+Node[731]:     cpt:58      cpt2:58
+awake time avg Node[731]: 17647184.0ns
+Node[732]:     cpt:58      cpt2:58
+awake time avg Node[732]: 63560904.0ns
+Node[733]:     cpt:58      cpt2:58
+awake time avg Node[733]: 16654779.0ns
+Node[734]:     cpt:58      cpt2:58
+awake time avg Node[734]: 135697875.0ns
+Node[735]:     cpt:58      cpt2:58
+awake time avg Node[735]: 56632948.0ns
+Node[736]:     cpt:58      cpt2:58
+awake time avg Node[736]: 11035405.0ns
+Node[737]:     cpt:58      cpt2:58
+awake time avg Node[737]: 20360643.0ns
+Node[738]:     cpt:58      cpt2:58
+awake time avg Node[738]: 27294001.0ns
+Node[739]:     cpt:58      cpt2:58
+awake time avg Node[739]: 19251268.0ns
+Node[740]:     cpt:58      cpt2:58
+awake time avg Node[740]: 9986152.0ns
+Node[741]:     cpt:58      cpt2:58
+awake time avg Node[741]: 37836632.0ns
+Node[742]:     cpt:58      cpt2:58
+awake time avg Node[742]: 154294437.0ns
+Node[743]:     cpt:58      cpt2:58
+awake time avg Node[743]: 12688678.0ns
+Node[744]:     cpt:58      cpt2:58
+awake time avg Node[744]: 12675932.0ns
+Node[745]:     cpt:58      cpt2:58
+awake time avg Node[745]: 11042460.0ns
+Node[746]:     cpt:58      cpt2:58
+awake time avg Node[746]: 236678905.0ns
+Node[747]:     cpt:58      cpt2:58
+awake time avg Node[747]: 9985224.0ns
+Node[748]:     cpt:58      cpt2:58
+awake time avg Node[748]: 13840927.0ns
+Node[749]:     cpt:58      cpt2:58
+awake time avg Node[749]: 236269035.0ns
+Node[750]:     cpt:58      cpt2:58
+awake time avg Node[750]: 112479294.0ns
+Node[751]:     cpt:58      cpt2:58
+awake time avg Node[751]: 20945011.0ns
+Node[752]:     cpt:58      cpt2:58
+awake time avg Node[752]: 160000851.0ns
+Node[753]:     cpt:58      cpt2:58
+awake time avg Node[753]: 9981512.0ns
+Node[754]:     cpt:58      cpt2:58
+awake time avg Node[754]: 14456180.0ns
+Node[755]:     cpt:58      cpt2:58
+awake time avg Node[755]: 18776076.0ns
+Node[756]:     cpt:58      cpt2:58
+awake time avg Node[756]: 174257802.0ns
+Node[757]:     cpt:58      cpt2:58
+awake time avg Node[757]: 14549372.0ns
+Node[758]:     cpt:58      cpt2:58
+awake time avg Node[758]: 189407766.0ns
+Node[759]:     cpt:58      cpt2:58
+awake time avg Node[759]: 69991696.0ns
+Node[760]:     cpt:58      cpt2:58
+awake time avg Node[760]: 18623457.0ns
+Node[761]:     cpt:58      cpt2:58
+awake time avg Node[761]: 82945565.0ns
+Node[762]:     cpt:58      cpt2:58
+awake time avg Node[762]: 126568203.0ns
+Node[763]:     cpt:58      cpt2:58
+awake time avg Node[763]: 168444665.0ns
+Node[764]:     cpt:58      cpt2:58
+awake time avg Node[764]: 12626310.0ns
+Node[765]:     cpt:58      cpt2:58
+awake time avg Node[765]: 18777098.0ns
+Node[766]:     cpt:58      cpt2:58
+awake time avg Node[766]: 90704971.0ns
+Node[767]:     cpt:58      cpt2:58
+awake time avg Node[767]: 176140250.0ns
+Node[768]:     cpt:58      cpt2:58
+awake time avg Node[768]: 131902774.0ns
+Node[769]:     cpt:58      cpt2:58
+awake time avg Node[769]: 24469042.0ns
+Node[770]:     cpt:58      cpt2:58
+awake time avg Node[770]: 22289351.0ns
+Node[771]:     cpt:58      cpt2:58
+awake time avg Node[771]: 34009381.0ns
+Node[772]:     cpt:58      cpt2:58
+awake time avg Node[772]: 9976988.0ns
+Node[773]:     cpt:58      cpt2:58
+awake time avg Node[773]: 33849294.0ns
+Node[774]:     cpt:58      cpt2:58
+awake time avg Node[774]: 89916944.0ns
+Node[775]:     cpt:58      cpt2:58
+awake time avg Node[775]: 12133972.0ns
+Node[776]:     cpt:58      cpt2:58
+awake time avg Node[776]: 78459810.0ns
+Node[777]:     cpt:58      cpt2:58
+awake time avg Node[777]: 23224066.0ns
+Node[778]:     cpt:58      cpt2:58
+awake time avg Node[778]: 52658996.0ns
+Node[779]:     cpt:58      cpt2:58
+awake time avg Node[779]: 62139371.0ns
+Node[780]:     cpt:58      cpt2:58
+awake time avg Node[780]: 33172509.0ns
+Node[781]:     cpt:58      cpt2:58
+awake time avg Node[781]: 157200303.0ns
+Node[782]:     cpt:58      cpt2:58
+awake time avg Node[782]: 40863643.0ns
+Node[783]:     cpt:58      cpt2:58
+awake time avg Node[783]: 54927071.0ns
+Node[784]:     cpt:58      cpt2:58
+awake time avg Node[784]: 9983948.0ns
+Node[785]:     cpt:58      cpt2:58
+awake time avg Node[785]: 10587243.0ns
+Node[786]:     cpt:58      cpt2:58
+awake time avg Node[786]: 10083369.0ns
+Node[787]:     cpt:58      cpt2:58
+awake time avg Node[787]: 45108119.0ns
+Node[788]:     cpt:58      cpt2:58
+awake time avg Node[788]: 44917284.0ns
+Node[789]:     cpt:58      cpt2:58
+awake time avg Node[789]: 10984210.0ns
+Node[790]:     cpt:58      cpt2:58
+awake time avg Node[790]: 19571335.0ns
+Node[791]:     cpt:58      cpt2:58
+awake time avg Node[791]: 20043968.0ns
+Node[792]:     cpt:58      cpt2:58
+awake time avg Node[792]: 39638095.0ns
+Node[793]:     cpt:58      cpt2:58
+awake time avg Node[793]: 104784716.0ns
+Node[794]:     cpt:58      cpt2:58
+awake time avg Node[794]: 47377913.0ns
+Node[795]:     cpt:58      cpt2:58
+awake time avg Node[795]: 16016009.0ns
+Node[796]:     cpt:58      cpt2:58
+awake time avg Node[796]: 172201333.0ns
+Node[797]:     cpt:58      cpt2:58
+awake time avg Node[797]: 70668865.0ns
+Node[798]:     cpt:58      cpt2:58
+awake time avg Node[798]: 160885635.0ns
+Node[799]:     cpt:58      cpt2:58
+awake time avg Node[799]: 55026632.0ns
+Node[800]:     cpt:58      cpt2:58
+awake time avg Node[800]: 225540167.0ns
+Node[801]:     cpt:58      cpt2:58
+awake time avg Node[801]: 13531576.0ns
+Node[802]:     cpt:58      cpt2:58
+awake time avg Node[802]: 109014768.0ns
+Node[803]:     cpt:58      cpt2:58
+awake time avg Node[803]: 121101693.0ns
+Node[804]:     cpt:58      cpt2:58
+awake time avg Node[804]: 10723644.0ns
+Node[805]:     cpt:58      cpt2:58
+awake time avg Node[805]: 17507934.0ns
+Node[806]:     cpt:58      cpt2:58
+awake time avg Node[806]: 15062286.0ns
+Node[807]:     cpt:58      cpt2:58
+awake time avg Node[807]: 11762443.0ns
+Node[808]:     cpt:58      cpt2:58
+awake time avg Node[808]: 9976988.0ns
+Node[809]:     cpt:58      cpt2:58
+awake time avg Node[809]: 17113699.0ns
+Node[810]:     cpt:58      cpt2:58
+awake time avg Node[810]: 16733500.0ns
+Node[811]:     cpt:58      cpt2:58
+awake time avg Node[811]: 224753900.0ns
+Node[812]:     cpt:58      cpt2:58
+awake time avg Node[812]: 10201996.0ns
+Node[813]:     cpt:58      cpt2:58
+awake time avg Node[813]: 12614910.0ns
+Node[814]:     cpt:58      cpt2:58
+awake time avg Node[814]: 127859715.0ns
+Node[815]:     cpt:58      cpt2:58
+awake time avg Node[815]: 12599363.0ns
+Node[816]:     cpt:58      cpt2:58
+awake time avg Node[816]: 39881413.0ns
+Node[817]:     cpt:58      cpt2:58
+awake time avg Node[817]: 123344051.0ns
+Node[818]:     cpt:58      cpt2:58
+awake time avg Node[818]: 26931138.0ns
+Node[819]:     cpt:58      cpt2:58
+awake time avg Node[819]: 182115746.0ns
+Node[820]:     cpt:58      cpt2:58
+awake time avg Node[820]: 15631486.0ns
+Node[821]:     cpt:58      cpt2:58
+awake time avg Node[821]: 17553005.0ns
+Node[822]:     cpt:58      cpt2:58
+awake time avg Node[822]: 39245665.0ns
+Node[823]:     cpt:58      cpt2:58
+awake time avg Node[823]: 14064644.0ns
+Node[824]:     cpt:58      cpt2:58
+awake time avg Node[824]: 19430102.0ns
+Node[825]:     cpt:58      cpt2:58
+awake time avg Node[825]: 30692479.0ns
+Node[826]:     cpt:58      cpt2:58
+awake time avg Node[826]: 9983600.0ns
+Node[827]:     cpt:58      cpt2:58
+awake time avg Node[827]: 126596795.0ns
+Node[828]:     cpt:58      cpt2:58
+awake time avg Node[828]: 128991864.0ns
+Node[829]:     cpt:58      cpt2:58
+awake time avg Node[829]: 51895787.0ns
+Node[830]:     cpt:58      cpt2:58
+awake time avg Node[830]: 134552824.0ns
+Node[831]:     cpt:58      cpt2:58
+awake time avg Node[831]: 15972411.0ns
+Node[832]:     cpt:58      cpt2:58
+awake time avg Node[832]: 228615695.0ns
+Node[833]:     cpt:58      cpt2:58
+awake time avg Node[833]: 19648795.0ns
+Node[834]:     cpt:58      cpt2:58
+awake time avg Node[834]: 31614584.0ns
+Node[835]:     cpt:58      cpt2:58
+awake time avg Node[835]: 78291465.0ns
+Node[836]:     cpt:58      cpt2:58
+awake time avg Node[836]: 17625254.0ns
+Node[837]:     cpt:58      cpt2:58
+awake time avg Node[837]: 41027071.0ns
+Node[838]:     cpt:58      cpt2:58
+awake time avg Node[838]: 17068827.0ns
+Node[839]:     cpt:58      cpt2:58
+awake time avg Node[839]: 24136371.0ns
+Node[840]:     cpt:58      cpt2:58
+awake time avg Node[840]: 18623796.0ns
+Node[841]:     cpt:58      cpt2:58
+awake time avg Node[841]: 59959719.0ns
+Node[842]:     cpt:58      cpt2:58
+awake time avg Node[842]: 24988553.0ns
+Node[843]:     cpt:58      cpt2:58
+awake time avg Node[843]: 21056277.0ns
+Node[844]:     cpt:58      cpt2:58
+awake time avg Node[844]: 19404772.0ns
+Node[845]:     cpt:58      cpt2:58
+awake time avg Node[845]: 183930924.0ns
+Node[846]:     cpt:58      cpt2:58
+awake time avg Node[846]: 33770110.0ns
+Node[847]:     cpt:58      cpt2:58
+awake time avg Node[847]: 119738827.0ns
+Node[848]:     cpt:58      cpt2:58
+awake time avg Node[848]: 22169882.0ns
+Node[849]:     cpt:58      cpt2:58
+awake time avg Node[849]: 232789064.0ns
+Node[850]:     cpt:58      cpt2:58
+awake time avg Node[850]: 26486803.0ns
+Node[851]:     cpt:58      cpt2:58
+awake time avg Node[851]: 50325811.0ns
+Node[852]:     cpt:58      cpt2:58
+awake time avg Node[852]: 39394388.0ns
+Node[853]:     cpt:58      cpt2:58
+awake time avg Node[853]: 9979308.0ns
+Node[854]:     cpt:58      cpt2:58
+awake time avg Node[854]: 20398580.0ns
+Node[855]:     cpt:58      cpt2:58
+awake time avg Node[855]: 69810127.0ns
+Node[856]:     cpt:58      cpt2:58
+awake time avg Node[856]: 20196457.0ns
+Node[857]:     cpt:58      cpt2:58
+awake time avg Node[857]: 15662482.0ns
+Node[858]:     cpt:58      cpt2:58
+awake time avg Node[858]: 19227757.0ns
+Node[859]:     cpt:58      cpt2:58
+awake time avg Node[859]: 19128088.0ns
+Node[860]:     cpt:58      cpt2:58
+awake time avg Node[860]: 20237770.0ns
+Node[861]:     cpt:58      cpt2:58
+awake time avg Node[861]: 19332940.0ns
+Node[862]:     cpt:58      cpt2:58
+awake time avg Node[862]: 12410829.0ns
+Node[863]:     cpt:58      cpt2:58
+awake time avg Node[863]: 19648200.0ns
+Node[864]:     cpt:58      cpt2:58
+awake time avg Node[864]: 241772221.0ns
+Node[865]:     cpt:58      cpt2:58
+awake time avg Node[865]: 94767282.0ns
+Node[866]:     cpt:58      cpt2:58
+awake time avg Node[866]: 16268003.0ns
+Node[867]:     cpt:58      cpt2:58
+awake time avg Node[867]: 31082378.0ns
+Node[868]:     cpt:58      cpt2:58
+awake time avg Node[868]: 14874662.0ns
+Node[869]:     cpt:58      cpt2:58
+awake time avg Node[869]: 211749402.0ns
+Node[870]:     cpt:58      cpt2:58
+awake time avg Node[870]: 9988704.0ns
+Node[871]:     cpt:58      cpt2:58
+awake time avg Node[871]: 13683493.0ns
+Node[872]:     cpt:58      cpt2:58
+awake time avg Node[872]: 11548932.0ns
+Node[873]:     cpt:58      cpt2:58
+awake time avg Node[873]: 29758035.0ns
+Node[874]:     cpt:58      cpt2:58
+awake time avg Node[874]: 49856016.0ns
+Node[875]:     cpt:58      cpt2:58
+awake time avg Node[875]: 64319895.0ns
+Node[876]:     cpt:58      cpt2:58
+awake time avg Node[876]: 9974552.0ns
+Node[877]:     cpt:58      cpt2:58
+awake time avg Node[877]: 144146487.0ns
+Node[878]:     cpt:58      cpt2:58
+awake time avg Node[878]: 164718741.0ns
+Node[879]:     cpt:58      cpt2:58
+awake time avg Node[879]: 13042040.0ns
+Node[880]:     cpt:58      cpt2:58
+awake time avg Node[880]: 11212301.0ns
+Node[881]:     cpt:58      cpt2:58
+awake time avg Node[881]: 23160217.0ns
+Node[882]:     cpt:58      cpt2:58
+awake time avg Node[882]: 10153472.0ns
+Node[883]:     cpt:58      cpt2:58
+awake time avg Node[883]: 105736808.0ns
+Node[884]:     cpt:58      cpt2:58
+awake time avg Node[884]: 68297139.0ns
+Node[885]:     cpt:58      cpt2:58
+awake time avg Node[885]: 22496998.0ns
+Node[886]:     cpt:58      cpt2:58
+awake time avg Node[886]: 13542220.0ns
+Node[887]:     cpt:58      cpt2:58
+awake time avg Node[887]: 81023639.0ns
+Node[888]:     cpt:58      cpt2:58
+awake time avg Node[888]: 14801347.0ns
+Node[889]:     cpt:58      cpt2:58
+awake time avg Node[889]: 14310134.0ns
+Node[890]:     cpt:58      cpt2:58
+awake time avg Node[890]: 18246765.0ns
+Node[891]:     cpt:58      cpt2:58
+awake time avg Node[891]: 13251625.0ns
+Node[892]:     cpt:58      cpt2:58
+awake time avg Node[892]: 9981628.0ns
+Node[893]:     cpt:58      cpt2:58
+awake time avg Node[893]: 161934973.0ns
+Node[894]:     cpt:58      cpt2:58
+awake time avg Node[894]: 20221635.0ns
+Node[895]:     cpt:58      cpt2:58
+awake time avg Node[895]: 9984064.0ns
+Node[896]:     cpt:58      cpt2:58
+awake time avg Node[896]: 13935751.0ns
+Node[897]:     cpt:58      cpt2:58
+awake time avg Node[897]: 64582952.0ns
+Node[898]:     cpt:58      cpt2:58
+awake time avg Node[898]: 24106179.0ns
+Node[899]:     cpt:58      cpt2:58
+awake time avg Node[899]: 110741778.0ns
+Node[900]:     cpt:58      cpt2:58
+awake time avg Node[900]: 9978728.0ns
+Node[901]:     cpt:58      cpt2:58
+awake time avg Node[901]: 161774604.0ns
+Node[902]:     cpt:58      cpt2:58
+awake time avg Node[902]: 9982672.0ns
+Node[903]:     cpt:58      cpt2:58
+awake time avg Node[903]: 12086578.0ns
+Node[904]:     cpt:58      cpt2:58
+awake time avg Node[904]: 31814346.0ns
+Node[905]:     cpt:58      cpt2:58
+awake time avg Node[905]: 66742137.0ns
+Node[906]:     cpt:58      cpt2:58
+awake time avg Node[906]: 29367472.0ns
+Node[907]:     cpt:58      cpt2:58
+awake time avg Node[907]: 19186362.0ns
+Node[908]:     cpt:58      cpt2:58
+awake time avg Node[908]: 22660610.0ns
+Node[909]:     cpt:58      cpt2:58
+awake time avg Node[909]: 9978032.0ns
+Node[910]:     cpt:58      cpt2:58
+awake time avg Node[910]: 9985572.0ns
+Node[911]:     cpt:58      cpt2:58
+awake time avg Node[911]: 83093448.0ns
+Node[912]:     cpt:58      cpt2:58
+awake time avg Node[912]: 37538094.0ns
+Node[913]:     cpt:58      cpt2:58
+awake time avg Node[913]: 11411185.0ns
+Node[914]:     cpt:58      cpt2:58
+awake time avg Node[914]: 22301768.0ns
+Node[915]:     cpt:58      cpt2:58
+awake time avg Node[915]: 15407211.0ns
+Node[916]:     cpt:58      cpt2:58
+awake time avg Node[916]: 25327149.0ns
+Node[917]:     cpt:58      cpt2:58
+awake time avg Node[917]: 164907408.0ns
+Node[918]:     cpt:58      cpt2:58
+awake time avg Node[918]: 17798177.0ns
+Node[919]:     cpt:58      cpt2:58
+awake time avg Node[919]: 27437427.0ns
+Node[920]:     cpt:58      cpt2:58
+awake time avg Node[920]: 141996914.0ns
+Node[921]:     cpt:58      cpt2:58
+awake time avg Node[921]: 30093373.0ns
+Node[922]:     cpt:58      cpt2:58
+awake time avg Node[922]: 11217812.0ns
+Node[923]:     cpt:58      cpt2:58
+awake time avg Node[923]: 21159129.0ns
+Node[924]:     cpt:58      cpt2:58
+awake time avg Node[924]: 147909916.0ns
+Node[925]:     cpt:58      cpt2:58
+awake time avg Node[925]: 35141032.0ns
+Node[926]:     cpt:58      cpt2:58
+awake time avg Node[926]: 11565188.0ns
+Node[927]:     cpt:58      cpt2:58
+awake time avg Node[927]: 63967682.0ns
+Node[928]:     cpt:58      cpt2:58
+awake time avg Node[928]: 204848444.0ns
+Node[929]:     cpt:58      cpt2:58
+awake time avg Node[929]: 34451426.0ns
+Node[930]:     cpt:58      cpt2:58
+awake time avg Node[930]: 66640490.0ns
+Node[931]:     cpt:58      cpt2:58
+awake time avg Node[931]: 11559829.0ns
+Node[932]:     cpt:58      cpt2:58
+awake time avg Node[932]: 23783889.0ns
+Node[933]:     cpt:58      cpt2:58
+awake time avg Node[933]: 9974784.0ns
+Node[934]:     cpt:58      cpt2:58
+awake time avg Node[934]: 12404924.0ns
+Node[935]:     cpt:58      cpt2:58
+awake time avg Node[935]: 134915243.0ns
+Node[936]:     cpt:58      cpt2:58
+awake time avg Node[936]: 38409399.0ns
+Node[937]:     cpt:58      cpt2:58
+awake time avg Node[937]: 11573800.0ns
+Node[938]:     cpt:58      cpt2:58
+awake time avg Node[938]: 48844152.0ns
+Node[939]:     cpt:58      cpt2:58
+awake time avg Node[939]: 12053760.0ns
+Node[940]:     cpt:58      cpt2:58
+awake time avg Node[940]: 31029847.0ns
+Node[941]:     cpt:58      cpt2:58
+awake time avg Node[941]: 13332212.0ns
+Node[942]:     cpt:58      cpt2:58
+awake time avg Node[942]: 20695533.0ns
+Node[943]:     cpt:58      cpt2:58
+awake time avg Node[943]: 156083952.0ns
+Node[944]:     cpt:58      cpt2:58
+awake time avg Node[944]: 10026967.0ns
+Node[945]:     cpt:58      cpt2:58
+awake time avg Node[945]: 20936284.0ns
+Node[946]:     cpt:58      cpt2:58
+awake time avg Node[946]: 98074714.0ns
+Node[947]:     cpt:58      cpt2:58
+awake time avg Node[947]: 12136640.0ns
+Node[948]:     cpt:58      cpt2:58
+awake time avg Node[948]: 10318936.0ns
+Node[949]:     cpt:58      cpt2:58
+awake time avg Node[949]: 22673996.0ns
+Node[950]:     cpt:58      cpt2:58
+awake time avg Node[950]: 75714397.0ns
+Node[951]:     cpt:58      cpt2:58
+awake time avg Node[951]: 17010012.0ns
+Node[952]:     cpt:58      cpt2:58
+awake time avg Node[952]: 24474353.0ns
+Node[953]:     cpt:58      cpt2:58
+awake time avg Node[953]: 11152489.0ns
+Node[954]:     cpt:58      cpt2:58
+awake time avg Node[954]: 29901279.0ns
+Node[955]:     cpt:58      cpt2:58
+awake time avg Node[955]: 128711521.0ns
+Node[956]:     cpt:58      cpt2:58
+awake time avg Node[956]: 68186402.0ns
+Node[957]:     cpt:58      cpt2:58
+awake time avg Node[957]: 10185747.0ns
+Node[958]:     cpt:58      cpt2:58
+awake time avg Node[958]: 11485566.0ns
+Node[959]:     cpt:58      cpt2:58
+awake time avg Node[959]: 116350763.0ns
+Node[960]:     cpt:58      cpt2:58
+awake time avg Node[960]: 21878961.0ns
+Node[961]:     cpt:58      cpt2:58
+awake time avg Node[961]: 156808400.0ns
+Node[962]:     cpt:58      cpt2:58
+awake time avg Node[962]: 10299792.0ns
+Node[963]:     cpt:58      cpt2:58
+awake time avg Node[963]: 10462059.0ns
+Node[964]:     cpt:58      cpt2:58
+awake time avg Node[964]: 13303084.0ns
+Node[965]:     cpt:58      cpt2:58
+awake time avg Node[965]: 10957200.0ns
+Node[966]:     cpt:58      cpt2:58
+awake time avg Node[966]: 54199766.0ns
+Node[967]:     cpt:58      cpt2:58
+awake time avg Node[967]: 129921911.0ns
+Node[968]:     cpt:58      cpt2:58
+awake time avg Node[968]: 54567493.0ns
+Node[969]:     cpt:58      cpt2:58
+awake time avg Node[969]: 182195659.0ns
+Node[970]:     cpt:58      cpt2:58
+awake time avg Node[970]: 11357142.0ns
+Node[971]:     cpt:58      cpt2:58
+awake time avg Node[971]: 22004473.0ns
+Node[972]:     cpt:58      cpt2:58
+awake time avg Node[972]: 9982788.0ns
+Node[973]:     cpt:58      cpt2:58
+awake time avg Node[973]: 9982904.0ns
+Node[974]:     cpt:58      cpt2:58
+awake time avg Node[974]: 21897526.0ns
+Node[975]:     cpt:58      cpt2:58
+awake time avg Node[975]: 23145101.0ns
+Node[976]:     cpt:58      cpt2:58
+awake time avg Node[976]: 46359236.0ns
+Node[977]:     cpt:58      cpt2:58
+awake time avg Node[977]: 10959984.0ns
+Node[978]:     cpt:58      cpt2:58
+awake time avg Node[978]: 17979130.0ns
+Node[979]:     cpt:58      cpt2:58
+awake time avg Node[979]: 24276168.0ns
+Node[980]:     cpt:58      cpt2:58
+awake time avg Node[980]: 169629791.0ns
+Node[981]:     cpt:58      cpt2:58
+awake time avg Node[981]: 11715379.0ns
+Node[982]:     cpt:58      cpt2:58
+awake time avg Node[982]: 11098576.0ns
+Node[983]:     cpt:58      cpt2:58
+awake time avg Node[983]: 74232664.0ns
+Node[984]:     cpt:58      cpt2:58
+awake time avg Node[984]: 185822775.0ns
+Node[985]:     cpt:58      cpt2:58
+awake time avg Node[985]: 189526437.0ns
+Node[986]:     cpt:58      cpt2:58
+awake time avg Node[986]: 72554117.0ns
+Node[987]:     cpt:58      cpt2:58
+awake time avg Node[987]: 11667030.0ns
+Node[988]:     cpt:58      cpt2:58
+awake time avg Node[988]: 202142962.0ns
+Node[989]:     cpt:58      cpt2:58
+awake time avg Node[989]: 175136885.0ns
+Node[990]:     cpt:58      cpt2:58
+awake time avg Node[990]: 37866466.0ns
+Node[991]:     cpt:58      cpt2:58
+awake time avg Node[991]: 40935698.0ns
+Node[992]:     cpt:58      cpt2:58
+awake time avg Node[992]: 12505064.0ns
+Node[993]:     cpt:58      cpt2:58
+awake time avg Node[993]: 68001901.0ns
+Node[994]:     cpt:58      cpt2:58
+awake time avg Node[994]: 14590500.0ns
+Node[995]:     cpt:58      cpt2:58
+awake time avg Node[995]: 19858008.0ns
+Node[996]:     cpt:58      cpt2:58
+awake time avg Node[996]: 49294028.0ns
+Node[997]:     cpt:58      cpt2:58
+awake time avg Node[997]: 14117468.0ns
+Node[998]:     cpt:58      cpt2:58
+awake time avg Node[998]: 91162056.0ns
+Node[999]:     cpt:58      cpt2:58
+awake time avg Node[999]: 11272928.0ns
+
+Total awake time avg Node[0]: 56355507.232ns
+
+ hhh20944000.0 cpt: 58
+
+Total EndToEnd Delay avg Node[0]: 584984.52903ns
+EndToEnd Delay avg Node[1]: 192480.758621ns
+EndToEnd Delay avg Node[2]: 572595.172414ns
+EndToEnd Delay avg Node[3]: 516116.603448ns
+EndToEnd Delay avg Node[4]: 171959.034483ns
+EndToEnd Delay avg Node[5]: 406694.148148ns
+EndToEnd Delay avg Node[6]: 912014.787879ns
+EndToEnd Delay avg Node[7]: 184900.362069ns
+EndToEnd Delay avg Node[8]: 171989.034483ns
+EndToEnd Delay avg Node[9]: 827927.631579ns
+EndToEnd Delay avg Node[10]: 210824.125ns
+EndToEnd Delay avg Node[11]: 349204.3125ns
+EndToEnd Delay avg Node[12]: 637745.551724ns
+EndToEnd Delay avg Node[13]: 747443.0ns
+EndToEnd Delay avg Node[14]: 333927.02ns
+EndToEnd Delay avg Node[15]: 433435.210526ns
+EndToEnd Delay avg Node[16]: 668789.758621ns
+EndToEnd Delay avg Node[17]: 225191.086207ns
+EndToEnd Delay avg Node[18]: 508807.965517ns
+EndToEnd Delay avg Node[19]: 237981.293103ns
+EndToEnd Delay avg Node[20]: 324169.689655ns
+EndToEnd Delay avg Node[21]: 483614.568966ns
+EndToEnd Delay avg Node[22]: 339231.62069ns
+EndToEnd Delay avg Node[23]: 435479.017241ns
+EndToEnd Delay avg Node[24]: 694617.754717ns
+EndToEnd Delay avg Node[25]: 2341991.92857ns
+EndToEnd Delay avg Node[26]: 256633.224138ns
+EndToEnd Delay avg Node[27]: 1504452.2766ns
+EndToEnd Delay avg Node[28]: 172151.034483ns
+EndToEnd Delay avg Node[29]: 577239.0ns
+EndToEnd Delay avg Node[30]: 250934.224138ns
+EndToEnd Delay avg Node[31]: 269841.37931ns
+EndToEnd Delay avg Node[32]: 573850.741379ns
+EndToEnd Delay avg Node[33]: 580568.0ns
+EndToEnd Delay avg Node[34]: 0ns
+EndToEnd Delay avg Node[35]: 241799.0ns
+EndToEnd Delay avg Node[36]: 177612.62069ns
+EndToEnd Delay avg Node[37]: 172085.034483ns
+EndToEnd Delay avg Node[38]: 1057895.89655ns
+EndToEnd Delay avg Node[39]: 920854.557692ns
+EndToEnd Delay avg Node[40]: 288817.604651ns
+EndToEnd Delay avg Node[41]: 358743.982759ns
+EndToEnd Delay avg Node[42]: 209218.413793ns
+EndToEnd Delay avg Node[43]: 204793.586207ns
+EndToEnd Delay avg Node[44]: 204956.172414ns
+EndToEnd Delay avg Node[45]: 1268351.77273ns
+EndToEnd Delay avg Node[46]: 425731.637931ns
+EndToEnd Delay avg Node[47]: 262771.810345ns
+EndToEnd Delay avg Node[48]: 188927.241379ns
+EndToEnd Delay avg Node[49]: 771911.839286ns
+EndToEnd Delay avg Node[50]: 374826.568966ns
+EndToEnd Delay avg Node[51]: 315456.689655ns
+EndToEnd Delay avg Node[52]: 534668.862069ns
+EndToEnd Delay avg Node[53]: 201225.982759ns
+EndToEnd Delay avg Node[54]: 472224.6ns
+EndToEnd Delay avg Node[55]: 377673.775862ns
+EndToEnd Delay avg Node[56]: 239933.5ns
+EndToEnd Delay avg Node[57]: 209303.245614ns
+EndToEnd Delay avg Node[58]: 423486.4ns
+EndToEnd Delay avg Node[59]: 286297.965517ns
+EndToEnd Delay avg Node[60]: 557078.853659ns
+EndToEnd Delay avg Node[61]: 437083.105263ns
+EndToEnd Delay avg Node[62]: 579935.242424ns
+EndToEnd Delay avg Node[63]: 319260.648649ns
+EndToEnd Delay avg Node[64]: 407931.0ns
+EndToEnd Delay avg Node[65]: 888380.944444ns
+EndToEnd Delay avg Node[66]: 172141.034483ns
+EndToEnd Delay avg Node[67]: 230405.758621ns
+EndToEnd Delay avg Node[68]: 172047.034483ns
+EndToEnd Delay avg Node[69]: 1014065.05556ns
+EndToEnd Delay avg Node[70]: 1227068.30233ns
+EndToEnd Delay avg Node[71]: 172077.034483ns
+EndToEnd Delay avg Node[72]: 208011.672414ns
+EndToEnd Delay avg Node[73]: 182717.655172ns
+EndToEnd Delay avg Node[74]: 542924.508772ns
+EndToEnd Delay avg Node[75]: 2484750.0ns
+EndToEnd Delay avg Node[76]: 675435.913793ns
+EndToEnd Delay avg Node[77]: 265901.270833ns
+EndToEnd Delay avg Node[78]: 172153.034483ns
+EndToEnd Delay avg Node[79]: 863675.684211ns
+EndToEnd Delay avg Node[80]: 330689.77551ns
+EndToEnd Delay avg Node[81]: 219342.603774ns
+EndToEnd Delay avg Node[82]: 201376.275862ns
+EndToEnd Delay avg Node[83]: 229391.896552ns
+EndToEnd Delay avg Node[84]: 172115.034483ns
+EndToEnd Delay avg Node[85]: 390979.465517ns
+EndToEnd Delay avg Node[86]: 1562356.5ns
+EndToEnd Delay avg Node[87]: 1129046.46939ns
+EndToEnd Delay avg Node[88]: 2707709.34211ns
+EndToEnd Delay avg Node[89]: 1209639.52632ns
+EndToEnd Delay avg Node[90]: 364144.517241ns
+EndToEnd Delay avg Node[91]: 171957.034483ns
+EndToEnd Delay avg Node[92]: 1093632.60417ns
+EndToEnd Delay avg Node[93]: 281963.206897ns
+EndToEnd Delay avg Node[94]: 322929.637931ns
+EndToEnd Delay avg Node[95]: 367218.431034ns
+EndToEnd Delay avg Node[96]: 398516.568966ns
+EndToEnd Delay avg Node[97]: 2278893.38095ns
+EndToEnd Delay avg Node[98]: 411634.789474ns
+EndToEnd Delay avg Node[99]: 302298.157895ns
+EndToEnd Delay avg Node[100]: 194570.896552ns
+EndToEnd Delay avg Node[101]: 770379.12069ns
+EndToEnd Delay avg Node[102]: 171993.034483ns
+EndToEnd Delay avg Node[103]: 401110.321429ns
+EndToEnd Delay avg Node[104]: 861997.344828ns
+EndToEnd Delay avg Node[105]: 216262.62069ns
+EndToEnd Delay avg Node[106]: 4117654.2ns
+EndToEnd Delay avg Node[107]: 190683.827586ns
+EndToEnd Delay avg Node[108]: 179167.775862ns
+EndToEnd Delay avg Node[109]: 250324.827586ns
+EndToEnd Delay avg Node[110]: 188923.241379ns
+EndToEnd Delay avg Node[111]: 2115620.85ns
+EndToEnd Delay avg Node[112]: 326161.052632ns
+EndToEnd Delay avg Node[113]: 878884.636364ns
+EndToEnd Delay avg Node[114]: 364549.293103ns
+EndToEnd Delay avg Node[115]: 280363.965517ns
+EndToEnd Delay avg Node[116]: 215092.724138ns
+EndToEnd Delay avg Node[117]: 386833.351852ns
+EndToEnd Delay avg Node[118]: 1786228.76923ns
+EndToEnd Delay avg Node[119]: 316033.87931ns
+EndToEnd Delay avg Node[120]: 1664168.31429ns
+EndToEnd Delay avg Node[121]: 434051.0ns
+EndToEnd Delay avg Node[122]: 242273.0ns
+EndToEnd Delay avg Node[123]: 208948.017241ns
+EndToEnd Delay avg Node[124]: 172147.034483ns
+EndToEnd Delay avg Node[125]: 241744.534483ns
+EndToEnd Delay avg Node[126]: 249940.896552ns
+EndToEnd Delay avg Node[127]: 416951.105263ns
+EndToEnd Delay avg Node[128]: 209234.413793ns
+EndToEnd Delay avg Node[129]: 633227.0ns
+EndToEnd Delay avg Node[130]: 468719.982759ns
+EndToEnd Delay avg Node[131]: 348597.017241ns
+EndToEnd Delay avg Node[132]: 213387.775862ns
+EndToEnd Delay avg Node[133]: 1067775.56897ns
+EndToEnd Delay avg Node[134]: 461276.77193ns
+EndToEnd Delay avg Node[135]: 383451.655172ns
+EndToEnd Delay avg Node[136]: 270144.0ns
+EndToEnd Delay avg Node[137]: 188941.241379ns
+EndToEnd Delay avg Node[138]: 1105177.525ns
+EndToEnd Delay avg Node[139]: 284535.842105ns
+EndToEnd Delay avg Node[140]: 721410.0ns
+EndToEnd Delay avg Node[141]: 479466.098039ns
+EndToEnd Delay avg Node[142]: 203342.551724ns
+EndToEnd Delay avg Node[143]: 326824.491228ns
+EndToEnd Delay avg Node[144]: 535531.034483ns
+EndToEnd Delay avg Node[145]: 172143.034483ns
+EndToEnd Delay avg Node[146]: 259378.275862ns
+EndToEnd Delay avg Node[147]: 393792.810345ns
+EndToEnd Delay avg Node[148]: 1719515.0ns
+EndToEnd Delay avg Node[149]: 581510.604651ns
+EndToEnd Delay avg Node[150]: 436932.947368ns
+EndToEnd Delay avg Node[151]: 619100.510204ns
+EndToEnd Delay avg Node[152]: 415191.941176ns
+EndToEnd Delay avg Node[153]: 406062.566038ns
+EndToEnd Delay avg Node[154]: 182482.396552ns
+EndToEnd Delay avg Node[155]: 1796766.23529ns
+EndToEnd Delay avg Node[156]: 426638.534483ns
+EndToEnd Delay avg Node[157]: 429347.576923ns
+EndToEnd Delay avg Node[158]: 944629.654545ns
+EndToEnd Delay avg Node[159]: 436197.864865ns
+EndToEnd Delay avg Node[160]: 195420.862069ns
+EndToEnd Delay avg Node[161]: 441698.780488ns
+EndToEnd Delay avg Node[162]: 217833.448276ns
+EndToEnd Delay avg Node[163]: 1469817.53846ns
+EndToEnd Delay avg Node[164]: 313456.293103ns
+EndToEnd Delay avg Node[165]: 824328.77551ns
+EndToEnd Delay avg Node[166]: 398342.680851ns
+EndToEnd Delay avg Node[167]: 186802.448276ns
+EndToEnd Delay avg Node[168]: 172149.034483ns
+EndToEnd Delay avg Node[169]: 1659201.72727ns
+EndToEnd Delay avg Node[170]: 196644.017241ns
+EndToEnd Delay avg Node[171]: 670952.0ns
+EndToEnd Delay avg Node[172]: 361103.448276ns
+EndToEnd Delay avg Node[173]: 375433.103448ns
+EndToEnd Delay avg Node[174]: 303363.172414ns
+EndToEnd Delay avg Node[175]: 528425.2ns
+EndToEnd Delay avg Node[176]: 613265.888889ns
+EndToEnd Delay avg Node[177]: 200625.649123ns
+EndToEnd Delay avg Node[178]: 221478.741379ns
+EndToEnd Delay avg Node[179]: 605727.823529ns
+EndToEnd Delay avg Node[180]: 191620.137931ns
+EndToEnd Delay avg Node[181]: 172199.034483ns
+EndToEnd Delay avg Node[182]: 251261.431034ns
+EndToEnd Delay avg Node[183]: 508589.827586ns
+EndToEnd Delay avg Node[184]: 174090.327586ns
+EndToEnd Delay avg Node[185]: 568889.05ns
+EndToEnd Delay avg Node[186]: 1882039.85714ns
+EndToEnd Delay avg Node[187]: 431875.344828ns
+EndToEnd Delay avg Node[188]: 289010.585366ns
+EndToEnd Delay avg Node[189]: 2407244.79167ns
+EndToEnd Delay avg Node[190]: 626435.375ns
+EndToEnd Delay avg Node[191]: 172171.034483ns
+EndToEnd Delay avg Node[192]: 501276.0ns
+EndToEnd Delay avg Node[193]: 587337.254902ns
+EndToEnd Delay avg Node[194]: 336314.928571ns
+EndToEnd Delay avg Node[195]: 533949.319149ns
+EndToEnd Delay avg Node[196]: 398018.913793ns
+EndToEnd Delay avg Node[197]: 254763.258621ns
+EndToEnd Delay avg Node[198]: 733279.208333ns
+EndToEnd Delay avg Node[199]: 3023675.41379ns
+EndToEnd Delay avg Node[200]: 739701.086207ns
+EndToEnd Delay avg Node[201]: 455358.344828ns
+EndToEnd Delay avg Node[202]: 1723974.375ns
+EndToEnd Delay avg Node[203]: 226154.673077ns
+EndToEnd Delay avg Node[204]: 298051.310345ns
+EndToEnd Delay avg Node[205]: 1359861.53448ns
+EndToEnd Delay avg Node[206]: 726787.7ns
+EndToEnd Delay avg Node[207]: 239621.465517ns
+EndToEnd Delay avg Node[208]: 294892.568966ns
+EndToEnd Delay avg Node[209]: 204793.87931ns
+EndToEnd Delay avg Node[210]: 197579.103448ns
+EndToEnd Delay avg Node[211]: 452675.931034ns
+EndToEnd Delay avg Node[212]: 802337.017241ns
+EndToEnd Delay avg Node[213]: 355313.344828ns
+EndToEnd Delay avg Node[214]: 1049370.27273ns
+EndToEnd Delay avg Node[215]: 588465.615385ns
+EndToEnd Delay avg Node[216]: 333726.637931ns
+EndToEnd Delay avg Node[217]: 851003.53125ns
+EndToEnd Delay avg Node[218]: 189346.448276ns
+EndToEnd Delay avg Node[219]: 410077.363636ns
+EndToEnd Delay avg Node[220]: 547216.269231ns
+EndToEnd Delay avg Node[221]: 493554.413793ns
+EndToEnd Delay avg Node[222]: 415032.0ns
+EndToEnd Delay avg Node[223]: 476008.508772ns
+EndToEnd Delay avg Node[224]: 643427.764706ns
+EndToEnd Delay avg Node[225]: 283639.294118ns
+EndToEnd Delay avg Node[226]: 656307.386364ns
+EndToEnd Delay avg Node[227]: 619228.392857ns
+EndToEnd Delay avg Node[228]: 372866.482759ns
+EndToEnd Delay avg Node[229]: 2423860.31818ns
+EndToEnd Delay avg Node[230]: 327734.913793ns
+EndToEnd Delay avg Node[231]: 1800107.0ns
+EndToEnd Delay avg Node[232]: 1534182.31707ns
+EndToEnd Delay avg Node[233]: 456335.470588ns
+EndToEnd Delay avg Node[234]: 308157.241379ns
+EndToEnd Delay avg Node[235]: 605854.258621ns
+EndToEnd Delay avg Node[236]: 497852.965517ns
+EndToEnd Delay avg Node[237]: 337014.051724ns
+EndToEnd Delay avg Node[238]: 530595.580645ns
+EndToEnd Delay avg Node[239]: 354949.586207ns
+EndToEnd Delay avg Node[240]: 1806672.0ns
+EndToEnd Delay avg Node[241]: 0ns
+EndToEnd Delay avg Node[242]: 280656.344828ns
+EndToEnd Delay avg Node[243]: 172189.034483ns
+EndToEnd Delay avg Node[244]: 273164.525ns
+EndToEnd Delay avg Node[245]: 794921.842105ns
+EndToEnd Delay avg Node[246]: 421131.741379ns
+EndToEnd Delay avg Node[247]: 279605.655172ns
+EndToEnd Delay avg Node[248]: 327408.526316ns
+EndToEnd Delay avg Node[249]: 339868.844828ns
+EndToEnd Delay avg Node[250]: 1151829.86207ns
+EndToEnd Delay avg Node[251]: 764777.108108ns
+EndToEnd Delay avg Node[252]: 778001.846154ns
+EndToEnd Delay avg Node[253]: 355071.810345ns
+EndToEnd Delay avg Node[254]: 300369.178571ns
+EndToEnd Delay avg Node[255]: 424490.810345ns
+EndToEnd Delay avg Node[256]: 188925.241379ns
+EndToEnd Delay avg Node[257]: 350865.829787ns
+EndToEnd Delay avg Node[258]: 302769.344828ns
+EndToEnd Delay avg Node[259]: 192561.775862ns
+EndToEnd Delay avg Node[260]: 1288025.0ns
+EndToEnd Delay avg Node[261]: 335076.965517ns
+EndToEnd Delay avg Node[262]: 171967.034483ns
+EndToEnd Delay avg Node[263]: 3999439.75ns
+EndToEnd Delay avg Node[264]: 972155.740741ns
+EndToEnd Delay avg Node[265]: 268898.12069ns
+EndToEnd Delay avg Node[266]: 220619.689655ns
+EndToEnd Delay avg Node[267]: 610505.387755ns
+EndToEnd Delay avg Node[268]: 511183.111111ns
+EndToEnd Delay avg Node[269]: 260298.8ns
+EndToEnd Delay avg Node[270]: 1587030.72222ns
+EndToEnd Delay avg Node[271]: 0ns
+EndToEnd Delay avg Node[272]: 325183.37931ns
+EndToEnd Delay avg Node[273]: 178632.413793ns
+EndToEnd Delay avg Node[274]: 636769.37931ns
+EndToEnd Delay avg Node[275]: 196227.706897ns
+EndToEnd Delay avg Node[276]: 207668.413793ns
+EndToEnd Delay avg Node[277]: 453495.212766ns
+EndToEnd Delay avg Node[278]: 176621.931034ns
+EndToEnd Delay avg Node[279]: 177594.62069ns
+EndToEnd Delay avg Node[280]: 209230.413793ns
+EndToEnd Delay avg Node[281]: 260885.362069ns
+EndToEnd Delay avg Node[282]: 224640.982456ns
+EndToEnd Delay avg Node[283]: 776392.901961ns
+EndToEnd Delay avg Node[284]: 353058.37931ns
+EndToEnd Delay avg Node[285]: 346376.396552ns
+EndToEnd Delay avg Node[286]: 775799.604651ns
+EndToEnd Delay avg Node[287]: 299846.741379ns
+EndToEnd Delay avg Node[288]: 302583.034483ns
+EndToEnd Delay avg Node[289]: 1057347.39535ns
+EndToEnd Delay avg Node[290]: 225416.37931ns
+EndToEnd Delay avg Node[291]: 1349146.70968ns
+EndToEnd Delay avg Node[292]: 1449988.31579ns
+EndToEnd Delay avg Node[293]: 179679.051724ns
+EndToEnd Delay avg Node[294]: 367563.568966ns
+EndToEnd Delay avg Node[295]: 342423.465517ns
+EndToEnd Delay avg Node[296]: 271270.931034ns
+EndToEnd Delay avg Node[297]: 912572.862069ns
+EndToEnd Delay avg Node[298]: 2663991.5ns
+EndToEnd Delay avg Node[299]: 423057.057692ns
+EndToEnd Delay avg Node[300]: 553522.875ns
+EndToEnd Delay avg Node[301]: 471476.637931ns
+EndToEnd Delay avg Node[302]: 2472323.0ns
+EndToEnd Delay avg Node[303]: 180757.310345ns
+EndToEnd Delay avg Node[304]: 350025.517241ns
+EndToEnd Delay avg Node[305]: 1541219.16667ns
+EndToEnd Delay avg Node[306]: 406517.689655ns
+EndToEnd Delay avg Node[307]: 2632055.48387ns
+EndToEnd Delay avg Node[308]: 1613721.71429ns
+EndToEnd Delay avg Node[309]: 416739.086207ns
+EndToEnd Delay avg Node[310]: 731054.363636ns
+EndToEnd Delay avg Node[311]: 1892483.0ns
+EndToEnd Delay avg Node[312]: 188999.241379ns
+EndToEnd Delay avg Node[313]: 580757.884615ns
+EndToEnd Delay avg Node[314]: 176894.568966ns
+EndToEnd Delay avg Node[315]: 436195.741379ns
+EndToEnd Delay avg Node[316]: 348769.637931ns
+EndToEnd Delay avg Node[317]: 281009.310345ns
+EndToEnd Delay avg Node[318]: 412772.37931ns
+EndToEnd Delay avg Node[319]: 2418104.6ns
+EndToEnd Delay avg Node[320]: 0ns
+EndToEnd Delay avg Node[321]: 1580272.92105ns
+EndToEnd Delay avg Node[322]: 263762.145833ns
+EndToEnd Delay avg Node[323]: 1557029.90323ns
+EndToEnd Delay avg Node[324]: 491818.365854ns
+EndToEnd Delay avg Node[325]: 208214.734694ns
+EndToEnd Delay avg Node[326]: 357388.413793ns
+EndToEnd Delay avg Node[327]: 190885.482759ns
+EndToEnd Delay avg Node[328]: 196910.086207ns
+EndToEnd Delay avg Node[329]: 707921.068966ns
+EndToEnd Delay avg Node[330]: 217301.362069ns
+EndToEnd Delay avg Node[331]: 476988.758621ns
+EndToEnd Delay avg Node[332]: 980734.724138ns
+EndToEnd Delay avg Node[333]: 660004.327586ns
+EndToEnd Delay avg Node[334]: 182327.155172ns
+EndToEnd Delay avg Node[335]: 290548.85ns
+EndToEnd Delay avg Node[336]: 253761.844828ns
+EndToEnd Delay avg Node[337]: 513229.333333ns
+EndToEnd Delay avg Node[338]: 442765.37931ns
+EndToEnd Delay avg Node[339]: 0ns
+EndToEnd Delay avg Node[340]: 1400468.12821ns
+EndToEnd Delay avg Node[341]: 349472.689655ns
+EndToEnd Delay avg Node[342]: 385358.682927ns
+EndToEnd Delay avg Node[343]: 440289.105263ns
+EndToEnd Delay avg Node[344]: 207864.172414ns
+EndToEnd Delay avg Node[345]: 569953.729167ns
+EndToEnd Delay avg Node[346]: 388027.586207ns
+EndToEnd Delay avg Node[347]: 449264.465517ns
+EndToEnd Delay avg Node[348]: 172025.034483ns
+EndToEnd Delay avg Node[349]: 2068932.28571ns
+EndToEnd Delay avg Node[350]: 1425477.45ns
+EndToEnd Delay avg Node[351]: 680575.315789ns
+EndToEnd Delay avg Node[352]: 773769.137931ns
+EndToEnd Delay avg Node[353]: 467951.534483ns
+EndToEnd Delay avg Node[354]: 591638.092593ns
+EndToEnd Delay avg Node[355]: 246994.603448ns
+EndToEnd Delay avg Node[356]: 294484.431034ns
+EndToEnd Delay avg Node[357]: 258938.137931ns
+EndToEnd Delay avg Node[358]: 335998.793103ns
+EndToEnd Delay avg Node[359]: 200054.137931ns
+EndToEnd Delay avg Node[360]: 208967.465517ns
+EndToEnd Delay avg Node[361]: 423503.45ns
+EndToEnd Delay avg Node[362]: 1746193.31579ns
+EndToEnd Delay avg Node[363]: 191709.103448ns
+EndToEnd Delay avg Node[364]: 209236.413793ns
+EndToEnd Delay avg Node[365]: 259160.689655ns
+EndToEnd Delay avg Node[366]: 1289072.125ns
+EndToEnd Delay avg Node[367]: 812683.857143ns
+EndToEnd Delay avg Node[368]: 281877.448276ns
+EndToEnd Delay avg Node[369]: 178683.258621ns
+EndToEnd Delay avg Node[370]: 418017.913793ns
+EndToEnd Delay avg Node[371]: 396563.965517ns
+EndToEnd Delay avg Node[372]: 0ns
+EndToEnd Delay avg Node[373]: 215445.017241ns
+EndToEnd Delay avg Node[374]: 348071.206897ns
+EndToEnd Delay avg Node[375]: 226260.12069ns
+EndToEnd Delay avg Node[376]: 237478.293103ns
+EndToEnd Delay avg Node[377]: 350346.086207ns
+EndToEnd Delay avg Node[378]: 175231.086207ns
+EndToEnd Delay avg Node[379]: 1015172.83929ns
+EndToEnd Delay avg Node[380]: 509833.258621ns
+EndToEnd Delay avg Node[381]: 1190428.34ns
+EndToEnd Delay avg Node[382]: 197906.0ns
+EndToEnd Delay avg Node[383]: 185855.482759ns
+EndToEnd Delay avg Node[384]: 476174.586207ns
+EndToEnd Delay avg Node[385]: 223200.172414ns
+EndToEnd Delay avg Node[386]: 3218533.94118ns
+EndToEnd Delay avg Node[387]: 477415.584906ns
+EndToEnd Delay avg Node[388]: 629525.293103ns
+EndToEnd Delay avg Node[389]: 2898772.65ns
+EndToEnd Delay avg Node[390]: 796033.333333ns
+EndToEnd Delay avg Node[391]: 3671279.0ns
+EndToEnd Delay avg Node[392]: 316568.706897ns
+EndToEnd Delay avg Node[393]: 453817.5ns
+EndToEnd Delay avg Node[394]: 215712.706897ns
+EndToEnd Delay avg Node[395]: 836106.777778ns
+EndToEnd Delay avg Node[396]: 257641.758621ns
+EndToEnd Delay avg Node[397]: 348870.689655ns
+EndToEnd Delay avg Node[398]: 440732.2ns
+EndToEnd Delay avg Node[399]: 272348.333333ns
+EndToEnd Delay avg Node[400]: 823944.673913ns
+EndToEnd Delay avg Node[401]: 403636.821429ns
+EndToEnd Delay avg Node[402]: 172221.034483ns
+EndToEnd Delay avg Node[403]: 286782.115385ns
+EndToEnd Delay avg Node[404]: 323822.206897ns
+EndToEnd Delay avg Node[405]: 358228.655172ns
+EndToEnd Delay avg Node[406]: 172169.034483ns
+EndToEnd Delay avg Node[407]: 273240.068966ns
+EndToEnd Delay avg Node[408]: 597762.862069ns
+EndToEnd Delay avg Node[409]: 177088.12069ns
+EndToEnd Delay avg Node[410]: 172165.034483ns
+EndToEnd Delay avg Node[411]: 175376.482759ns
+EndToEnd Delay avg Node[412]: 481307.27907ns
+EndToEnd Delay avg Node[413]: 188411.706897ns
+EndToEnd Delay avg Node[414]: 223647.931034ns
+EndToEnd Delay avg Node[415]: 196002.965517ns
+EndToEnd Delay avg Node[416]: 348438.896552ns
+EndToEnd Delay avg Node[417]: 257781.827586ns
+EndToEnd Delay avg Node[418]: 560517.172414ns
+EndToEnd Delay avg Node[419]: 0ns
+EndToEnd Delay avg Node[420]: 1403866.0ns
+EndToEnd Delay avg Node[421]: 262290.827586ns
+EndToEnd Delay avg Node[422]: 345428.035088ns
+EndToEnd Delay avg Node[423]: 197963.931034ns
+EndToEnd Delay avg Node[424]: 172005.034483ns
+EndToEnd Delay avg Node[425]: 733967.957447ns
+EndToEnd Delay avg Node[426]: 709258.222222ns
+EndToEnd Delay avg Node[427]: 2010907.33333ns
+EndToEnd Delay avg Node[428]: 252535.931034ns
+EndToEnd Delay avg Node[429]: 3243206.0ns
+EndToEnd Delay avg Node[430]: 186606.465517ns
+EndToEnd Delay avg Node[431]: 3400179.47619ns
+EndToEnd Delay avg Node[432]: 1677881.25ns
+EndToEnd Delay avg Node[433]: 320515.618182ns
+EndToEnd Delay avg Node[434]: 321200.578947ns
+EndToEnd Delay avg Node[435]: 487614.689655ns
+EndToEnd Delay avg Node[436]: 497865.714286ns
+EndToEnd Delay avg Node[437]: 201363.137931ns
+EndToEnd Delay avg Node[438]: 217701.327586ns
+EndToEnd Delay avg Node[439]: 180738.362069ns
+EndToEnd Delay avg Node[440]: 847483.352941ns
+EndToEnd Delay avg Node[441]: 326081.586207ns
+EndToEnd Delay avg Node[442]: 213089.37931ns
+EndToEnd Delay avg Node[443]: 351560.701754ns
+EndToEnd Delay avg Node[444]: 303528.517241ns
+EndToEnd Delay avg Node[445]: 390503.224138ns
+EndToEnd Delay avg Node[446]: 388510.318182ns
+EndToEnd Delay avg Node[447]: 601080.965517ns
+EndToEnd Delay avg Node[448]: 336622.431034ns
+EndToEnd Delay avg Node[449]: 764399.183673ns
+EndToEnd Delay avg Node[450]: 439727.867925ns
+EndToEnd Delay avg Node[451]: 179517.827586ns
+EndToEnd Delay avg Node[452]: 242358.517241ns
+EndToEnd Delay avg Node[453]: 172177.034483ns
+EndToEnd Delay avg Node[454]: 339713.961538ns
+EndToEnd Delay avg Node[455]: 1628691.96364ns
+EndToEnd Delay avg Node[456]: 962179.741379ns
+EndToEnd Delay avg Node[457]: 942894.089286ns
+EndToEnd Delay avg Node[458]: 423854.862069ns
+EndToEnd Delay avg Node[459]: 410475.666667ns
+EndToEnd Delay avg Node[460]: 402929.519231ns
+EndToEnd Delay avg Node[461]: 334946.482759ns
+EndToEnd Delay avg Node[462]: 856902.722222ns
+EndToEnd Delay avg Node[463]: 883776.745455ns
+EndToEnd Delay avg Node[464]: 1044501.56897ns
+EndToEnd Delay avg Node[465]: 347070.068966ns
+EndToEnd Delay avg Node[466]: 230661.448276ns
+EndToEnd Delay avg Node[467]: 172033.034483ns
+EndToEnd Delay avg Node[468]: 262200.275862ns
+EndToEnd Delay avg Node[469]: 209230.413793ns
+EndToEnd Delay avg Node[470]: 1093191.04762ns
+EndToEnd Delay avg Node[471]: 216337.103448ns
+EndToEnd Delay avg Node[472]: 205803.068966ns
+EndToEnd Delay avg Node[473]: 172093.034483ns
+EndToEnd Delay avg Node[474]: 697343.142857ns
+EndToEnd Delay avg Node[475]: 193362.827586ns
+EndToEnd Delay avg Node[476]: 172059.034483ns
+EndToEnd Delay avg Node[477]: 664883.034483ns
+EndToEnd Delay avg Node[478]: 388065.22449ns
+EndToEnd Delay avg Node[479]: 1479802.71429ns
+EndToEnd Delay avg Node[480]: 282029.5ns
+EndToEnd Delay avg Node[481]: 209218.413793ns
+EndToEnd Delay avg Node[482]: 1152630.54ns
+EndToEnd Delay avg Node[483]: 436405.142857ns
+EndToEnd Delay avg Node[484]: 225944.333333ns
+EndToEnd Delay avg Node[485]: 1061742.125ns
+EndToEnd Delay avg Node[486]: 1432751.82456ns
+EndToEnd Delay avg Node[487]: 613016.586207ns
+EndToEnd Delay avg Node[488]: 209202.413793ns
+EndToEnd Delay avg Node[489]: 344971.625ns
+EndToEnd Delay avg Node[490]: 1200553.5ns
+EndToEnd Delay avg Node[491]: 701559.207547ns
+EndToEnd Delay avg Node[492]: 768639.62069ns
+EndToEnd Delay avg Node[493]: 179734.051724ns
+EndToEnd Delay avg Node[494]: 557364.696429ns
+EndToEnd Delay avg Node[495]: 217300.896552ns
+EndToEnd Delay avg Node[496]: 177578.62069ns
+EndToEnd Delay avg Node[497]: 699689.964286ns
+EndToEnd Delay avg Node[498]: 315309.172414ns
+EndToEnd Delay avg Node[499]: 366505.551724ns
+EndToEnd Delay avg Node[500]: 183458.293103ns
+EndToEnd Delay avg Node[501]: 0ns
+EndToEnd Delay avg Node[502]: 275247.035088ns
+EndToEnd Delay avg Node[503]: 2322316.27778ns
+EndToEnd Delay avg Node[504]: 173460.086207ns
+EndToEnd Delay avg Node[505]: 197645.103448ns
+EndToEnd Delay avg Node[506]: 561768.482759ns
+EndToEnd Delay avg Node[507]: 470174.793103ns
+EndToEnd Delay avg Node[508]: 217392.275862ns
+EndToEnd Delay avg Node[509]: 205369.137931ns
+EndToEnd Delay avg Node[510]: 575890.5ns
+EndToEnd Delay avg Node[511]: 1372819.5ns
+EndToEnd Delay avg Node[512]: 232838.62069ns
+EndToEnd Delay avg Node[513]: 209076.62069ns
+EndToEnd Delay avg Node[514]: 2254232.26471ns
+EndToEnd Delay avg Node[515]: 401113.275862ns
+EndToEnd Delay avg Node[516]: 3383356.0ns
+EndToEnd Delay avg Node[517]: 210724.310345ns
+EndToEnd Delay avg Node[518]: 830734.589744ns
+EndToEnd Delay avg Node[519]: 343773.655172ns
+EndToEnd Delay avg Node[520]: 1696128.20455ns
+EndToEnd Delay avg Node[521]: 217094.068966ns
+EndToEnd Delay avg Node[522]: 281923.689655ns
+EndToEnd Delay avg Node[523]: 177588.62069ns
+EndToEnd Delay avg Node[524]: 194853.310345ns
+EndToEnd Delay avg Node[525]: 218727.965517ns
+EndToEnd Delay avg Node[526]: 267314.395349ns
+EndToEnd Delay avg Node[527]: 172075.034483ns
+EndToEnd Delay avg Node[528]: 3374955.7ns
+EndToEnd Delay avg Node[529]: 252589.172414ns
+EndToEnd Delay avg Node[530]: 0ns
+EndToEnd Delay avg Node[531]: 202536.551724ns
+EndToEnd Delay avg Node[532]: 172085.034483ns
+EndToEnd Delay avg Node[533]: 308762.1ns
+EndToEnd Delay avg Node[534]: 324381.207547ns
+EndToEnd Delay avg Node[535]: 209210.413793ns
+EndToEnd Delay avg Node[536]: 1351393.03704ns
+EndToEnd Delay avg Node[537]: 171931.034483ns
+EndToEnd Delay avg Node[538]: 896251.155172ns
+EndToEnd Delay avg Node[539]: 323974.551724ns
+EndToEnd Delay avg Node[540]: 218455.689655ns
+EndToEnd Delay avg Node[541]: 875528.555556ns
+EndToEnd Delay avg Node[542]: 351419.551724ns
+EndToEnd Delay avg Node[543]: 172131.034483ns
+EndToEnd Delay avg Node[544]: 2712607.0ns
+EndToEnd Delay avg Node[545]: 1909868.91667ns
+EndToEnd Delay avg Node[546]: 275073.87931ns
+EndToEnd Delay avg Node[547]: 461197.229167ns
+EndToEnd Delay avg Node[548]: 392250.913793ns
+EndToEnd Delay avg Node[549]: 377019.634615ns
+EndToEnd Delay avg Node[550]: 2660733.77778ns
+EndToEnd Delay avg Node[551]: 2270977.0ns
+EndToEnd Delay avg Node[552]: 319367.793103ns
+EndToEnd Delay avg Node[553]: 274663.473684ns
+EndToEnd Delay avg Node[554]: 573136.509091ns
+EndToEnd Delay avg Node[555]: 171955.034483ns
+EndToEnd Delay avg Node[556]: 423899.913793ns
+EndToEnd Delay avg Node[557]: 540945.087719ns
+EndToEnd Delay avg Node[558]: 175313.103448ns
+EndToEnd Delay avg Node[559]: 339025.041667ns
+EndToEnd Delay avg Node[560]: 341439.275862ns
+EndToEnd Delay avg Node[561]: 206338.827586ns
+EndToEnd Delay avg Node[562]: 584004.982759ns
+EndToEnd Delay avg Node[563]: 177604.62069ns
+EndToEnd Delay avg Node[564]: 1236075.53333ns
+EndToEnd Delay avg Node[565]: 1081752.96226ns
+EndToEnd Delay avg Node[566]: 497289.285714ns
+EndToEnd Delay avg Node[567]: 301021.541667ns
+EndToEnd Delay avg Node[568]: 841770.612245ns
+EndToEnd Delay avg Node[569]: 332847.068966ns
+EndToEnd Delay avg Node[570]: 4148661.0ns
+EndToEnd Delay avg Node[571]: 4638736.44444ns
+EndToEnd Delay avg Node[572]: 609721.75ns
+EndToEnd Delay avg Node[573]: 795276.148148ns
+EndToEnd Delay avg Node[574]: 239512.362069ns
+EndToEnd Delay avg Node[575]: 761966.241379ns
+EndToEnd Delay avg Node[576]: 949664.75ns
+EndToEnd Delay avg Node[577]: 183058.568966ns
+EndToEnd Delay avg Node[578]: 344371.137931ns
+EndToEnd Delay avg Node[579]: 189306.0ns
+EndToEnd Delay avg Node[580]: 359410.103448ns
+EndToEnd Delay avg Node[581]: 336103.510204ns
+EndToEnd Delay avg Node[582]: 243380.862069ns
+EndToEnd Delay avg Node[583]: 315550.76ns
+EndToEnd Delay avg Node[584]: 334055.473684ns
+EndToEnd Delay avg Node[585]: 232395.068966ns
+EndToEnd Delay avg Node[586]: 172059.034483ns
+EndToEnd Delay avg Node[587]: 975920.465517ns
+EndToEnd Delay avg Node[588]: 278819.446429ns
+EndToEnd Delay avg Node[589]: 643889.837838ns
+EndToEnd Delay avg Node[590]: 585622.3125ns
+EndToEnd Delay avg Node[591]: 172011.034483ns
+EndToEnd Delay avg Node[592]: 209210.413793ns
+EndToEnd Delay avg Node[593]: 247476.192308ns
+EndToEnd Delay avg Node[594]: 188935.241379ns
+EndToEnd Delay avg Node[595]: 480585.232143ns
+EndToEnd Delay avg Node[596]: 1264713.45238ns
+EndToEnd Delay avg Node[597]: 3175836.0ns
+EndToEnd Delay avg Node[598]: 2778565.0ns
+EndToEnd Delay avg Node[599]: 436570.788462ns
+EndToEnd Delay avg Node[600]: 709649.87931ns
+EndToEnd Delay avg Node[601]: 288270.775862ns
+EndToEnd Delay avg Node[602]: 221619.775862ns
+EndToEnd Delay avg Node[603]: 172033.034483ns
+EndToEnd Delay avg Node[604]: 291052.327586ns
+EndToEnd Delay avg Node[605]: 251913.534483ns
+EndToEnd Delay avg Node[606]: 288598.0ns
+EndToEnd Delay avg Node[607]: 355298.206897ns
+EndToEnd Delay avg Node[608]: 380901.655172ns
+EndToEnd Delay avg Node[609]: 368584.068966ns
+EndToEnd Delay avg Node[610]: 322997.673077ns
+EndToEnd Delay avg Node[611]: 261986.241379ns
+EndToEnd Delay avg Node[612]: 450357.673913ns
+EndToEnd Delay avg Node[613]: 172107.034483ns
+EndToEnd Delay avg Node[614]: 177592.62069ns
+EndToEnd Delay avg Node[615]: 272960.896552ns
+EndToEnd Delay avg Node[616]: 172033.034483ns
+EndToEnd Delay avg Node[617]: 246356.844828ns
+EndToEnd Delay avg Node[618]: 172919.103448ns
+EndToEnd Delay avg Node[619]: 219488.068966ns
+EndToEnd Delay avg Node[620]: 2502595.0ns
+EndToEnd Delay avg Node[621]: 172209.034483ns
+EndToEnd Delay avg Node[622]: 172097.034483ns
+EndToEnd Delay avg Node[623]: 355548.442308ns
+EndToEnd Delay avg Node[624]: 172189.034483ns
+EndToEnd Delay avg Node[625]: 2577980.0ns
+EndToEnd Delay avg Node[626]: 695976.315789ns
+EndToEnd Delay avg Node[627]: 1453935.18519ns
+EndToEnd Delay avg Node[628]: 385197.275862ns
+EndToEnd Delay avg Node[629]: 188917.241379ns
+EndToEnd Delay avg Node[630]: 629080.327586ns
+EndToEnd Delay avg Node[631]: 209194.413793ns
+EndToEnd Delay avg Node[632]: 238589.448276ns
+EndToEnd Delay avg Node[633]: 209226.413793ns
+EndToEnd Delay avg Node[634]: 558301.088889ns
+EndToEnd Delay avg Node[635]: 396047.362069ns
+EndToEnd Delay avg Node[636]: 286530.655172ns
+EndToEnd Delay avg Node[637]: 345828.758621ns
+EndToEnd Delay avg Node[638]: 2215443.25ns
+EndToEnd Delay avg Node[639]: 175742.596491ns
+EndToEnd Delay avg Node[640]: 262309.103448ns
+EndToEnd Delay avg Node[641]: 997369.828571ns
+EndToEnd Delay avg Node[642]: 335343.155172ns
+EndToEnd Delay avg Node[643]: 210559.258621ns
+EndToEnd Delay avg Node[644]: 172055.034483ns
+EndToEnd Delay avg Node[645]: 392135.689655ns
+EndToEnd Delay avg Node[646]: 608372.189655ns
+EndToEnd Delay avg Node[647]: 172061.034483ns
+EndToEnd Delay avg Node[648]: 188969.241379ns
+EndToEnd Delay avg Node[649]: 209190.413793ns
+EndToEnd Delay avg Node[650]: 217482.482759ns
+EndToEnd Delay avg Node[651]: 177624.62069ns
+EndToEnd Delay avg Node[652]: 283684.103448ns
+EndToEnd Delay avg Node[653]: 232794.224138ns
+EndToEnd Delay avg Node[654]: 994081.0ns
+EndToEnd Delay avg Node[655]: 954169.634146ns
+EndToEnd Delay avg Node[656]: 351427.155172ns
+EndToEnd Delay avg Node[657]: 599281.769231ns
+EndToEnd Delay avg Node[658]: 467788.051724ns
+EndToEnd Delay avg Node[659]: 1257287.77586ns
+EndToEnd Delay avg Node[660]: 1035596.76923ns
+EndToEnd Delay avg Node[661]: 223854.586207ns
+EndToEnd Delay avg Node[662]: 766200.732143ns
+EndToEnd Delay avg Node[663]: 1774843.5625ns
+EndToEnd Delay avg Node[664]: 476622.37931ns
+EndToEnd Delay avg Node[665]: 0ns
+EndToEnd Delay avg Node[666]: 1868205.69091ns
+EndToEnd Delay avg Node[667]: 401299.758621ns
+EndToEnd Delay avg Node[668]: 379823.12069ns
+EndToEnd Delay avg Node[669]: 1194872.0ns
+EndToEnd Delay avg Node[670]: 1450600.47826ns
+EndToEnd Delay avg Node[671]: 976454.258621ns
+EndToEnd Delay avg Node[672]: 952985.0ns
+EndToEnd Delay avg Node[673]: 949446.0ns
+EndToEnd Delay avg Node[674]: 177210.224138ns
+EndToEnd Delay avg Node[675]: 192486.258621ns
+EndToEnd Delay avg Node[676]: 274603.754386ns
+EndToEnd Delay avg Node[677]: 172129.034483ns
+EndToEnd Delay avg Node[678]: 369803.608696ns
+EndToEnd Delay avg Node[679]: 401859.637931ns
+EndToEnd Delay avg Node[680]: 698678.444444ns
+EndToEnd Delay avg Node[681]: 954912.327586ns
+EndToEnd Delay avg Node[682]: 172085.034483ns
+EndToEnd Delay avg Node[683]: 0ns
+EndToEnd Delay avg Node[684]: 288573.586207ns
+EndToEnd Delay avg Node[685]: 216820.827586ns
+EndToEnd Delay avg Node[686]: 185154.87931ns
+EndToEnd Delay avg Node[687]: 172075.034483ns
+EndToEnd Delay avg Node[688]: 412464.926829ns
+EndToEnd Delay avg Node[689]: 344634.166667ns
+EndToEnd Delay avg Node[690]: 506384.480769ns
+EndToEnd Delay avg Node[691]: 380894.105263ns
+EndToEnd Delay avg Node[692]: 228305.293103ns
+EndToEnd Delay avg Node[693]: 1380529.43137ns
+EndToEnd Delay avg Node[694]: 475220.125ns
+EndToEnd Delay avg Node[695]: 239699.155172ns
+EndToEnd Delay avg Node[696]: 442443.724138ns
+EndToEnd Delay avg Node[697]: 1209706.31034ns
+EndToEnd Delay avg Node[698]: 184277.413793ns
+EndToEnd Delay avg Node[699]: 433449.241379ns
+EndToEnd Delay avg Node[700]: 172161.034483ns
+EndToEnd Delay avg Node[701]: 292790.62069ns
+EndToEnd Delay avg Node[702]: 575207.306122ns
+EndToEnd Delay avg Node[703]: 172023.034483ns
+EndToEnd Delay avg Node[704]: 191105.051724ns
+EndToEnd Delay avg Node[705]: 611998.413793ns
+EndToEnd Delay avg Node[706]: 354776.6ns
+EndToEnd Delay avg Node[707]: 299138.655172ns
+EndToEnd Delay avg Node[708]: 365455.586207ns
+EndToEnd Delay avg Node[709]: 337442.358491ns
+EndToEnd Delay avg Node[710]: 176269.206897ns
+EndToEnd Delay avg Node[711]: 1730041.90385ns
+EndToEnd Delay avg Node[712]: 210861.362069ns
+EndToEnd Delay avg Node[713]: 515819.636364ns
+EndToEnd Delay avg Node[714]: 188338.534483ns
+EndToEnd Delay avg Node[715]: 172125.034483ns
+EndToEnd Delay avg Node[716]: 420886.810345ns
+EndToEnd Delay avg Node[717]: 401426.293103ns
+EndToEnd Delay avg Node[718]: 296720.103448ns
+EndToEnd Delay avg Node[719]: 190194.706897ns
+EndToEnd Delay avg Node[720]: 390633.15ns
+EndToEnd Delay avg Node[721]: 213975.396552ns
+EndToEnd Delay avg Node[722]: 277982.689655ns
+EndToEnd Delay avg Node[723]: 289991.842105ns
+EndToEnd Delay avg Node[724]: 845694.395349ns
+EndToEnd Delay avg Node[725]: 171977.034483ns
+EndToEnd Delay avg Node[726]: 651313.5ns
+EndToEnd Delay avg Node[727]: 361316.689655ns
+EndToEnd Delay avg Node[728]: 953984.068966ns
+EndToEnd Delay avg Node[729]: 699945.176471ns
+EndToEnd Delay avg Node[730]: 724867.913793ns
+EndToEnd Delay avg Node[731]: 304261.793103ns
+EndToEnd Delay avg Node[732]: 861412.574074ns
+EndToEnd Delay avg Node[733]: 287151.362069ns
+EndToEnd Delay avg Node[734]: 1264193.18919ns
+EndToEnd Delay avg Node[735]: 378121.959184ns
+EndToEnd Delay avg Node[736]: 190265.603448ns
+EndToEnd Delay avg Node[737]: 351045.568966ns
+EndToEnd Delay avg Node[738]: 470586.224138ns
+EndToEnd Delay avg Node[739]: 331918.413793ns
+EndToEnd Delay avg Node[740]: 172175.034483ns
+EndToEnd Delay avg Node[741]: 652355.724138ns
+EndToEnd Delay avg Node[742]: 663014.04ns
+EndToEnd Delay avg Node[743]: 218770.310345ns
+EndToEnd Delay avg Node[744]: 218550.551724ns
+EndToEnd Delay avg Node[745]: 190387.241379ns
+EndToEnd Delay avg Node[746]: 0ns
+EndToEnd Delay avg Node[747]: 172159.034483ns
+EndToEnd Delay avg Node[748]: 238636.672414ns
+EndToEnd Delay avg Node[749]: 3544396.1875ns
+EndToEnd Delay avg Node[750]: 292482.176471ns
+EndToEnd Delay avg Node[751]: 361120.87931ns
+EndToEnd Delay avg Node[752]: 1263950.5ns
+EndToEnd Delay avg Node[753]: 172095.034483ns
+EndToEnd Delay avg Node[754]: 249244.482759ns
+EndToEnd Delay avg Node[755]: 323725.448276ns
+EndToEnd Delay avg Node[756]: 1453423.09524ns
+EndToEnd Delay avg Node[757]: 218271.333333ns
+EndToEnd Delay avg Node[758]: 749125.0625ns
+EndToEnd Delay avg Node[759]: 1206753.37931ns
+EndToEnd Delay avg Node[760]: 321094.086207ns
+EndToEnd Delay avg Node[761]: 709103.026316ns
+EndToEnd Delay avg Node[762]: 771340.058824ns
+EndToEnd Delay avg Node[763]: 2041281.8125ns
+EndToEnd Delay avg Node[764]: 217695.0ns
+EndToEnd Delay avg Node[765]: 323743.068966ns
+EndToEnd Delay avg Node[766]: 309745.35ns
+EndToEnd Delay avg Node[767]: 2728139.28571ns
+EndToEnd Delay avg Node[768]: 960876.421053ns
+EndToEnd Delay avg Node[769]: 365917.438596ns
+EndToEnd Delay avg Node[770]: 384299.155172ns
+EndToEnd Delay avg Node[771]: 586368.637931ns
+EndToEnd Delay avg Node[772]: 172017.034483ns
+EndToEnd Delay avg Node[773]: 519815.508772ns
+EndToEnd Delay avg Node[774]: 434563.157895ns
+EndToEnd Delay avg Node[775]: 209206.413793ns
+EndToEnd Delay avg Node[776]: 480116.627907ns
+EndToEnd Delay avg Node[777]: 400414.931034ns
+EndToEnd Delay avg Node[778]: 319782.673469ns
+EndToEnd Delay avg Node[779]: 382226.893617ns
+EndToEnd Delay avg Node[780]: 433019.089286ns
+EndToEnd Delay avg Node[781]: 2367241.84848ns
+EndToEnd Delay avg Node[782]: 504037.555556ns
+EndToEnd Delay avg Node[783]: 744341.796296ns
+EndToEnd Delay avg Node[784]: 172137.034483ns
+EndToEnd Delay avg Node[785]: 182538.672414ns
+EndToEnd Delay avg Node[786]: 173851.189655ns
+EndToEnd Delay avg Node[787]: 777726.189655ns
+EndToEnd Delay avg Node[788]: 287445.1875ns
+EndToEnd Delay avg Node[789]: 189382.931034ns
+EndToEnd Delay avg Node[790]: 337436.810345ns
+EndToEnd Delay avg Node[791]: 345585.655172ns
+EndToEnd Delay avg Node[792]: 454510.814815ns
+EndToEnd Delay avg Node[793]: 492813.0ns
+EndToEnd Delay avg Node[794]: 816860.568966ns
+EndToEnd Delay avg Node[795]: 276138.086207ns
+EndToEnd Delay avg Node[796]: 2058695.76923ns
+EndToEnd Delay avg Node[797]: 419700.478261ns
+EndToEnd Delay avg Node[798]: 1058606.52ns
+EndToEnd Delay avg Node[799]: 594186.54902ns
+EndToEnd Delay avg Node[800]: 2049894.0ns
+EndToEnd Delay avg Node[801]: 233303.034483ns
+EndToEnd Delay avg Node[802]: 1383404.32609ns
+EndToEnd Delay avg Node[803]: 1633847.06818ns
+EndToEnd Delay avg Node[804]: 184890.413793ns
+EndToEnd Delay avg Node[805]: 301860.931034ns
+EndToEnd Delay avg Node[806]: 259694.586207ns
+EndToEnd Delay avg Node[807]: 202800.741379ns
+EndToEnd Delay avg Node[808]: 172017.034483ns
+EndToEnd Delay avg Node[809]: 295063.775862ns
+EndToEnd Delay avg Node[810]: 288508.62069ns
+EndToEnd Delay avg Node[811]: 2603789.22222ns
+EndToEnd Delay avg Node[812]: 175896.482759ns
+EndToEnd Delay avg Node[813]: 217498.448276ns
+EndToEnd Delay avg Node[814]: 1219101.4ns
+EndToEnd Delay avg Node[815]: 217230.396552ns
+EndToEnd Delay avg Node[816]: 544755.277778ns
+EndToEnd Delay avg Node[817]: 1481797.19048ns
+EndToEnd Delay avg Node[818]: 298436.037037ns
+EndToEnd Delay avg Node[819]: 802080.727273ns
+EndToEnd Delay avg Node[820]: 269508.37931ns
+EndToEnd Delay avg Node[821]: 302638.017241ns
+EndToEnd Delay avg Node[822]: 269087.72549ns
+EndToEnd Delay avg Node[823]: 242493.862069ns
+EndToEnd Delay avg Node[824]: 335001.758621ns
+EndToEnd Delay avg Node[825]: 346168.854545ns
+EndToEnd Delay avg Node[826]: 172131.034483ns
+EndToEnd Delay avg Node[827]: 1439669.27273ns
+EndToEnd Delay avg Node[828]: 825667.28125ns
+EndToEnd Delay avg Node[829]: 341465.956522ns
+EndToEnd Delay avg Node[830]: 480052.2ns
+EndToEnd Delay avg Node[831]: 275386.396552ns
+EndToEnd Delay avg Node[832]: 0ns
+EndToEnd Delay avg Node[833]: 338772.327586ns
+EndToEnd Delay avg Node[834]: 374719.981818ns
+EndToEnd Delay avg Node[835]: 1298621.98246ns
+EndToEnd Delay avg Node[836]: 303883.689655ns
+EndToEnd Delay avg Node[837]: 671525.350877ns
+EndToEnd Delay avg Node[838]: 294290.12069ns
+EndToEnd Delay avg Node[839]: 250223.62963ns
+EndToEnd Delay avg Node[840]: 321099.931034ns
+EndToEnd Delay avg Node[841]: 833500.509434ns
+EndToEnd Delay avg Node[842]: 378132.929825ns
+EndToEnd Delay avg Node[843]: 363039.258621ns
+EndToEnd Delay avg Node[844]: 334565.034483ns
+EndToEnd Delay avg Node[845]: 1635275.25ns
+EndToEnd Delay avg Node[846]: 278511.055556ns
+EndToEnd Delay avg Node[847]: 1090625.60526ns
+EndToEnd Delay avg Node[848]: 382239.344828ns
+EndToEnd Delay avg Node[849]: 2221758.0ns
+EndToEnd Delay avg Node[850]: 456669.017241ns
+EndToEnd Delay avg Node[851]: 496535.705882ns
+EndToEnd Delay avg Node[852]: 619835.561404ns
+EndToEnd Delay avg Node[853]: 172057.034483ns
+EndToEnd Delay avg Node[854]: 351699.655172ns
+EndToEnd Delay avg Node[855]: 1140600.70175ns
+EndToEnd Delay avg Node[856]: 348214.775862ns
+EndToEnd Delay avg Node[857]: 220909.403509ns
+EndToEnd Delay avg Node[858]: 289377.736842ns
+EndToEnd Delay avg Node[859]: 329794.62069ns
+EndToEnd Delay avg Node[860]: 348927.068966ns
+EndToEnd Delay avg Node[861]: 333326.551724ns
+EndToEnd Delay avg Node[862]: 213979.810345ns
+EndToEnd Delay avg Node[863]: 338762.068966ns
+EndToEnd Delay avg Node[864]: 2454179.0ns
+EndToEnd Delay avg Node[865]: 1598694.08772ns
+EndToEnd Delay avg Node[866]: 224765.754386ns
+EndToEnd Delay avg Node[867]: 535903.068966ns
+EndToEnd Delay avg Node[868]: 256459.689655ns
+EndToEnd Delay avg Node[869]: 3246978.07143ns
+EndToEnd Delay avg Node[870]: 172219.034483ns
+EndToEnd Delay avg Node[871]: 235922.293103ns
+EndToEnd Delay avg Node[872]: 199119.517241ns
+EndToEnd Delay avg Node[873]: 290378.888889ns
+EndToEnd Delay avg Node[874]: 484616.588235ns
+EndToEnd Delay avg Node[875]: 344996.568182ns
+EndToEnd Delay avg Node[876]: 171975.034483ns
+EndToEnd Delay avg Node[877]: 414905.391304ns
+EndToEnd Delay avg Node[878]: 2254686.09756ns
+EndToEnd Delay avg Node[879]: 224862.758621ns
+EndToEnd Delay avg Node[880]: 193315.534483ns
+EndToEnd Delay avg Node[881]: 399314.086207ns
+EndToEnd Delay avg Node[882]: 175059.862069ns
+EndToEnd Delay avg Node[883]: 956656.833333ns
+EndToEnd Delay avg Node[884]: 511483.266667ns
+EndToEnd Delay avg Node[885]: 387879.275862ns
+EndToEnd Delay avg Node[886]: 233486.551724ns
+EndToEnd Delay avg Node[887]: 300077.285714ns
+EndToEnd Delay avg Node[888]: 255195.637931ns
+EndToEnd Delay avg Node[889]: 246726.448276ns
+EndToEnd Delay avg Node[890]: 314599.396552ns
+EndToEnd Delay avg Node[891]: 228476.293103ns
+EndToEnd Delay avg Node[892]: 172097.034483ns
+EndToEnd Delay avg Node[893]: 2163699.04348ns
+EndToEnd Delay avg Node[894]: 348648.87931ns
+EndToEnd Delay avg Node[895]: 172139.034483ns
+EndToEnd Delay avg Node[896]: 240271.568966ns
+EndToEnd Delay avg Node[897]: 1113499.17241ns
+EndToEnd Delay avg Node[898]: 415623.775862ns
+EndToEnd Delay avg Node[899]: 1548446.89796ns
+EndToEnd Delay avg Node[900]: 172047.034483ns
+EndToEnd Delay avg Node[901]: 368866.941176ns
+EndToEnd Delay avg Node[902]: 172115.034483ns
+EndToEnd Delay avg Node[903]: 208389.275862ns
+EndToEnd Delay avg Node[904]: 278136.811321ns
+EndToEnd Delay avg Node[905]: 417723.933333ns
+EndToEnd Delay avg Node[906]: 506335.724138ns
+EndToEnd Delay avg Node[907]: 223229.785714ns
+EndToEnd Delay avg Node[908]: 390700.172414ns
+EndToEnd Delay avg Node[909]: 172035.034483ns
+EndToEnd Delay avg Node[910]: 172165.034483ns
+EndToEnd Delay avg Node[911]: 1394006.92982ns
+EndToEnd Delay avg Node[912]: 581204.894737ns
+EndToEnd Delay avg Node[913]: 196744.568966ns
+EndToEnd Delay avg Node[914]: 384513.241379ns
+EndToEnd Delay avg Node[915]: 265641.568966ns
+EndToEnd Delay avg Node[916]: 347008.339286ns
+EndToEnd Delay avg Node[917]: 971439.2ns
+EndToEnd Delay avg Node[918]: 306865.12069ns
+EndToEnd Delay avg Node[919]: 473059.086207ns
+EndToEnd Delay avg Node[920]: 1086933.45455ns
+EndToEnd Delay avg Node[921]: 451419.754386ns
+EndToEnd Delay avg Node[922]: 193410.551724ns
+EndToEnd Delay avg Node[923]: 364812.568966ns
+EndToEnd Delay avg Node[924]: 615388.333333ns
+EndToEnd Delay avg Node[925]: 338124.666667ns
+EndToEnd Delay avg Node[926]: 199399.793103ns
+EndToEnd Delay avg Node[927]: 207447.697674ns
+EndToEnd Delay avg Node[928]: 1434576.3ns
+EndToEnd Delay avg Node[929]: 593990.103448ns
+EndToEnd Delay avg Node[930]: 655225.88ns
+EndToEnd Delay avg Node[931]: 199307.396552ns
+EndToEnd Delay avg Node[932]: 410067.051724ns
+EndToEnd Delay avg Node[933]: 171979.034483ns
+EndToEnd Delay avg Node[934]: 213878.0ns
+EndToEnd Delay avg Node[935]: 1183624.51724ns
+EndToEnd Delay avg Node[936]: 662231.017241ns
+EndToEnd Delay avg Node[937]: 199548.275862ns
+EndToEnd Delay avg Node[938]: 842140.551724ns
+EndToEnd Delay avg Node[939]: 207823.448276ns
+EndToEnd Delay avg Node[940]: 534997.362069ns
+EndToEnd Delay avg Node[941]: 229865.724138ns
+EndToEnd Delay avg Node[942]: 356819.534483ns
+EndToEnd Delay avg Node[943]: 811375.416667ns
+EndToEnd Delay avg Node[944]: 172878.741379ns
+EndToEnd Delay avg Node[945]: 360970.413793ns
+EndToEnd Delay avg Node[946]: 1659623.4386ns
+EndToEnd Delay avg Node[947]: 209252.413793ns
+EndToEnd Delay avg Node[948]: 177912.689655ns
+EndToEnd Delay avg Node[949]: 390930.965517ns
+EndToEnd Delay avg Node[950]: 682600.276596ns
+EndToEnd Delay avg Node[951]: 293276.068966ns
+EndToEnd Delay avg Node[952]: 421971.603448ns
+EndToEnd Delay avg Node[953]: 192284.293103ns
+EndToEnd Delay avg Node[954]: 451651.22807ns
+EndToEnd Delay avg Node[955]: 2018498.19231ns
+EndToEnd Delay avg Node[956]: 1175627.62069ns
+EndToEnd Delay avg Node[957]: 175616.327586ns
+EndToEnd Delay avg Node[958]: 198027.0ns
+EndToEnd Delay avg Node[959]: 788257.756757ns
+EndToEnd Delay avg Node[960]: 322411.54386ns
+EndToEnd Delay avg Node[961]: 786729.285714ns
+EndToEnd Delay avg Node[962]: 177582.62069ns
+EndToEnd Delay avg Node[963]: 180380.327586ns
+EndToEnd Delay avg Node[964]: 229363.517241ns
+EndToEnd Delay avg Node[965]: 188917.241379ns
+EndToEnd Delay avg Node[966]: 889733.947368ns
+EndToEnd Delay avg Node[967]: 1636720.11765ns
+EndToEnd Delay avg Node[968]: 940818.844828ns
+EndToEnd Delay avg Node[969]: 644002.2ns
+EndToEnd Delay avg Node[970]: 195812.793103ns
+EndToEnd Delay avg Node[971]: 333089.929825ns
+EndToEnd Delay avg Node[972]: 172117.034483ns
+EndToEnd Delay avg Node[973]: 172119.034483ns
+EndToEnd Delay avg Node[974]: 377543.551724ns
+EndToEnd Delay avg Node[975]: 399053.465517ns
+EndToEnd Delay avg Node[976]: 266014.326531ns
+EndToEnd Delay avg Node[977]: 188965.241379ns
+EndToEnd Delay avg Node[978]: 309985.0ns
+EndToEnd Delay avg Node[979]: 418554.62069ns
+EndToEnd Delay avg Node[980]: 961058.913043ns
+EndToEnd Delay avg Node[981]: 201989.293103ns
+EndToEnd Delay avg Node[982]: 191354.758621ns
+EndToEnd Delay avg Node[983]: 862805.354167ns
+EndToEnd Delay avg Node[984]: 2241330.0ns
+EndToEnd Delay avg Node[985]: 2221866.22222ns
+EndToEnd Delay avg Node[986]: 1148232.09091ns
+EndToEnd Delay avg Node[987]: 201155.689655ns
+EndToEnd Delay avg Node[988]: 475040.222222ns
+EndToEnd Delay avg Node[989]: 1600132.23529ns
+EndToEnd Delay avg Node[990]: 536873.821429ns
+EndToEnd Delay avg Node[991]: 643584.754386ns
+EndToEnd Delay avg Node[992]: 215604.551724ns
+EndToEnd Delay avg Node[993]: 352962.590909ns
+EndToEnd Delay avg Node[994]: 251560.344828ns
+EndToEnd Delay avg Node[995]: 342379.448276ns
+EndToEnd Delay avg Node[996]: 512647.038462ns
+EndToEnd Delay avg Node[997]: 243404.62069ns
+EndToEnd Delay avg Node[998]: 558662.857143ns
+EndToEnd Delay avg Node[999]: 194360.827586ns

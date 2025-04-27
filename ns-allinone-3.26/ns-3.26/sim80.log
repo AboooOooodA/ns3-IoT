@@ -1,0 +1,19 @@
+Waf: Entering directory `/home/ben/ns3/ns-allinone-3.26/ns-3.26/build'
+Waf: Leaving directory `/home/ben/ns3/ns-allinone-3.26/ns-3.26/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (1.507s)
+Node[0]. Position(0,0,0)   Distance to Node 0: 0
+Node[1]. Position(-11.28,12.3651,0)   Distance to Node 0: 16.7372
+Node[2]. Position(90.3788,87.0716,0)   Distance to Node 0: 125.498
+Node[3]. Position(133.123,-123.526,0)   Distance to Node 0: 181.605
+Node[4]. Position(57.3611,-4.1875,0)   Distance to Node 0: 57.5138
+Node[5]. Position(-2.1495,-37.1396,0)   Distance to Node 0: 37.2017
+Node[6]. Position(34.1629,137.432,0)   Distance to Node 0: 141.614
+Node[7]. Position(138.583,-112.039,0)   Distance to Node 0: 178.207
+Node[8]. Position(25.5064,20.7987,0)   Distance to Node 0: 32.9115
+Node[9]. Position(-15.7185,-60.8586,0)   Distance to Node 0: 62.8557
+Node[10]. Position(58.0477,-179.102,0)   Distance to Node 0: 188.274
+Node[11]. Position(-69.4565,9.05198,0)   Distance to Node 0: 70.0439
+Node[12]. Position(42.6401,-162.43,0)   Distance to Node 0: 167.934
+Node[13]. Position(101.194,20.2975,0)   Distance to Node 0: 103.21
+Node[14]. Position(28.3385,18.07,0)   Distance to Node 0: 33.6094

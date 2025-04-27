@@ -1,0 +1,58 @@
+run CsmaNoAckSCRIPTN5D100M3P64T0.1seed1
+attr experiment "wifi-distance-test"
+attr strategy "wifi-default"
+attr measurement "100"
+attr description ""
+attr "author" "tjkopena"
+
+scalar . measurement "100"
+scalar . "author" "tjkopena"
+scalar node[1] avec nodeID: 1 wifi-tx-frames 295
+scalar node[2] avec nodeID: 2 wifi-tx-frames 295
+scalar node[3] avec nodeID: 3 wifi-tx-frames 296
+scalar node[4] avec nodeID: 4 wifi-tx-frames 295
+scalar node[0] wifi-rx-frames 1232
+scalar node[1] sender-tx-packets 294
+scalar node[2] sender-tx-packets 294
+scalar node[3] sender-tx-packets 295
+scalar node[4] sender-tx-packets 294
+scalar node[0] receiver-rx-packets 1228
+statistic node[1] tx-pkt-size
+field count 294
+field sum 25872
+field mean 88
+field min 88
+field max 88
+field sqrsum 2.27674e+06
+field stddev 0
+statistic node[2] tx-pkt-size
+field count 294
+field sum 25872
+field mean 88
+field min 88
+field max 88
+field sqrsum 2.27674e+06
+field stddev 0
+statistic node[3] tx-pkt-size
+field count 295
+field sum 25960
+field mean 88
+field min 88
+field max 88
+field sqrsum 2.28448e+06
+field stddev 0
+statistic node[4] tx-pkt-size
+field count 294
+field sum 25872
+field mean 88
+field min 88
+field max 88
+field sqrsum 2.27674e+06
+field stddev 0
+scalar . delay-count 1228
+scalar . delay-total 1651026268
+scalar . delay-average 1344483
+scalar . delay-max 54211984
+scalar . delay-min 228070
+
+

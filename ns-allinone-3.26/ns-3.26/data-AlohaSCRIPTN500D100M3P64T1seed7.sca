@@ -1,0 +1,5008 @@
+run AlohaSCRIPTN500D100M3P64T1seed7
+attr experiment "wifi-distance-test"
+attr strategy "wifi-default"
+attr measurement "100"
+attr description ""
+attr "author" "tjkopena"
+
+scalar . measurement "100"
+scalar . "author" "tjkopena"
+scalar node[1] avec nodeID: 1 wifi-tx-frames 31
+scalar node[2] avec nodeID: 2 wifi-tx-frames 31
+scalar node[3] avec nodeID: 3 wifi-tx-frames 31
+scalar node[4] avec nodeID: 4 wifi-tx-frames 31
+scalar node[5] avec nodeID: 5 wifi-tx-frames 31
+scalar node[6] avec nodeID: 6 wifi-tx-frames 31
+scalar node[7] avec nodeID: 7 wifi-tx-frames 31
+scalar node[8] avec nodeID: 8 wifi-tx-frames 31
+scalar node[9] avec nodeID: 9 wifi-tx-frames 31
+scalar node[10] avec nodeID: 10 wifi-tx-frames 31
+scalar node[11] avec nodeID: 11 wifi-tx-frames 31
+scalar node[12] avec nodeID: 12 wifi-tx-frames 31
+scalar node[13] avec nodeID: 13 wifi-tx-frames 31
+scalar node[14] avec nodeID: 14 wifi-tx-frames 31
+scalar node[15] avec nodeID: 15 wifi-tx-frames 31
+scalar node[16] avec nodeID: 16 wifi-tx-frames 31
+scalar node[17] avec nodeID: 17 wifi-tx-frames 31
+scalar node[18] avec nodeID: 18 wifi-tx-frames 31
+scalar node[19] avec nodeID: 19 wifi-tx-frames 31
+scalar node[20] avec nodeID: 20 wifi-tx-frames 31
+scalar node[21] avec nodeID: 21 wifi-tx-frames 31
+scalar node[22] avec nodeID: 22 wifi-tx-frames 31
+scalar node[23] avec nodeID: 23 wifi-tx-frames 31
+scalar node[24] avec nodeID: 24 wifi-tx-frames 31
+scalar node[25] avec nodeID: 25 wifi-tx-frames 31
+scalar node[26] avec nodeID: 26 wifi-tx-frames 31
+scalar node[27] avec nodeID: 27 wifi-tx-frames 31
+scalar node[28] avec nodeID: 28 wifi-tx-frames 31
+scalar node[29] avec nodeID: 29 wifi-tx-frames 31
+scalar node[30] avec nodeID: 30 wifi-tx-frames 31
+scalar node[31] avec nodeID: 31 wifi-tx-frames 31
+scalar node[32] avec nodeID: 32 wifi-tx-frames 31
+scalar node[33] avec nodeID: 33 wifi-tx-frames 31
+scalar node[34] avec nodeID: 34 wifi-tx-frames 31
+scalar node[35] avec nodeID: 35 wifi-tx-frames 31
+scalar node[36] avec nodeID: 36 wifi-tx-frames 31
+scalar node[37] avec nodeID: 37 wifi-tx-frames 31
+scalar node[38] avec nodeID: 38 wifi-tx-frames 31
+scalar node[39] avec nodeID: 39 wifi-tx-frames 31
+scalar node[40] avec nodeID: 40 wifi-tx-frames 31
+scalar node[41] avec nodeID: 41 wifi-tx-frames 31
+scalar node[42] avec nodeID: 42 wifi-tx-frames 31
+scalar node[43] avec nodeID: 43 wifi-tx-frames 31
+scalar node[44] avec nodeID: 44 wifi-tx-frames 31
+scalar node[45] avec nodeID: 45 wifi-tx-frames 31
+scalar node[46] avec nodeID: 46 wifi-tx-frames 31
+scalar node[47] avec nodeID: 47 wifi-tx-frames 31
+scalar node[48] avec nodeID: 48 wifi-tx-frames 31
+scalar node[49] avec nodeID: 49 wifi-tx-frames 31
+scalar node[50] avec nodeID: 50 wifi-tx-frames 31
+scalar node[51] avec nodeID: 51 wifi-tx-frames 31
+scalar node[52] avec nodeID: 52 wifi-tx-frames 31
+scalar node[53] avec nodeID: 53 wifi-tx-frames 31
+scalar node[54] avec nodeID: 54 wifi-tx-frames 31
+scalar node[55] avec nodeID: 55 wifi-tx-frames 31
+scalar node[56] avec nodeID: 56 wifi-tx-frames 31
+scalar node[57] avec nodeID: 57 wifi-tx-frames 31
+scalar node[58] avec nodeID: 58 wifi-tx-frames 31
+scalar node[59] avec nodeID: 59 wifi-tx-frames 31
+scalar node[60] avec nodeID: 60 wifi-tx-frames 31
+scalar node[61] avec nodeID: 61 wifi-tx-frames 31
+scalar node[62] avec nodeID: 62 wifi-tx-frames 31
+scalar node[63] avec nodeID: 63 wifi-tx-frames 31
+scalar node[64] avec nodeID: 64 wifi-tx-frames 31
+scalar node[65] avec nodeID: 65 wifi-tx-frames 31
+scalar node[66] avec nodeID: 66 wifi-tx-frames 31
+scalar node[67] avec nodeID: 67 wifi-tx-frames 31
+scalar node[68] avec nodeID: 68 wifi-tx-frames 31
+scalar node[69] avec nodeID: 69 wifi-tx-frames 31
+scalar node[70] avec nodeID: 70 wifi-tx-frames 31
+scalar node[71] avec nodeID: 71 wifi-tx-frames 31
+scalar node[72] avec nodeID: 72 wifi-tx-frames 31
+scalar node[73] avec nodeID: 73 wifi-tx-frames 31
+scalar node[74] avec nodeID: 74 wifi-tx-frames 31
+scalar node[75] avec nodeID: 75 wifi-tx-frames 31
+scalar node[76] avec nodeID: 76 wifi-tx-frames 31
+scalar node[77] avec nodeID: 77 wifi-tx-frames 31
+scalar node[78] avec nodeID: 78 wifi-tx-frames 31
+scalar node[79] avec nodeID: 79 wifi-tx-frames 31
+scalar node[80] avec nodeID: 80 wifi-tx-frames 31
+scalar node[81] avec nodeID: 81 wifi-tx-frames 31
+scalar node[82] avec nodeID: 82 wifi-tx-frames 31
+scalar node[83] avec nodeID: 83 wifi-tx-frames 31
+scalar node[84] avec nodeID: 84 wifi-tx-frames 31
+scalar node[85] avec nodeID: 85 wifi-tx-frames 31
+scalar node[86] avec nodeID: 86 wifi-tx-frames 31
+scalar node[87] avec nodeID: 87 wifi-tx-frames 31
+scalar node[88] avec nodeID: 88 wifi-tx-frames 31
+scalar node[89] avec nodeID: 89 wifi-tx-frames 31
+scalar node[90] avec nodeID: 90 wifi-tx-frames 31
+scalar node[91] avec nodeID: 91 wifi-tx-frames 31
+scalar node[92] avec nodeID: 92 wifi-tx-frames 31
+scalar node[93] avec nodeID: 93 wifi-tx-frames 31
+scalar node[94] avec nodeID: 94 wifi-tx-frames 31
+scalar node[95] avec nodeID: 95 wifi-tx-frames 31
+scalar node[96] avec nodeID: 96 wifi-tx-frames 31
+scalar node[97] avec nodeID: 97 wifi-tx-frames 31
+scalar node[98] avec nodeID: 98 wifi-tx-frames 31
+scalar node[99] avec nodeID: 99 wifi-tx-frames 31
+scalar node[100] avec nodeID: 100 wifi-tx-frames 31
+scalar node[101] avec nodeID: 101 wifi-tx-frames 31
+scalar node[102] avec nodeID: 102 wifi-tx-frames 31
+scalar node[103] avec nodeID: 103 wifi-tx-frames 31
+scalar node[104] avec nodeID: 104 wifi-tx-frames 31
+scalar node[105] avec nodeID: 105 wifi-tx-frames 31
+scalar node[106] avec nodeID: 106 wifi-tx-frames 31
+scalar node[107] avec nodeID: 107 wifi-tx-frames 31
+scalar node[108] avec nodeID: 108 wifi-tx-frames 31
+scalar node[109] avec nodeID: 109 wifi-tx-frames 31
+scalar node[110] avec nodeID: 110 wifi-tx-frames 31
+scalar node[111] avec nodeID: 111 wifi-tx-frames 31
+scalar node[112] avec nodeID: 112 wifi-tx-frames 31
+scalar node[113] avec nodeID: 113 wifi-tx-frames 31
+scalar node[114] avec nodeID: 114 wifi-tx-frames 31
+scalar node[115] avec nodeID: 115 wifi-tx-frames 31
+scalar node[116] avec nodeID: 116 wifi-tx-frames 31
+scalar node[117] avec nodeID: 117 wifi-tx-frames 31
+scalar node[118] avec nodeID: 118 wifi-tx-frames 31
+scalar node[119] avec nodeID: 119 wifi-tx-frames 31
+scalar node[120] avec nodeID: 120 wifi-tx-frames 31
+scalar node[121] avec nodeID: 121 wifi-tx-frames 31
+scalar node[122] avec nodeID: 122 wifi-tx-frames 31
+scalar node[123] avec nodeID: 123 wifi-tx-frames 31
+scalar node[124] avec nodeID: 124 wifi-tx-frames 31
+scalar node[125] avec nodeID: 125 wifi-tx-frames 31
+scalar node[126] avec nodeID: 126 wifi-tx-frames 31
+scalar node[127] avec nodeID: 127 wifi-tx-frames 31
+scalar node[128] avec nodeID: 128 wifi-tx-frames 31
+scalar node[129] avec nodeID: 129 wifi-tx-frames 31
+scalar node[130] avec nodeID: 130 wifi-tx-frames 31
+scalar node[131] avec nodeID: 131 wifi-tx-frames 31
+scalar node[132] avec nodeID: 132 wifi-tx-frames 31
+scalar node[133] avec nodeID: 133 wifi-tx-frames 31
+scalar node[134] avec nodeID: 134 wifi-tx-frames 31
+scalar node[135] avec nodeID: 135 wifi-tx-frames 31
+scalar node[136] avec nodeID: 136 wifi-tx-frames 31
+scalar node[137] avec nodeID: 137 wifi-tx-frames 31
+scalar node[138] avec nodeID: 138 wifi-tx-frames 31
+scalar node[139] avec nodeID: 139 wifi-tx-frames 31
+scalar node[140] avec nodeID: 140 wifi-tx-frames 31
+scalar node[141] avec nodeID: 141 wifi-tx-frames 31
+scalar node[142] avec nodeID: 142 wifi-tx-frames 31
+scalar node[143] avec nodeID: 143 wifi-tx-frames 31
+scalar node[144] avec nodeID: 144 wifi-tx-frames 31
+scalar node[145] avec nodeID: 145 wifi-tx-frames 31
+scalar node[146] avec nodeID: 146 wifi-tx-frames 31
+scalar node[147] avec nodeID: 147 wifi-tx-frames 31
+scalar node[148] avec nodeID: 148 wifi-tx-frames 31
+scalar node[149] avec nodeID: 149 wifi-tx-frames 31
+scalar node[150] avec nodeID: 150 wifi-tx-frames 31
+scalar node[151] avec nodeID: 151 wifi-tx-frames 31
+scalar node[152] avec nodeID: 152 wifi-tx-frames 31
+scalar node[153] avec nodeID: 153 wifi-tx-frames 31
+scalar node[154] avec nodeID: 154 wifi-tx-frames 31
+scalar node[155] avec nodeID: 155 wifi-tx-frames 31
+scalar node[156] avec nodeID: 156 wifi-tx-frames 31
+scalar node[157] avec nodeID: 157 wifi-tx-frames 31
+scalar node[158] avec nodeID: 158 wifi-tx-frames 31
+scalar node[159] avec nodeID: 159 wifi-tx-frames 31
+scalar node[160] avec nodeID: 160 wifi-tx-frames 31
+scalar node[161] avec nodeID: 161 wifi-tx-frames 31
+scalar node[162] avec nodeID: 162 wifi-tx-frames 31
+scalar node[163] avec nodeID: 163 wifi-tx-frames 31
+scalar node[164] avec nodeID: 164 wifi-tx-frames 31
+scalar node[165] avec nodeID: 165 wifi-tx-frames 31
+scalar node[166] avec nodeID: 166 wifi-tx-frames 31
+scalar node[167] avec nodeID: 167 wifi-tx-frames 31
+scalar node[168] avec nodeID: 168 wifi-tx-frames 31
+scalar node[169] avec nodeID: 169 wifi-tx-frames 31
+scalar node[170] avec nodeID: 170 wifi-tx-frames 31
+scalar node[171] avec nodeID: 171 wifi-tx-frames 31
+scalar node[172] avec nodeID: 172 wifi-tx-frames 31
+scalar node[173] avec nodeID: 173 wifi-tx-frames 31
+scalar node[174] avec nodeID: 174 wifi-tx-frames 31
+scalar node[175] avec nodeID: 175 wifi-tx-frames 31
+scalar node[176] avec nodeID: 176 wifi-tx-frames 31
+scalar node[177] avec nodeID: 177 wifi-tx-frames 31
+scalar node[178] avec nodeID: 178 wifi-tx-frames 31
+scalar node[179] avec nodeID: 179 wifi-tx-frames 31
+scalar node[180] avec nodeID: 180 wifi-tx-frames 31
+scalar node[181] avec nodeID: 181 wifi-tx-frames 31
+scalar node[182] avec nodeID: 182 wifi-tx-frames 31
+scalar node[183] avec nodeID: 183 wifi-tx-frames 31
+scalar node[184] avec nodeID: 184 wifi-tx-frames 31
+scalar node[185] avec nodeID: 185 wifi-tx-frames 31
+scalar node[186] avec nodeID: 186 wifi-tx-frames 31
+scalar node[187] avec nodeID: 187 wifi-tx-frames 31
+scalar node[188] avec nodeID: 188 wifi-tx-frames 31
+scalar node[189] avec nodeID: 189 wifi-tx-frames 31
+scalar node[190] avec nodeID: 190 wifi-tx-frames 31
+scalar node[191] avec nodeID: 191 wifi-tx-frames 31
+scalar node[192] avec nodeID: 192 wifi-tx-frames 31
+scalar node[193] avec nodeID: 193 wifi-tx-frames 31
+scalar node[194] avec nodeID: 194 wifi-tx-frames 31
+scalar node[195] avec nodeID: 195 wifi-tx-frames 31
+scalar node[196] avec nodeID: 196 wifi-tx-frames 31
+scalar node[197] avec nodeID: 197 wifi-tx-frames 31
+scalar node[198] avec nodeID: 198 wifi-tx-frames 31
+scalar node[199] avec nodeID: 199 wifi-tx-frames 31
+scalar node[200] avec nodeID: 200 wifi-tx-frames 31
+scalar node[201] avec nodeID: 201 wifi-tx-frames 31
+scalar node[202] avec nodeID: 202 wifi-tx-frames 31
+scalar node[203] avec nodeID: 203 wifi-tx-frames 31
+scalar node[204] avec nodeID: 204 wifi-tx-frames 31
+scalar node[205] avec nodeID: 205 wifi-tx-frames 31
+scalar node[206] avec nodeID: 206 wifi-tx-frames 31
+scalar node[207] avec nodeID: 207 wifi-tx-frames 31
+scalar node[208] avec nodeID: 208 wifi-tx-frames 31
+scalar node[209] avec nodeID: 209 wifi-tx-frames 31
+scalar node[210] avec nodeID: 210 wifi-tx-frames 31
+scalar node[211] avec nodeID: 211 wifi-tx-frames 31
+scalar node[212] avec nodeID: 212 wifi-tx-frames 31
+scalar node[213] avec nodeID: 213 wifi-tx-frames 31
+scalar node[214] avec nodeID: 214 wifi-tx-frames 31
+scalar node[215] avec nodeID: 215 wifi-tx-frames 31
+scalar node[216] avec nodeID: 216 wifi-tx-frames 31
+scalar node[217] avec nodeID: 217 wifi-tx-frames 31
+scalar node[218] avec nodeID: 218 wifi-tx-frames 31
+scalar node[219] avec nodeID: 219 wifi-tx-frames 31
+scalar node[220] avec nodeID: 220 wifi-tx-frames 31
+scalar node[221] avec nodeID: 221 wifi-tx-frames 31
+scalar node[222] avec nodeID: 222 wifi-tx-frames 31
+scalar node[223] avec nodeID: 223 wifi-tx-frames 31
+scalar node[224] avec nodeID: 224 wifi-tx-frames 31
+scalar node[225] avec nodeID: 225 wifi-tx-frames 31
+scalar node[226] avec nodeID: 226 wifi-tx-frames 31
+scalar node[227] avec nodeID: 227 wifi-tx-frames 31
+scalar node[228] avec nodeID: 228 wifi-tx-frames 31
+scalar node[229] avec nodeID: 229 wifi-tx-frames 31
+scalar node[230] avec nodeID: 230 wifi-tx-frames 31
+scalar node[231] avec nodeID: 231 wifi-tx-frames 31
+scalar node[232] avec nodeID: 232 wifi-tx-frames 31
+scalar node[233] avec nodeID: 233 wifi-tx-frames 31
+scalar node[234] avec nodeID: 234 wifi-tx-frames 31
+scalar node[235] avec nodeID: 235 wifi-tx-frames 31
+scalar node[236] avec nodeID: 236 wifi-tx-frames 31
+scalar node[237] avec nodeID: 237 wifi-tx-frames 31
+scalar node[238] avec nodeID: 238 wifi-tx-frames 31
+scalar node[239] avec nodeID: 239 wifi-tx-frames 31
+scalar node[240] avec nodeID: 240 wifi-tx-frames 31
+scalar node[241] avec nodeID: 241 wifi-tx-frames 31
+scalar node[242] avec nodeID: 242 wifi-tx-frames 31
+scalar node[243] avec nodeID: 243 wifi-tx-frames 31
+scalar node[244] avec nodeID: 244 wifi-tx-frames 31
+scalar node[245] avec nodeID: 245 wifi-tx-frames 31
+scalar node[246] avec nodeID: 246 wifi-tx-frames 31
+scalar node[247] avec nodeID: 247 wifi-tx-frames 31
+scalar node[248] avec nodeID: 248 wifi-tx-frames 31
+scalar node[249] avec nodeID: 249 wifi-tx-frames 31
+scalar node[250] avec nodeID: 250 wifi-tx-frames 31
+scalar node[251] avec nodeID: 251 wifi-tx-frames 31
+scalar node[252] avec nodeID: 252 wifi-tx-frames 31
+scalar node[253] avec nodeID: 253 wifi-tx-frames 31
+scalar node[254] avec nodeID: 254 wifi-tx-frames 31
+scalar node[255] avec nodeID: 255 wifi-tx-frames 31
+scalar node[256] avec nodeID: 256 wifi-tx-frames 31
+scalar node[257] avec nodeID: 257 wifi-tx-frames 31
+scalar node[258] avec nodeID: 258 wifi-tx-frames 31
+scalar node[259] avec nodeID: 259 wifi-tx-frames 31
+scalar node[260] avec nodeID: 260 wifi-tx-frames 31
+scalar node[261] avec nodeID: 261 wifi-tx-frames 31
+scalar node[262] avec nodeID: 262 wifi-tx-frames 31
+scalar node[263] avec nodeID: 263 wifi-tx-frames 31
+scalar node[264] avec nodeID: 264 wifi-tx-frames 31
+scalar node[265] avec nodeID: 265 wifi-tx-frames 31
+scalar node[266] avec nodeID: 266 wifi-tx-frames 31
+scalar node[267] avec nodeID: 267 wifi-tx-frames 31
+scalar node[268] avec nodeID: 268 wifi-tx-frames 31
+scalar node[269] avec nodeID: 269 wifi-tx-frames 31
+scalar node[270] avec nodeID: 270 wifi-tx-frames 31
+scalar node[271] avec nodeID: 271 wifi-tx-frames 31
+scalar node[272] avec nodeID: 272 wifi-tx-frames 31
+scalar node[273] avec nodeID: 273 wifi-tx-frames 31
+scalar node[274] avec nodeID: 274 wifi-tx-frames 31
+scalar node[275] avec nodeID: 275 wifi-tx-frames 31
+scalar node[276] avec nodeID: 276 wifi-tx-frames 31
+scalar node[277] avec nodeID: 277 wifi-tx-frames 31
+scalar node[278] avec nodeID: 278 wifi-tx-frames 31
+scalar node[279] avec nodeID: 279 wifi-tx-frames 31
+scalar node[280] avec nodeID: 280 wifi-tx-frames 31
+scalar node[281] avec nodeID: 281 wifi-tx-frames 31
+scalar node[282] avec nodeID: 282 wifi-tx-frames 31
+scalar node[283] avec nodeID: 283 wifi-tx-frames 31
+scalar node[284] avec nodeID: 284 wifi-tx-frames 31
+scalar node[285] avec nodeID: 285 wifi-tx-frames 31
+scalar node[286] avec nodeID: 286 wifi-tx-frames 31
+scalar node[287] avec nodeID: 287 wifi-tx-frames 31
+scalar node[288] avec nodeID: 288 wifi-tx-frames 31
+scalar node[289] avec nodeID: 289 wifi-tx-frames 31
+scalar node[290] avec nodeID: 290 wifi-tx-frames 31
+scalar node[291] avec nodeID: 291 wifi-tx-frames 31
+scalar node[292] avec nodeID: 292 wifi-tx-frames 31
+scalar node[293] avec nodeID: 293 wifi-tx-frames 31
+scalar node[294] avec nodeID: 294 wifi-tx-frames 31
+scalar node[295] avec nodeID: 295 wifi-tx-frames 31
+scalar node[296] avec nodeID: 296 wifi-tx-frames 31
+scalar node[297] avec nodeID: 297 wifi-tx-frames 31
+scalar node[298] avec nodeID: 298 wifi-tx-frames 31
+scalar node[299] avec nodeID: 299 wifi-tx-frames 31
+scalar node[300] avec nodeID: 300 wifi-tx-frames 31
+scalar node[301] avec nodeID: 301 wifi-tx-frames 31
+scalar node[302] avec nodeID: 302 wifi-tx-frames 31
+scalar node[303] avec nodeID: 303 wifi-tx-frames 31
+scalar node[304] avec nodeID: 304 wifi-tx-frames 31
+scalar node[305] avec nodeID: 305 wifi-tx-frames 31
+scalar node[306] avec nodeID: 306 wifi-tx-frames 31
+scalar node[307] avec nodeID: 307 wifi-tx-frames 31
+scalar node[308] avec nodeID: 308 wifi-tx-frames 31
+scalar node[309] avec nodeID: 309 wifi-tx-frames 31
+scalar node[310] avec nodeID: 310 wifi-tx-frames 31
+scalar node[311] avec nodeID: 311 wifi-tx-frames 31
+scalar node[312] avec nodeID: 312 wifi-tx-frames 31
+scalar node[313] avec nodeID: 313 wifi-tx-frames 31
+scalar node[314] avec nodeID: 314 wifi-tx-frames 31
+scalar node[315] avec nodeID: 315 wifi-tx-frames 31
+scalar node[316] avec nodeID: 316 wifi-tx-frames 31
+scalar node[317] avec nodeID: 317 wifi-tx-frames 31
+scalar node[318] avec nodeID: 318 wifi-tx-frames 31
+scalar node[319] avec nodeID: 319 wifi-tx-frames 31
+scalar node[320] avec nodeID: 320 wifi-tx-frames 31
+scalar node[321] avec nodeID: 321 wifi-tx-frames 31
+scalar node[322] avec nodeID: 322 wifi-tx-frames 31
+scalar node[323] avec nodeID: 323 wifi-tx-frames 31
+scalar node[324] avec nodeID: 324 wifi-tx-frames 31
+scalar node[325] avec nodeID: 325 wifi-tx-frames 31
+scalar node[326] avec nodeID: 326 wifi-tx-frames 31
+scalar node[327] avec nodeID: 327 wifi-tx-frames 31
+scalar node[328] avec nodeID: 328 wifi-tx-frames 31
+scalar node[329] avec nodeID: 329 wifi-tx-frames 31
+scalar node[330] avec nodeID: 330 wifi-tx-frames 31
+scalar node[331] avec nodeID: 331 wifi-tx-frames 31
+scalar node[332] avec nodeID: 332 wifi-tx-frames 31
+scalar node[333] avec nodeID: 333 wifi-tx-frames 31
+scalar node[334] avec nodeID: 334 wifi-tx-frames 31
+scalar node[335] avec nodeID: 335 wifi-tx-frames 31
+scalar node[336] avec nodeID: 336 wifi-tx-frames 31
+scalar node[337] avec nodeID: 337 wifi-tx-frames 31
+scalar node[338] avec nodeID: 338 wifi-tx-frames 31
+scalar node[339] avec nodeID: 339 wifi-tx-frames 31
+scalar node[340] avec nodeID: 340 wifi-tx-frames 31
+scalar node[341] avec nodeID: 341 wifi-tx-frames 31
+scalar node[342] avec nodeID: 342 wifi-tx-frames 31
+scalar node[343] avec nodeID: 343 wifi-tx-frames 31
+scalar node[344] avec nodeID: 344 wifi-tx-frames 31
+scalar node[345] avec nodeID: 345 wifi-tx-frames 31
+scalar node[346] avec nodeID: 346 wifi-tx-frames 31
+scalar node[347] avec nodeID: 347 wifi-tx-frames 31
+scalar node[348] avec nodeID: 348 wifi-tx-frames 31
+scalar node[349] avec nodeID: 349 wifi-tx-frames 31
+scalar node[350] avec nodeID: 350 wifi-tx-frames 31
+scalar node[351] avec nodeID: 351 wifi-tx-frames 31
+scalar node[352] avec nodeID: 352 wifi-tx-frames 31
+scalar node[353] avec nodeID: 353 wifi-tx-frames 31
+scalar node[354] avec nodeID: 354 wifi-tx-frames 31
+scalar node[355] avec nodeID: 355 wifi-tx-frames 31
+scalar node[356] avec nodeID: 356 wifi-tx-frames 31
+scalar node[357] avec nodeID: 357 wifi-tx-frames 31
+scalar node[358] avec nodeID: 358 wifi-tx-frames 31
+scalar node[359] avec nodeID: 359 wifi-tx-frames 31
+scalar node[360] avec nodeID: 360 wifi-tx-frames 31
+scalar node[361] avec nodeID: 361 wifi-tx-frames 31
+scalar node[362] avec nodeID: 362 wifi-tx-frames 31
+scalar node[363] avec nodeID: 363 wifi-tx-frames 31
+scalar node[364] avec nodeID: 364 wifi-tx-frames 31
+scalar node[365] avec nodeID: 365 wifi-tx-frames 31
+scalar node[366] avec nodeID: 366 wifi-tx-frames 31
+scalar node[367] avec nodeID: 367 wifi-tx-frames 31
+scalar node[368] avec nodeID: 368 wifi-tx-frames 31
+scalar node[369] avec nodeID: 369 wifi-tx-frames 31
+scalar node[370] avec nodeID: 370 wifi-tx-frames 31
+scalar node[371] avec nodeID: 371 wifi-tx-frames 31
+scalar node[372] avec nodeID: 372 wifi-tx-frames 31
+scalar node[373] avec nodeID: 373 wifi-tx-frames 31
+scalar node[374] avec nodeID: 374 wifi-tx-frames 31
+scalar node[375] avec nodeID: 375 wifi-tx-frames 31
+scalar node[376] avec nodeID: 376 wifi-tx-frames 31
+scalar node[377] avec nodeID: 377 wifi-tx-frames 31
+scalar node[378] avec nodeID: 378 wifi-tx-frames 31
+scalar node[379] avec nodeID: 379 wifi-tx-frames 31
+scalar node[380] avec nodeID: 380 wifi-tx-frames 31
+scalar node[381] avec nodeID: 381 wifi-tx-frames 31
+scalar node[382] avec nodeID: 382 wifi-tx-frames 31
+scalar node[383] avec nodeID: 383 wifi-tx-frames 31
+scalar node[384] avec nodeID: 384 wifi-tx-frames 31
+scalar node[385] avec nodeID: 385 wifi-tx-frames 31
+scalar node[386] avec nodeID: 386 wifi-tx-frames 31
+scalar node[387] avec nodeID: 387 wifi-tx-frames 31
+scalar node[388] avec nodeID: 388 wifi-tx-frames 31
+scalar node[389] avec nodeID: 389 wifi-tx-frames 31
+scalar node[390] avec nodeID: 390 wifi-tx-frames 31
+scalar node[391] avec nodeID: 391 wifi-tx-frames 31
+scalar node[392] avec nodeID: 392 wifi-tx-frames 31
+scalar node[393] avec nodeID: 393 wifi-tx-frames 31
+scalar node[394] avec nodeID: 394 wifi-tx-frames 31
+scalar node[395] avec nodeID: 395 wifi-tx-frames 31
+scalar node[396] avec nodeID: 396 wifi-tx-frames 31
+scalar node[397] avec nodeID: 397 wifi-tx-frames 31
+scalar node[398] avec nodeID: 398 wifi-tx-frames 31
+scalar node[399] avec nodeID: 399 wifi-tx-frames 31
+scalar node[400] avec nodeID: 400 wifi-tx-frames 31
+scalar node[401] avec nodeID: 401 wifi-tx-frames 31
+scalar node[402] avec nodeID: 402 wifi-tx-frames 31
+scalar node[403] avec nodeID: 403 wifi-tx-frames 31
+scalar node[404] avec nodeID: 404 wifi-tx-frames 31
+scalar node[405] avec nodeID: 405 wifi-tx-frames 31
+scalar node[406] avec nodeID: 406 wifi-tx-frames 31
+scalar node[407] avec nodeID: 407 wifi-tx-frames 31
+scalar node[408] avec nodeID: 408 wifi-tx-frames 31
+scalar node[409] avec nodeID: 409 wifi-tx-frames 31
+scalar node[410] avec nodeID: 410 wifi-tx-frames 31
+scalar node[411] avec nodeID: 411 wifi-tx-frames 31
+scalar node[412] avec nodeID: 412 wifi-tx-frames 31
+scalar node[413] avec nodeID: 413 wifi-tx-frames 31
+scalar node[414] avec nodeID: 414 wifi-tx-frames 31
+scalar node[415] avec nodeID: 415 wifi-tx-frames 31
+scalar node[416] avec nodeID: 416 wifi-tx-frames 31
+scalar node[417] avec nodeID: 417 wifi-tx-frames 31
+scalar node[418] avec nodeID: 418 wifi-tx-frames 31
+scalar node[419] avec nodeID: 419 wifi-tx-frames 31
+scalar node[420] avec nodeID: 420 wifi-tx-frames 31
+scalar node[421] avec nodeID: 421 wifi-tx-frames 31
+scalar node[422] avec nodeID: 422 wifi-tx-frames 31
+scalar node[423] avec nodeID: 423 wifi-tx-frames 31
+scalar node[424] avec nodeID: 424 wifi-tx-frames 31
+scalar node[425] avec nodeID: 425 wifi-tx-frames 31
+scalar node[426] avec nodeID: 426 wifi-tx-frames 31
+scalar node[427] avec nodeID: 427 wifi-tx-frames 31
+scalar node[428] avec nodeID: 428 wifi-tx-frames 31
+scalar node[429] avec nodeID: 429 wifi-tx-frames 31
+scalar node[430] avec nodeID: 430 wifi-tx-frames 31
+scalar node[431] avec nodeID: 431 wifi-tx-frames 31
+scalar node[432] avec nodeID: 432 wifi-tx-frames 31
+scalar node[433] avec nodeID: 433 wifi-tx-frames 31
+scalar node[434] avec nodeID: 434 wifi-tx-frames 31
+scalar node[435] avec nodeID: 435 wifi-tx-frames 31
+scalar node[436] avec nodeID: 436 wifi-tx-frames 31
+scalar node[437] avec nodeID: 437 wifi-tx-frames 31
+scalar node[438] avec nodeID: 438 wifi-tx-frames 31
+scalar node[439] avec nodeID: 439 wifi-tx-frames 31
+scalar node[440] avec nodeID: 440 wifi-tx-frames 31
+scalar node[441] avec nodeID: 441 wifi-tx-frames 31
+scalar node[442] avec nodeID: 442 wifi-tx-frames 31
+scalar node[443] avec nodeID: 443 wifi-tx-frames 31
+scalar node[444] avec nodeID: 444 wifi-tx-frames 31
+scalar node[445] avec nodeID: 445 wifi-tx-frames 31
+scalar node[446] avec nodeID: 446 wifi-tx-frames 31
+scalar node[447] avec nodeID: 447 wifi-tx-frames 31
+scalar node[448] avec nodeID: 448 wifi-tx-frames 31
+scalar node[449] avec nodeID: 449 wifi-tx-frames 31
+scalar node[450] avec nodeID: 450 wifi-tx-frames 31
+scalar node[451] avec nodeID: 451 wifi-tx-frames 31
+scalar node[452] avec nodeID: 452 wifi-tx-frames 31
+scalar node[453] avec nodeID: 453 wifi-tx-frames 31
+scalar node[454] avec nodeID: 454 wifi-tx-frames 31
+scalar node[455] avec nodeID: 455 wifi-tx-frames 31
+scalar node[456] avec nodeID: 456 wifi-tx-frames 31
+scalar node[457] avec nodeID: 457 wifi-tx-frames 31
+scalar node[458] avec nodeID: 458 wifi-tx-frames 31
+scalar node[459] avec nodeID: 459 wifi-tx-frames 31
+scalar node[460] avec nodeID: 460 wifi-tx-frames 31
+scalar node[461] avec nodeID: 461 wifi-tx-frames 31
+scalar node[462] avec nodeID: 462 wifi-tx-frames 31
+scalar node[463] avec nodeID: 463 wifi-tx-frames 31
+scalar node[464] avec nodeID: 464 wifi-tx-frames 31
+scalar node[465] avec nodeID: 465 wifi-tx-frames 31
+scalar node[466] avec nodeID: 466 wifi-tx-frames 31
+scalar node[467] avec nodeID: 467 wifi-tx-frames 31
+scalar node[468] avec nodeID: 468 wifi-tx-frames 31
+scalar node[469] avec nodeID: 469 wifi-tx-frames 31
+scalar node[470] avec nodeID: 470 wifi-tx-frames 31
+scalar node[471] avec nodeID: 471 wifi-tx-frames 31
+scalar node[472] avec nodeID: 472 wifi-tx-frames 31
+scalar node[473] avec nodeID: 473 wifi-tx-frames 31
+scalar node[474] avec nodeID: 474 wifi-tx-frames 31
+scalar node[475] avec nodeID: 475 wifi-tx-frames 31
+scalar node[476] avec nodeID: 476 wifi-tx-frames 31
+scalar node[477] avec nodeID: 477 wifi-tx-frames 31
+scalar node[478] avec nodeID: 478 wifi-tx-frames 31
+scalar node[479] avec nodeID: 479 wifi-tx-frames 31
+scalar node[480] avec nodeID: 480 wifi-tx-frames 31
+scalar node[481] avec nodeID: 481 wifi-tx-frames 31
+scalar node[482] avec nodeID: 482 wifi-tx-frames 31
+scalar node[483] avec nodeID: 483 wifi-tx-frames 31
+scalar node[484] avec nodeID: 484 wifi-tx-frames 31
+scalar node[485] avec nodeID: 485 wifi-tx-frames 31
+scalar node[486] avec nodeID: 486 wifi-tx-frames 31
+scalar node[487] avec nodeID: 487 wifi-tx-frames 31
+scalar node[488] avec nodeID: 488 wifi-tx-frames 31
+scalar node[489] avec nodeID: 489 wifi-tx-frames 31
+scalar node[490] avec nodeID: 490 wifi-tx-frames 31
+scalar node[491] avec nodeID: 491 wifi-tx-frames 31
+scalar node[492] avec nodeID: 492 wifi-tx-frames 31
+scalar node[493] avec nodeID: 493 wifi-tx-frames 31
+scalar node[494] avec nodeID: 494 wifi-tx-frames 31
+scalar node[495] avec nodeID: 495 wifi-tx-frames 31
+scalar node[496] avec nodeID: 496 wifi-tx-frames 31
+scalar node[497] avec nodeID: 497 wifi-tx-frames 31
+scalar node[498] avec nodeID: 498 wifi-tx-frames 31
+scalar node[499] avec nodeID: 499 wifi-tx-frames 31
+scalar node[0] wifi-rx-frames 13758
+scalar node[1] sender-tx-packets 30
+scalar node[2] sender-tx-packets 30
+scalar node[3] sender-tx-packets 30
+scalar node[4] sender-tx-packets 30
+scalar node[5] sender-tx-packets 30
+scalar node[6] sender-tx-packets 30
+scalar node[7] sender-tx-packets 30
+scalar node[8] sender-tx-packets 30
+scalar node[9] sender-tx-packets 30
+scalar node[10] sender-tx-packets 30
+scalar node[11] sender-tx-packets 30
+scalar node[12] sender-tx-packets 30
+scalar node[13] sender-tx-packets 30
+scalar node[14] sender-tx-packets 30
+scalar node[15] sender-tx-packets 30
+scalar node[16] sender-tx-packets 30
+scalar node[17] sender-tx-packets 30
+scalar node[18] sender-tx-packets 30
+scalar node[19] sender-tx-packets 30
+scalar node[20] sender-tx-packets 30
+scalar node[21] sender-tx-packets 30
+scalar node[22] sender-tx-packets 30
+scalar node[23] sender-tx-packets 30
+scalar node[24] sender-tx-packets 30
+scalar node[25] sender-tx-packets 30
+scalar node[26] sender-tx-packets 30
+scalar node[27] sender-tx-packets 30
+scalar node[28] sender-tx-packets 30
+scalar node[29] sender-tx-packets 30
+scalar node[30] sender-tx-packets 30
+scalar node[31] sender-tx-packets 30
+scalar node[32] sender-tx-packets 30
+scalar node[33] sender-tx-packets 30
+scalar node[34] sender-tx-packets 30
+scalar node[35] sender-tx-packets 30
+scalar node[36] sender-tx-packets 30
+scalar node[37] sender-tx-packets 30
+scalar node[38] sender-tx-packets 30
+scalar node[39] sender-tx-packets 30
+scalar node[40] sender-tx-packets 30
+scalar node[41] sender-tx-packets 30
+scalar node[42] sender-tx-packets 30
+scalar node[43] sender-tx-packets 30
+scalar node[44] sender-tx-packets 30
+scalar node[45] sender-tx-packets 30
+scalar node[46] sender-tx-packets 30
+scalar node[47] sender-tx-packets 30
+scalar node[48] sender-tx-packets 30
+scalar node[49] sender-tx-packets 30
+scalar node[50] sender-tx-packets 30
+scalar node[51] sender-tx-packets 30
+scalar node[52] sender-tx-packets 30
+scalar node[53] sender-tx-packets 30
+scalar node[54] sender-tx-packets 30
+scalar node[55] sender-tx-packets 30
+scalar node[56] sender-tx-packets 30
+scalar node[57] sender-tx-packets 30
+scalar node[58] sender-tx-packets 30
+scalar node[59] sender-tx-packets 30
+scalar node[60] sender-tx-packets 30
+scalar node[61] sender-tx-packets 30
+scalar node[62] sender-tx-packets 30
+scalar node[63] sender-tx-packets 30
+scalar node[64] sender-tx-packets 30
+scalar node[65] sender-tx-packets 30
+scalar node[66] sender-tx-packets 30
+scalar node[67] sender-tx-packets 30
+scalar node[68] sender-tx-packets 30
+scalar node[69] sender-tx-packets 30
+scalar node[70] sender-tx-packets 30
+scalar node[71] sender-tx-packets 30
+scalar node[72] sender-tx-packets 30
+scalar node[73] sender-tx-packets 30
+scalar node[74] sender-tx-packets 30
+scalar node[75] sender-tx-packets 30
+scalar node[76] sender-tx-packets 30
+scalar node[77] sender-tx-packets 30
+scalar node[78] sender-tx-packets 30
+scalar node[79] sender-tx-packets 30
+scalar node[80] sender-tx-packets 30
+scalar node[81] sender-tx-packets 30
+scalar node[82] sender-tx-packets 30
+scalar node[83] sender-tx-packets 30
+scalar node[84] sender-tx-packets 30
+scalar node[85] sender-tx-packets 30
+scalar node[86] sender-tx-packets 30
+scalar node[87] sender-tx-packets 30
+scalar node[88] sender-tx-packets 30
+scalar node[89] sender-tx-packets 30
+scalar node[90] sender-tx-packets 30
+scalar node[91] sender-tx-packets 30
+scalar node[92] sender-tx-packets 30
+scalar node[93] sender-tx-packets 30
+scalar node[94] sender-tx-packets 30
+scalar node[95] sender-tx-packets 30
+scalar node[96] sender-tx-packets 30
+scalar node[97] sender-tx-packets 30
+scalar node[98] sender-tx-packets 30
+scalar node[99] sender-tx-packets 30
+scalar node[100] sender-tx-packets 30
+scalar node[101] sender-tx-packets 30
+scalar node[102] sender-tx-packets 30
+scalar node[103] sender-tx-packets 30
+scalar node[104] sender-tx-packets 30
+scalar node[105] sender-tx-packets 30
+scalar node[106] sender-tx-packets 30
+scalar node[107] sender-tx-packets 30
+scalar node[108] sender-tx-packets 30
+scalar node[109] sender-tx-packets 30
+scalar node[110] sender-tx-packets 30
+scalar node[111] sender-tx-packets 30
+scalar node[112] sender-tx-packets 30
+scalar node[113] sender-tx-packets 30
+scalar node[114] sender-tx-packets 30
+scalar node[115] sender-tx-packets 30
+scalar node[116] sender-tx-packets 30
+scalar node[117] sender-tx-packets 30
+scalar node[118] sender-tx-packets 30
+scalar node[119] sender-tx-packets 30
+scalar node[120] sender-tx-packets 30
+scalar node[121] sender-tx-packets 30
+scalar node[122] sender-tx-packets 30
+scalar node[123] sender-tx-packets 30
+scalar node[124] sender-tx-packets 30
+scalar node[125] sender-tx-packets 30
+scalar node[126] sender-tx-packets 30
+scalar node[127] sender-tx-packets 30
+scalar node[128] sender-tx-packets 30
+scalar node[129] sender-tx-packets 30
+scalar node[130] sender-tx-packets 30
+scalar node[131] sender-tx-packets 30
+scalar node[132] sender-tx-packets 30
+scalar node[133] sender-tx-packets 30
+scalar node[134] sender-tx-packets 30
+scalar node[135] sender-tx-packets 30
+scalar node[136] sender-tx-packets 30
+scalar node[137] sender-tx-packets 30
+scalar node[138] sender-tx-packets 30
+scalar node[139] sender-tx-packets 30
+scalar node[140] sender-tx-packets 30
+scalar node[141] sender-tx-packets 30
+scalar node[142] sender-tx-packets 30
+scalar node[143] sender-tx-packets 30
+scalar node[144] sender-tx-packets 30
+scalar node[145] sender-tx-packets 30
+scalar node[146] sender-tx-packets 30
+scalar node[147] sender-tx-packets 30
+scalar node[148] sender-tx-packets 30
+scalar node[149] sender-tx-packets 30
+scalar node[150] sender-tx-packets 30
+scalar node[151] sender-tx-packets 30
+scalar node[152] sender-tx-packets 30
+scalar node[153] sender-tx-packets 30
+scalar node[154] sender-tx-packets 30
+scalar node[155] sender-tx-packets 30
+scalar node[156] sender-tx-packets 30
+scalar node[157] sender-tx-packets 30
+scalar node[158] sender-tx-packets 30
+scalar node[159] sender-tx-packets 30
+scalar node[160] sender-tx-packets 30
+scalar node[161] sender-tx-packets 30
+scalar node[162] sender-tx-packets 30
+scalar node[163] sender-tx-packets 30
+scalar node[164] sender-tx-packets 30
+scalar node[165] sender-tx-packets 30
+scalar node[166] sender-tx-packets 30
+scalar node[167] sender-tx-packets 30
+scalar node[168] sender-tx-packets 30
+scalar node[169] sender-tx-packets 30
+scalar node[170] sender-tx-packets 30
+scalar node[171] sender-tx-packets 30
+scalar node[172] sender-tx-packets 30
+scalar node[173] sender-tx-packets 30
+scalar node[174] sender-tx-packets 30
+scalar node[175] sender-tx-packets 30
+scalar node[176] sender-tx-packets 30
+scalar node[177] sender-tx-packets 30
+scalar node[178] sender-tx-packets 30
+scalar node[179] sender-tx-packets 30
+scalar node[180] sender-tx-packets 30
+scalar node[181] sender-tx-packets 30
+scalar node[182] sender-tx-packets 30
+scalar node[183] sender-tx-packets 30
+scalar node[184] sender-tx-packets 30
+scalar node[185] sender-tx-packets 30
+scalar node[186] sender-tx-packets 30
+scalar node[187] sender-tx-packets 30
+scalar node[188] sender-tx-packets 30
+scalar node[189] sender-tx-packets 30
+scalar node[190] sender-tx-packets 30
+scalar node[191] sender-tx-packets 30
+scalar node[192] sender-tx-packets 30
+scalar node[193] sender-tx-packets 30
+scalar node[194] sender-tx-packets 30
+scalar node[195] sender-tx-packets 30
+scalar node[196] sender-tx-packets 30
+scalar node[197] sender-tx-packets 30
+scalar node[198] sender-tx-packets 30
+scalar node[199] sender-tx-packets 30
+scalar node[200] sender-tx-packets 30
+scalar node[201] sender-tx-packets 30
+scalar node[202] sender-tx-packets 30
+scalar node[203] sender-tx-packets 30
+scalar node[204] sender-tx-packets 30
+scalar node[205] sender-tx-packets 30
+scalar node[206] sender-tx-packets 30
+scalar node[207] sender-tx-packets 30
+scalar node[208] sender-tx-packets 30
+scalar node[209] sender-tx-packets 30
+scalar node[210] sender-tx-packets 30
+scalar node[211] sender-tx-packets 30
+scalar node[212] sender-tx-packets 30
+scalar node[213] sender-tx-packets 30
+scalar node[214] sender-tx-packets 30
+scalar node[215] sender-tx-packets 30
+scalar node[216] sender-tx-packets 30
+scalar node[217] sender-tx-packets 30
+scalar node[218] sender-tx-packets 30
+scalar node[219] sender-tx-packets 30
+scalar node[220] sender-tx-packets 30
+scalar node[221] sender-tx-packets 30
+scalar node[222] sender-tx-packets 30
+scalar node[223] sender-tx-packets 30
+scalar node[224] sender-tx-packets 30
+scalar node[225] sender-tx-packets 30
+scalar node[226] sender-tx-packets 30
+scalar node[227] sender-tx-packets 30
+scalar node[228] sender-tx-packets 30
+scalar node[229] sender-tx-packets 30
+scalar node[230] sender-tx-packets 30
+scalar node[231] sender-tx-packets 30
+scalar node[232] sender-tx-packets 30
+scalar node[233] sender-tx-packets 30
+scalar node[234] sender-tx-packets 30
+scalar node[235] sender-tx-packets 30
+scalar node[236] sender-tx-packets 30
+scalar node[237] sender-tx-packets 30
+scalar node[238] sender-tx-packets 30
+scalar node[239] sender-tx-packets 30
+scalar node[240] sender-tx-packets 30
+scalar node[241] sender-tx-packets 30
+scalar node[242] sender-tx-packets 30
+scalar node[243] sender-tx-packets 30
+scalar node[244] sender-tx-packets 30
+scalar node[245] sender-tx-packets 30
+scalar node[246] sender-tx-packets 30
+scalar node[247] sender-tx-packets 30
+scalar node[248] sender-tx-packets 30
+scalar node[249] sender-tx-packets 30
+scalar node[250] sender-tx-packets 30
+scalar node[251] sender-tx-packets 30
+scalar node[252] sender-tx-packets 30
+scalar node[253] sender-tx-packets 30
+scalar node[254] sender-tx-packets 30
+scalar node[255] sender-tx-packets 30
+scalar node[256] sender-tx-packets 30
+scalar node[257] sender-tx-packets 30
+scalar node[258] sender-tx-packets 30
+scalar node[259] sender-tx-packets 30
+scalar node[260] sender-tx-packets 30
+scalar node[261] sender-tx-packets 30
+scalar node[262] sender-tx-packets 30
+scalar node[263] sender-tx-packets 30
+scalar node[264] sender-tx-packets 30
+scalar node[265] sender-tx-packets 30
+scalar node[266] sender-tx-packets 30
+scalar node[267] sender-tx-packets 30
+scalar node[268] sender-tx-packets 30
+scalar node[269] sender-tx-packets 30
+scalar node[270] sender-tx-packets 30
+scalar node[271] sender-tx-packets 30
+scalar node[272] sender-tx-packets 30
+scalar node[273] sender-tx-packets 30
+scalar node[274] sender-tx-packets 30
+scalar node[275] sender-tx-packets 30
+scalar node[276] sender-tx-packets 30
+scalar node[277] sender-tx-packets 30
+scalar node[278] sender-tx-packets 30
+scalar node[279] sender-tx-packets 30
+scalar node[280] sender-tx-packets 30
+scalar node[281] sender-tx-packets 30
+scalar node[282] sender-tx-packets 30
+scalar node[283] sender-tx-packets 30
+scalar node[284] sender-tx-packets 30
+scalar node[285] sender-tx-packets 30
+scalar node[286] sender-tx-packets 30
+scalar node[287] sender-tx-packets 30
+scalar node[288] sender-tx-packets 30
+scalar node[289] sender-tx-packets 30
+scalar node[290] sender-tx-packets 30
+scalar node[291] sender-tx-packets 30
+scalar node[292] sender-tx-packets 30
+scalar node[293] sender-tx-packets 30
+scalar node[294] sender-tx-packets 30
+scalar node[295] sender-tx-packets 30
+scalar node[296] sender-tx-packets 30
+scalar node[297] sender-tx-packets 30
+scalar node[298] sender-tx-packets 30
+scalar node[299] sender-tx-packets 30
+scalar node[300] sender-tx-packets 30
+scalar node[301] sender-tx-packets 30
+scalar node[302] sender-tx-packets 30
+scalar node[303] sender-tx-packets 30
+scalar node[304] sender-tx-packets 30
+scalar node[305] sender-tx-packets 30
+scalar node[306] sender-tx-packets 30
+scalar node[307] sender-tx-packets 30
+scalar node[308] sender-tx-packets 30
+scalar node[309] sender-tx-packets 30
+scalar node[310] sender-tx-packets 30
+scalar node[311] sender-tx-packets 30
+scalar node[312] sender-tx-packets 30
+scalar node[313] sender-tx-packets 30
+scalar node[314] sender-tx-packets 30
+scalar node[315] sender-tx-packets 30
+scalar node[316] sender-tx-packets 30
+scalar node[317] sender-tx-packets 30
+scalar node[318] sender-tx-packets 30
+scalar node[319] sender-tx-packets 30
+scalar node[320] sender-tx-packets 30
+scalar node[321] sender-tx-packets 30
+scalar node[322] sender-tx-packets 30
+scalar node[323] sender-tx-packets 30
+scalar node[324] sender-tx-packets 30
+scalar node[325] sender-tx-packets 30
+scalar node[326] sender-tx-packets 30
+scalar node[327] sender-tx-packets 30
+scalar node[328] sender-tx-packets 30
+scalar node[329] sender-tx-packets 30
+scalar node[330] sender-tx-packets 30
+scalar node[331] sender-tx-packets 30
+scalar node[332] sender-tx-packets 30
+scalar node[333] sender-tx-packets 30
+scalar node[334] sender-tx-packets 30
+scalar node[335] sender-tx-packets 30
+scalar node[336] sender-tx-packets 30
+scalar node[337] sender-tx-packets 30
+scalar node[338] sender-tx-packets 30
+scalar node[339] sender-tx-packets 30
+scalar node[340] sender-tx-packets 30
+scalar node[341] sender-tx-packets 30
+scalar node[342] sender-tx-packets 30
+scalar node[343] sender-tx-packets 30
+scalar node[344] sender-tx-packets 30
+scalar node[345] sender-tx-packets 30
+scalar node[346] sender-tx-packets 30
+scalar node[347] sender-tx-packets 30
+scalar node[348] sender-tx-packets 30
+scalar node[349] sender-tx-packets 30
+scalar node[350] sender-tx-packets 30
+scalar node[351] sender-tx-packets 30
+scalar node[352] sender-tx-packets 30
+scalar node[353] sender-tx-packets 30
+scalar node[354] sender-tx-packets 30
+scalar node[355] sender-tx-packets 30
+scalar node[356] sender-tx-packets 30
+scalar node[357] sender-tx-packets 30
+scalar node[358] sender-tx-packets 30
+scalar node[359] sender-tx-packets 30
+scalar node[360] sender-tx-packets 30
+scalar node[361] sender-tx-packets 30
+scalar node[362] sender-tx-packets 30
+scalar node[363] sender-tx-packets 30
+scalar node[364] sender-tx-packets 30
+scalar node[365] sender-tx-packets 30
+scalar node[366] sender-tx-packets 30
+scalar node[367] sender-tx-packets 30
+scalar node[368] sender-tx-packets 30
+scalar node[369] sender-tx-packets 30
+scalar node[370] sender-tx-packets 30
+scalar node[371] sender-tx-packets 30
+scalar node[372] sender-tx-packets 30
+scalar node[373] sender-tx-packets 30
+scalar node[374] sender-tx-packets 30
+scalar node[375] sender-tx-packets 30
+scalar node[376] sender-tx-packets 30
+scalar node[377] sender-tx-packets 30
+scalar node[378] sender-tx-packets 30
+scalar node[379] sender-tx-packets 30
+scalar node[380] sender-tx-packets 30
+scalar node[381] sender-tx-packets 30
+scalar node[382] sender-tx-packets 30
+scalar node[383] sender-tx-packets 30
+scalar node[384] sender-tx-packets 30
+scalar node[385] sender-tx-packets 30
+scalar node[386] sender-tx-packets 30
+scalar node[387] sender-tx-packets 30
+scalar node[388] sender-tx-packets 30
+scalar node[389] sender-tx-packets 30
+scalar node[390] sender-tx-packets 30
+scalar node[391] sender-tx-packets 30
+scalar node[392] sender-tx-packets 30
+scalar node[393] sender-tx-packets 30
+scalar node[394] sender-tx-packets 30
+scalar node[395] sender-tx-packets 30
+scalar node[396] sender-tx-packets 30
+scalar node[397] sender-tx-packets 30
+scalar node[398] sender-tx-packets 30
+scalar node[399] sender-tx-packets 30
+scalar node[400] sender-tx-packets 30
+scalar node[401] sender-tx-packets 30
+scalar node[402] sender-tx-packets 30
+scalar node[403] sender-tx-packets 30
+scalar node[404] sender-tx-packets 30
+scalar node[405] sender-tx-packets 30
+scalar node[406] sender-tx-packets 30
+scalar node[407] sender-tx-packets 30
+scalar node[408] sender-tx-packets 30
+scalar node[409] sender-tx-packets 30
+scalar node[410] sender-tx-packets 30
+scalar node[411] sender-tx-packets 30
+scalar node[412] sender-tx-packets 30
+scalar node[413] sender-tx-packets 30
+scalar node[414] sender-tx-packets 30
+scalar node[415] sender-tx-packets 30
+scalar node[416] sender-tx-packets 30
+scalar node[417] sender-tx-packets 30
+scalar node[418] sender-tx-packets 30
+scalar node[419] sender-tx-packets 30
+scalar node[420] sender-tx-packets 30
+scalar node[421] sender-tx-packets 30
+scalar node[422] sender-tx-packets 30
+scalar node[423] sender-tx-packets 30
+scalar node[424] sender-tx-packets 30
+scalar node[425] sender-tx-packets 30
+scalar node[426] sender-tx-packets 30
+scalar node[427] sender-tx-packets 30
+scalar node[428] sender-tx-packets 30
+scalar node[429] sender-tx-packets 30
+scalar node[430] sender-tx-packets 30
+scalar node[431] sender-tx-packets 30
+scalar node[432] sender-tx-packets 30
+scalar node[433] sender-tx-packets 30
+scalar node[434] sender-tx-packets 30
+scalar node[435] sender-tx-packets 30
+scalar node[436] sender-tx-packets 30
+scalar node[437] sender-tx-packets 30
+scalar node[438] sender-tx-packets 30
+scalar node[439] sender-tx-packets 30
+scalar node[440] sender-tx-packets 30
+scalar node[441] sender-tx-packets 30
+scalar node[442] sender-tx-packets 30
+scalar node[443] sender-tx-packets 30
+scalar node[444] sender-tx-packets 30
+scalar node[445] sender-tx-packets 30
+scalar node[446] sender-tx-packets 30
+scalar node[447] sender-tx-packets 30
+scalar node[448] sender-tx-packets 30
+scalar node[449] sender-tx-packets 30
+scalar node[450] sender-tx-packets 30
+scalar node[451] sender-tx-packets 30
+scalar node[452] sender-tx-packets 30
+scalar node[453] sender-tx-packets 30
+scalar node[454] sender-tx-packets 30
+scalar node[455] sender-tx-packets 30
+scalar node[456] sender-tx-packets 30
+scalar node[457] sender-tx-packets 30
+scalar node[458] sender-tx-packets 30
+scalar node[459] sender-tx-packets 30
+scalar node[460] sender-tx-packets 30
+scalar node[461] sender-tx-packets 30
+scalar node[462] sender-tx-packets 30
+scalar node[463] sender-tx-packets 30
+scalar node[464] sender-tx-packets 30
+scalar node[465] sender-tx-packets 30
+scalar node[466] sender-tx-packets 30
+scalar node[467] sender-tx-packets 30
+scalar node[468] sender-tx-packets 30
+scalar node[469] sender-tx-packets 30
+scalar node[470] sender-tx-packets 30
+scalar node[471] sender-tx-packets 30
+scalar node[472] sender-tx-packets 30
+scalar node[473] sender-tx-packets 30
+scalar node[474] sender-tx-packets 30
+scalar node[475] sender-tx-packets 30
+scalar node[476] sender-tx-packets 30
+scalar node[477] sender-tx-packets 30
+scalar node[478] sender-tx-packets 30
+scalar node[479] sender-tx-packets 30
+scalar node[480] sender-tx-packets 30
+scalar node[481] sender-tx-packets 30
+scalar node[482] sender-tx-packets 30
+scalar node[483] sender-tx-packets 30
+scalar node[484] sender-tx-packets 30
+scalar node[485] sender-tx-packets 30
+scalar node[486] sender-tx-packets 30
+scalar node[487] sender-tx-packets 30
+scalar node[488] sender-tx-packets 30
+scalar node[489] sender-tx-packets 30
+scalar node[490] sender-tx-packets 30
+scalar node[491] sender-tx-packets 30
+scalar node[492] sender-tx-packets 30
+scalar node[493] sender-tx-packets 30
+scalar node[494] sender-tx-packets 30
+scalar node[495] sender-tx-packets 30
+scalar node[496] sender-tx-packets 30
+scalar node[497] sender-tx-packets 30
+scalar node[498] sender-tx-packets 30
+scalar node[499] sender-tx-packets 30
+scalar node[0] receiver-rx-packets 13259
+statistic node[1] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[2] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[3] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[4] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[5] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[6] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[7] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[8] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[9] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[10] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[11] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[12] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[13] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[14] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[15] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[16] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[17] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[18] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[19] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[20] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[21] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[22] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[23] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[24] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[25] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[26] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[27] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[28] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[29] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[30] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[31] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[32] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[33] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[34] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[35] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[36] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[37] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[38] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[39] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[40] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[41] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[42] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[43] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[44] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[45] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[46] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[47] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[48] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[49] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[50] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[51] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[52] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[53] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[54] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[55] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[56] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[57] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[58] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[59] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[60] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[61] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[62] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[63] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[64] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[65] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[66] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[67] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[68] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[69] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[70] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[71] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[72] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[73] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[74] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[75] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[76] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[77] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[78] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[79] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[80] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[81] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[82] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[83] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[84] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[85] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[86] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[87] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[88] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[89] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[90] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[91] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[92] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[93] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[94] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[95] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[96] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[97] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[98] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[99] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[100] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[101] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[102] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[103] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[104] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[105] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[106] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[107] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[108] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[109] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[110] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[111] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[112] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[113] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[114] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[115] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[116] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[117] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[118] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[119] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[120] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[121] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[122] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[123] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[124] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[125] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[126] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[127] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[128] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[129] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[130] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[131] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[132] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[133] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[134] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[135] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[136] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[137] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[138] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[139] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[140] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[141] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[142] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[143] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[144] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[145] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[146] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[147] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[148] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[149] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[150] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[151] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[152] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[153] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[154] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[155] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[156] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[157] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[158] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[159] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[160] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[161] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[162] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[163] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[164] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[165] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[166] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[167] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[168] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[169] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[170] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[171] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[172] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[173] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[174] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[175] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[176] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[177] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[178] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[179] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[180] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[181] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[182] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[183] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[184] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[185] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[186] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[187] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[188] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[189] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[190] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[191] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[192] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[193] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[194] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[195] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[196] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[197] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[198] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[199] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[200] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[201] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[202] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[203] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[204] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[205] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[206] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[207] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[208] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[209] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[210] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[211] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[212] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[213] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[214] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[215] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[216] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[217] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[218] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[219] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[220] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[221] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[222] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[223] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[224] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[225] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[226] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[227] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[228] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[229] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[230] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[231] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[232] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[233] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[234] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[235] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[236] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[237] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[238] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[239] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[240] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[241] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[242] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[243] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[244] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[245] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[246] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[247] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[248] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[249] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[250] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[251] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[252] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[253] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[254] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[255] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[256] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[257] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[258] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[259] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[260] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[261] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[262] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[263] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[264] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[265] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[266] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[267] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[268] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[269] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[270] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[271] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[272] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[273] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[274] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[275] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[276] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[277] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[278] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[279] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[280] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[281] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[282] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[283] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[284] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[285] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[286] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[287] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[288] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[289] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[290] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[291] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[292] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[293] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[294] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[295] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[296] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[297] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[298] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[299] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[300] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[301] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[302] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[303] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[304] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[305] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[306] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[307] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[308] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[309] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[310] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[311] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[312] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[313] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[314] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[315] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[316] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[317] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[318] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[319] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[320] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[321] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[322] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[323] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[324] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[325] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[326] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[327] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[328] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[329] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[330] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[331] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[332] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[333] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[334] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[335] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[336] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[337] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[338] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[339] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[340] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[341] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[342] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[343] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[344] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[345] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[346] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[347] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[348] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[349] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[350] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[351] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[352] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[353] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[354] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[355] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[356] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[357] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[358] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[359] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[360] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[361] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[362] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[363] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[364] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[365] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[366] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[367] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[368] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[369] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[370] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[371] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[372] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[373] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[374] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[375] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[376] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[377] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[378] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[379] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[380] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[381] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[382] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[383] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[384] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[385] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[386] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[387] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[388] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[389] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[390] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[391] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[392] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[393] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[394] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[395] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[396] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[397] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[398] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[399] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[400] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[401] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[402] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[403] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[404] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[405] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[406] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[407] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[408] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[409] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[410] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[411] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[412] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[413] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[414] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[415] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[416] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[417] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[418] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[419] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[420] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[421] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[422] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[423] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[424] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[425] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[426] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[427] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[428] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[429] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[430] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[431] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[432] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[433] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[434] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[435] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[436] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[437] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[438] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[439] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[440] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[441] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[442] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[443] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[444] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[445] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[446] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[447] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[448] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[449] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[450] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[451] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[452] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[453] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[454] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[455] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[456] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[457] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[458] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[459] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[460] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[461] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[462] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[463] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[464] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[465] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[466] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[467] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[468] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[469] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[470] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[471] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[472] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[473] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[474] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[475] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[476] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[477] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[478] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[479] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[480] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[481] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[482] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[483] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[484] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[485] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[486] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[487] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[488] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[489] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[490] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[491] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[492] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[493] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[494] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[495] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[496] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[497] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[498] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+statistic node[499] tx-pkt-size
+field count 30
+field sum 2640
+field mean 88
+field min 88
+field max 88
+field sqrsum 232320
+field stddev 0
+scalar . delay-count 13259
+scalar . delay-total 245309339645
+scalar . delay-average 18501345
+scalar . delay-max 401030239
+scalar . delay-min 228000
+
+

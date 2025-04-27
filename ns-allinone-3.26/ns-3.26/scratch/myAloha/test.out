@@ -1,0 +1,5997 @@
+750 seed10
+
+ Node[0]o f t: 0  0  0
+
+ Node[1]o f t: 288  68  68
+
+ Node[2]o f t: 288  73  73
+
+ Node[3]o f t: 288  73  73
+
+ Node[4]o f t: 286  74  74
+
+ Node[5]o f t: 286  65  65
+
+ Node[6]o f t: 286  103  103
+
+ Node[7]o f t: 287  69  69
+
+ Node[8]o f t: 288  71  71
+
+ Node[9]o f t: 286  67  67
+
+ Node[10]o f t: 287  105  105
+
+ Node[11]o f t: 288  72  72
+
+ Node[12]o f t: 286  74  74
+
+ Node[13]o f t: 287  73  73
+
+ Node[14]o f t: 286  72  72
+
+ Node[15]o f t: 288  72  72
+
+ Node[16]o f t: 288  72  72
+
+ Node[17]o f t: 287  69  69
+
+ Node[18]o f t: 289  72  72
+
+ Node[19]o f t: 286  71  71
+
+ Node[20]o f t: 290  72  72
+
+ Node[21]o f t: 287  101  101
+
+ Node[22]o f t: 288  73  73
+
+ Node[23]o f t: 289  87  87
+
+ Node[24]o f t: 287  72  72
+
+ Node[25]o f t: 289  69  69
+
+ Node[26]o f t: 290  70  70
+
+ Node[27]o f t: 288  78  78
+
+ Node[28]o f t: 290  80  80
+
+ Node[29]o f t: 290  70  70
+
+ Node[30]o f t: 288  74  74
+
+ Node[31]o f t: 289  68  68
+
+ Node[32]o f t: 287  72  72
+
+ Node[33]o f t: 289  71  71
+
+ Node[34]o f t: 286  72  72
+
+ Node[35]o f t: 289  73  73
+
+ Node[36]o f t: 287  73  73
+
+ Node[37]o f t: 288  71  71
+
+ Node[38]o f t: 286  72  72
+
+ Node[39]o f t: 289  106  106
+
+ Node[40]o f t: 286  69  69
+
+ Node[41]o f t: 286  70  70
+
+ Node[42]o f t: 290  81  81
+
+ Node[43]o f t: 287  90  90
+
+ Node[44]o f t: 290  73  73
+
+ Node[45]o f t: 289  82  82
+
+ Node[46]o f t: 288  75  75
+
+ Node[47]o f t: 286  71  71
+
+ Node[48]o f t: 286  67  67
+
+ Node[49]o f t: 287  70  70
+
+ Node[50]o f t: 289  73  73
+
+ Node[51]o f t: 286  90  90
+
+ Node[52]o f t: 286  69  69
+
+ Node[53]o f t: 288  66  66
+
+ Node[54]o f t: 290  73  73
+
+ Node[55]o f t: 286  65  65
+
+ Node[56]o f t: 286  72  72
+
+ Node[57]o f t: 286  69  69
+
+ Node[58]o f t: 288  73  73
+
+ Node[59]o f t: 287  73  73
+
+ Node[60]o f t: 290  69  69
+
+ Node[61]o f t: 287  69  69
+
+ Node[62]o f t: 288  69  69
+
+ Node[63]o f t: 288  96  96
+
+ Node[64]o f t: 286  70  70
+
+ Node[65]o f t: 289  70  70
+
+ Node[66]o f t: 290  74  74
+
+ Node[67]o f t: 290  81  81
+
+ Node[68]o f t: 287  69  69
+
+ Node[69]o f t: 286  69  69
+
+ Node[70]o f t: 289  74  74
+
+ Node[71]o f t: 287  75  75
+
+ Node[72]o f t: 289  73  73
+
+ Node[73]o f t: 290  70  70
+
+ Node[74]o f t: 288  69  69
+
+ Node[75]o f t: 290  75  75
+
+ Node[76]o f t: 289  77  77
+
+ Node[77]o f t: 286  79  79
+
+ Node[78]o f t: 286  72  72
+
+ Node[79]o f t: 287  70  70
+
+ Node[80]o f t: 288  71  71
+
+ Node[81]o f t: 289  78  78
+
+ Node[82]o f t: 289  73  73
+
+ Node[83]o f t: 290  71  71
+
+ Node[84]o f t: 287  85  85
+
+ Node[85]o f t: 287  73  73
+
+ Node[86]o f t: 286  70  70
+
+ Node[87]o f t: 289  70  70
+
+ Node[88]o f t: 288  79  79
+
+ Node[89]o f t: 290  74  74
+
+ Node[90]o f t: 288  74  74
+
+ Node[91]o f t: 290  71  71
+
+ Node[92]o f t: 287  73  73
+
+ Node[93]o f t: 286  78  78
+
+ Node[94]o f t: 288  70  70
+
+ Node[95]o f t: 286  76  76
+
+ Node[96]o f t: 290  72  72
+
+ Node[97]o f t: 290  73  73
+
+ Node[98]o f t: 290  73  73
+
+ Node[99]o f t: 287  73  73
+
+ Node[100]o f t: 289  71  71
+
+ Node[101]o f t: 286  69  69
+
+ Node[102]o f t: 289  72  72
+
+ Node[103]o f t: 286  72  72
+
+ Node[104]o f t: 287  72  72
+
+ Node[105]o f t: 289  72  72
+
+ Node[106]o f t: 287  69  69
+
+ Node[107]o f t: 287  69  69
+
+ Node[108]o f t: 286  94  94
+
+ Node[109]o f t: 288  75  75
+
+ Node[110]o f t: 290  75  75
+
+ Node[111]o f t: 287  71  71
+
+ Node[112]o f t: 286  75  75
+
+ Node[113]o f t: 289  70  70
+
+ Node[114]o f t: 287  70  70
+
+ Node[115]o f t: 289  72  72
+
+ Node[116]o f t: 288  71  71
+
+ Node[117]o f t: 288  68  68
+
+ Node[118]o f t: 286  68  68
+
+ Node[119]o f t: 290  74  74
+
+ Node[120]o f t: 289  69  69
+
+ Node[121]o f t: 287  74  74
+
+ Node[122]o f t: 288  82  82
+
+ Node[123]o f t: 287  73  73
+
+ Node[124]o f t: 289  74  74
+
+ Node[125]o f t: 288  67  67
+
+ Node[126]o f t: 287  69  69
+
+ Node[127]o f t: 290  67  67
+
+ Node[128]o f t: 288  74  74
+
+ Node[129]o f t: 286  69  69
+
+ Node[130]o f t: 286  73  73
+
+ Node[131]o f t: 290  74  74
+
+ Node[132]o f t: 287  69  69
+
+ Node[133]o f t: 287  67  67
+
+ Node[134]o f t: 287  105  105
+
+ Node[135]o f t: 290  74  74
+
+ Node[136]o f t: 288  69  69
+
+ Node[137]o f t: 290  98  98
+
+ Node[138]o f t: 288  74  74
+
+ Node[139]o f t: 290  89  89
+
+ Node[140]o f t: 289  72  72
+
+ Node[141]o f t: 290  72  72
+
+ Node[142]o f t: 287  70  70
+
+ Node[143]o f t: 290  73  73
+
+ Node[144]o f t: 288  68  68
+
+ Node[145]o f t: 290  71  71
+
+ Node[146]o f t: 286  67  67
+
+ Node[147]o f t: 290  76  76
+
+ Node[148]o f t: 287  71  71
+
+ Node[149]o f t: 287  93  93
+
+ Node[150]o f t: 287  68  68
+
+ Node[151]o f t: 286  76  76
+
+ Node[152]o f t: 286  86  86
+
+ Node[153]o f t: 289  74  74
+
+ Node[154]o f t: 288  73  73
+
+ Node[155]o f t: 288  68  68
+
+ Node[156]o f t: 287  67  67
+
+ Node[157]o f t: 290  70  70
+
+ Node[158]o f t: 288  75  75
+
+ Node[159]o f t: 290  73  73
+
+ Node[160]o f t: 290  76  76
+
+ Node[161]o f t: 288  75  75
+
+ Node[162]o f t: 287  74  74
+
+ Node[163]o f t: 288  72  72
+
+ Node[164]o f t: 289  83  83
+
+ Node[165]o f t: 286  72  72
+
+ Node[166]o f t: 289  85  85
+
+ Node[167]o f t: 290  71  71
+
+ Node[168]o f t: 287  71  71
+
+ Node[169]o f t: 290  71  71
+
+ Node[170]o f t: 287  72  72
+
+ Node[171]o f t: 290  74  74
+
+ Node[172]o f t: 288  77  77
+
+ Node[173]o f t: 288  71  71
+
+ Node[174]o f t: 290  74  74
+
+ Node[175]o f t: 290  77  77
+
+ Node[176]o f t: 290  71  71
+
+ Node[177]o f t: 288  72  72
+
+ Node[178]o f t: 290  73  73
+
+ Node[179]o f t: 287  70  70
+
+ Node[180]o f t: 289  71  71
+
+ Node[181]o f t: 287  74  74
+
+ Node[182]o f t: 286  103  103
+
+ Node[183]o f t: 286  71  71
+
+ Node[184]o f t: 289  69  69
+
+ Node[185]o f t: 286  68  68
+
+ Node[186]o f t: 287  70  70
+
+ Node[187]o f t: 286  72  72
+
+ Node[188]o f t: 288  71  71
+
+ Node[189]o f t: 290  74  74
+
+ Node[190]o f t: 288  66  66
+
+ Node[191]o f t: 290  72  72
+
+ Node[192]o f t: 286  68  68
+
+ Node[193]o f t: 286  70  70
+
+ Node[194]o f t: 290  71  71
+
+ Node[195]o f t: 287  111  111
+
+ Node[196]o f t: 290  73  73
+
+ Node[197]o f t: 289  70  70
+
+ Node[198]o f t: 288  67  67
+
+ Node[199]o f t: 290  106  106
+
+ Node[200]o f t: 290  79  79
+
+ Node[201]o f t: 289  80  80
+
+ Node[202]o f t: 287  75  75
+
+ Node[203]o f t: 289  75  75
+
+ Node[204]o f t: 288  73  73
+
+ Node[205]o f t: 290  73  73
+
+ Node[206]o f t: 289  70  70
+
+ Node[207]o f t: 288  72  72
+
+ Node[208]o f t: 287  72  72
+
+ Node[209]o f t: 286  67  67
+
+ Node[210]o f t: 287  68  68
+
+ Node[211]o f t: 288  64  64
+
+ Node[212]o f t: 287  73  73
+
+ Node[213]o f t: 287  72  72
+
+ Node[214]o f t: 286  72  72
+
+ Node[215]o f t: 286  68  68
+
+ Node[216]o f t: 286  66  66
+
+ Node[217]o f t: 289  71  71
+
+ Node[218]o f t: 287  100  100
+
+ Node[219]o f t: 290  87  87
+
+ Node[220]o f t: 287  72  72
+
+ Node[221]o f t: 290  72  72
+
+ Node[222]o f t: 289  69  69
+
+ Node[223]o f t: 289  70  70
+
+ Node[224]o f t: 286  73  73
+
+ Node[225]o f t: 287  75  75
+
+ Node[226]o f t: 286  101  101
+
+ Node[227]o f t: 286  70  70
+
+ Node[228]o f t: 289  71  71
+
+ Node[229]o f t: 288  75  75
+
+ Node[230]o f t: 287  85  85
+
+ Node[231]o f t: 286  72  72
+
+ Node[232]o f t: 290  81  81
+
+ Node[233]o f t: 289  74  74
+
+ Node[234]o f t: 289  73  73
+
+ Node[235]o f t: 287  75  75
+
+ Node[236]o f t: 286  74  74
+
+ Node[237]o f t: 290  76  76
+
+ Node[238]o f t: 288  88  88
+
+ Node[239]o f t: 289  72  72
+
+ Node[240]o f t: 289  70  70
+
+ Node[241]o f t: 287  76  76
+
+ Node[242]o f t: 286  72  72
+
+ Node[243]o f t: 290  72  72
+
+ Node[244]o f t: 289  74  74
+
+ Node[245]o f t: 288  73  73
+
+ Node[246]o f t: 290  75  75
+
+ Node[247]o f t: 288  71  71
+
+ Node[248]o f t: 286  75  75
+
+ Node[249]o f t: 289  89  89
+
+ Node[250]o f t: 289  74  74
+
+ Node[251]o f t: 290  116  116
+
+ Node[252]o f t: 290  72  72
+
+ Node[253]o f t: 287  69  69
+
+ Node[254]o f t: 288  103  103
+
+ Node[255]o f t: 288  68  68
+
+ Node[256]o f t: 290  72  72
+
+ Node[257]o f t: 288  88  88
+
+ Node[258]o f t: 287  71  71
+
+ Node[259]o f t: 288  75  75
+
+ Node[260]o f t: 287  67  67
+
+ Node[261]o f t: 289  70  70
+
+ Node[262]o f t: 286  67  67
+
+ Node[263]o f t: 287  69  69
+
+ Node[264]o f t: 286  71  71
+
+ Node[265]o f t: 287  69  69
+
+ Node[266]o f t: 288  76  76
+
+ Node[267]o f t: 287  79  79
+
+ Node[268]o f t: 290  111  111
+
+ Node[269]o f t: 286  71  71
+
+ Node[270]o f t: 287  70  70
+
+ Node[271]o f t: 290  74  74
+
+ Node[272]o f t: 286  70  70
+
+ Node[273]o f t: 287  73  73
+
+ Node[274]o f t: 288  72  72
+
+ Node[275]o f t: 289  80  80
+
+ Node[276]o f t: 289  91  91
+
+ Node[277]o f t: 290  73  73
+
+ Node[278]o f t: 289  72  72
+
+ Node[279]o f t: 287  93  93
+
+ Node[280]o f t: 286  70  70
+
+ Node[281]o f t: 289  73  73
+
+ Node[282]o f t: 286  101  101
+
+ Node[283]o f t: 289  85  85
+
+ Node[284]o f t: 290  71  71
+
+ Node[285]o f t: 290  73  73
+
+ Node[286]o f t: 288  68  68
+
+ Node[287]o f t: 286  70  70
+
+ Node[288]o f t: 288  70  70
+
+ Node[289]o f t: 286  72  72
+
+ Node[290]o f t: 286  67  67
+
+ Node[291]o f t: 287  70  70
+
+ Node[292]o f t: 287  76  76
+
+ Node[293]o f t: 288  77  77
+
+ Node[294]o f t: 286  68  68
+
+ Node[295]o f t: 290  84  84
+
+ Node[296]o f t: 290  78  78
+
+ Node[297]o f t: 288  69  69
+
+ Node[298]o f t: 288  75  75
+
+ Node[299]o f t: 287  71  71
+
+ Node[300]o f t: 289  98  98
+
+ Node[301]o f t: 289  72  72
+
+ Node[302]o f t: 289  82  82
+
+ Node[303]o f t: 286  107  107
+
+ Node[304]o f t: 289  72  72
+
+ Node[305]o f t: 286  69  69
+
+ Node[306]o f t: 289  75  75
+
+ Node[307]o f t: 286  76  76
+
+ Node[308]o f t: 286  74  74
+
+ Node[309]o f t: 286  72  72
+
+ Node[310]o f t: 286  68  68
+
+ Node[311]o f t: 287  104  104
+
+ Node[312]o f t: 290  75  75
+
+ Node[313]o f t: 289  69  69
+
+ Node[314]o f t: 289  69  69
+
+ Node[315]o f t: 290  70  70
+
+ Node[316]o f t: 287  71  71
+
+ Node[317]o f t: 288  66  66
+
+ Node[318]o f t: 287  69  69
+
+ Node[319]o f t: 290  74  74
+
+ Node[320]o f t: 289  74  74
+
+ Node[321]o f t: 290  73  73
+
+ Node[322]o f t: 287  71  71
+
+ Node[323]o f t: 290  77  77
+
+ Node[324]o f t: 290  77  77
+
+ Node[325]o f t: 286  70  70
+
+ Node[326]o f t: 290  93  93
+
+ Node[327]o f t: 286  74  74
+
+ Node[328]o f t: 289  67  67
+
+ Node[329]o f t: 289  76  76
+
+ Node[330]o f t: 290  84  84
+
+ Node[331]o f t: 286  75  75
+
+ Node[332]o f t: 290  95  95
+
+ Node[333]o f t: 290  73  73
+
+ Node[334]o f t: 287  70  70
+
+ Node[335]o f t: 290  96  96
+
+ Node[336]o f t: 287  67  67
+
+ Node[337]o f t: 289  71  71
+
+ Node[338]o f t: 288  72  72
+
+ Node[339]o f t: 290  84  84
+
+ Node[340]o f t: 286  72  72
+
+ Node[341]o f t: 287  72  72
+
+ Node[342]o f t: 287  67  67
+
+ Node[343]o f t: 290  69  69
+
+ Node[344]o f t: 288  71  71
+
+ Node[345]o f t: 287  68  68
+
+ Node[346]o f t: 287  76  76
+
+ Node[347]o f t: 288  89  89
+
+ Node[348]o f t: 286  69  69
+
+ Node[349]o f t: 290  81  81
+
+ Node[350]o f t: 286  68  68
+
+ Node[351]o f t: 288  69  69
+
+ Node[352]o f t: 287  86  86
+
+ Node[353]o f t: 290  73  73
+
+ Node[354]o f t: 289  99  99
+
+ Node[355]o f t: 286  71  71
+
+ Node[356]o f t: 288  75  75
+
+ Node[357]o f t: 288  73  73
+
+ Node[358]o f t: 288  74  74
+
+ Node[359]o f t: 289  70  70
+
+ Node[360]o f t: 289  74  74
+
+ Node[361]o f t: 288  84  84
+
+ Node[362]o f t: 286  70  70
+
+ Node[363]o f t: 286  71  71
+
+ Node[364]o f t: 287  74  74
+
+ Node[365]o f t: 287  90  90
+
+ Node[366]o f t: 290  74  74
+
+ Node[367]o f t: 288  71  71
+
+ Node[368]o f t: 286  69  69
+
+ Node[369]o f t: 286  70  70
+
+ Node[370]o f t: 289  76  76
+
+ Node[371]o f t: 287  71  71
+
+ Node[372]o f t: 288  75  75
+
+ Node[373]o f t: 290  77  77
+
+ Node[374]o f t: 287  68  68
+
+ Node[375]o f t: 288  71  71
+
+ Node[376]o f t: 287  70  70
+
+ Node[377]o f t: 289  78  78
+
+ Node[378]o f t: 286  69  69
+
+ Node[379]o f t: 287  68  68
+
+ Node[380]o f t: 287  76  76
+
+ Node[381]o f t: 287  101  101
+
+ Node[382]o f t: 290  74  74
+
+ Node[383]o f t: 290  75  75
+
+ Node[384]o f t: 286  70  70
+
+ Node[385]o f t: 288  72  72
+
+ Node[386]o f t: 288  88  88
+
+ Node[387]o f t: 287  71  71
+
+ Node[388]o f t: 286  76  76
+
+ Node[389]o f t: 288  72  72
+
+ Node[390]o f t: 286  108  108
+
+ Node[391]o f t: 288  70  70
+
+ Node[392]o f t: 286  70  70
+
+ Node[393]o f t: 290  80  80
+
+ Node[394]o f t: 290  72  72
+
+ Node[395]o f t: 286  75  75
+
+ Node[396]o f t: 286  70  70
+
+ Node[397]o f t: 286  67  67
+
+ Node[398]o f t: 287  68  68
+
+ Node[399]o f t: 288  77  77
+
+ Node[400]o f t: 288  72  72
+
+ Node[401]o f t: 286  72  72
+
+ Node[402]o f t: 287  73  73
+
+ Node[403]o f t: 286  77  77
+
+ Node[404]o f t: 290  81  81
+
+ Node[405]o f t: 290  74  74
+
+ Node[406]o f t: 288  71  71
+
+ Node[407]o f t: 287  65  65
+
+ Node[408]o f t: 290  69  69
+
+ Node[409]o f t: 289  78  78
+
+ Node[410]o f t: 286  66  66
+
+ Node[411]o f t: 287  80  80
+
+ Node[412]o f t: 288  71  71
+
+ Node[413]o f t: 288  72  72
+
+ Node[414]o f t: 288  69  69
+
+ Node[415]o f t: 290  75  75
+
+ Node[416]o f t: 288  70  70
+
+ Node[417]o f t: 289  77  77
+
+ Node[418]o f t: 287  75  75
+
+ Node[419]o f t: 289  70  70
+
+ Node[420]o f t: 286  73  73
+
+ Node[421]o f t: 288  73  73
+
+ Node[422]o f t: 288  82  82
+
+ Node[423]o f t: 289  68  68
+
+ Node[424]o f t: 289  77  77
+
+ Node[425]o f t: 290  75  75
+
+ Node[426]o f t: 288  73  73
+
+ Node[427]o f t: 287  73  73
+
+ Node[428]o f t: 290  80  80
+
+ Node[429]o f t: 288  72  72
+
+ Node[430]o f t: 290  78  78
+
+ Node[431]o f t: 288  94  94
+
+ Node[432]o f t: 287  67  67
+
+ Node[433]o f t: 288  72  72
+
+ Node[434]o f t: 290  74  74
+
+ Node[435]o f t: 289  84  84
+
+ Node[436]o f t: 289  71  71
+
+ Node[437]o f t: 290  73  73
+
+ Node[438]o f t: 286  71  71
+
+ Node[439]o f t: 289  69  69
+
+ Node[440]o f t: 287  73  73
+
+ Node[441]o f t: 287  73  73
+
+ Node[442]o f t: 288  73  73
+
+ Node[443]o f t: 289  97  97
+
+ Node[444]o f t: 290  73  73
+
+ Node[445]o f t: 287  73  73
+
+ Node[446]o f t: 287  68  68
+
+ Node[447]o f t: 289  75  75
+
+ Node[448]o f t: 290  71  71
+
+ Node[449]o f t: 290  81  81
+
+ Node[450]o f t: 286  72  72
+
+ Node[451]o f t: 287  74  74
+
+ Node[452]o f t: 288  74  74
+
+ Node[453]o f t: 288  70  70
+
+ Node[454]o f t: 289  73  73
+
+ Node[455]o f t: 287  71  71
+
+ Node[456]o f t: 286  73  73
+
+ Node[457]o f t: 290  96  96
+
+ Node[458]o f t: 289  68  68
+
+ Node[459]o f t: 290  86  86
+
+ Node[460]o f t: 289  73  73
+
+ Node[461]o f t: 286  69  69
+
+ Node[462]o f t: 290  111  111
+
+ Node[463]o f t: 288  70  70
+
+ Node[464]o f t: 289  68  68
+
+ Node[465]o f t: 286  71  71
+
+ Node[466]o f t: 290  73  73
+
+ Node[467]o f t: 288  70  70
+
+ Node[468]o f t: 288  74  74
+
+ Node[469]o f t: 289  76  76
+
+ Node[470]o f t: 287  69  69
+
+ Node[471]o f t: 287  69  69
+
+ Node[472]o f t: 288  70  70
+
+ Node[473]o f t: 287  71  71
+
+ Node[474]o f t: 286  77  77
+
+ Node[475]o f t: 286  73  73
+
+ Node[476]o f t: 287  72  72
+
+ Node[477]o f t: 289  71  71
+
+ Node[478]o f t: 288  97  97
+
+ Node[479]o f t: 288  72  72
+
+ Node[480]o f t: 287  72  72
+
+ Node[481]o f t: 290  78  78
+
+ Node[482]o f t: 287  88  88
+
+ Node[483]o f t: 287  78  78
+
+ Node[484]o f t: 289  73  73
+
+ Node[485]o f t: 290  75  75
+
+ Node[486]o f t: 290  73  73
+
+ Node[487]o f t: 289  82  82
+
+ Node[488]o f t: 288  77  77
+
+ Node[489]o f t: 286  67  67
+
+ Node[490]o f t: 286  103  103
+
+ Node[491]o f t: 289  78  78
+
+ Node[492]o f t: 288  81  81
+
+ Node[493]o f t: 286  69  69
+
+ Node[494]o f t: 287  72  72
+
+ Node[495]o f t: 289  72  72
+
+ Node[496]o f t: 288  76  76
+
+ Node[497]o f t: 288  69  69
+
+ Node[498]o f t: 290  73  73
+
+ Node[499]o f t: 288  70  70
+
+ Node[500]o f t: 287  69  69
+
+ Node[501]o f t: 290  71  71
+
+ Node[502]o f t: 286  74  74
+
+ Node[503]o f t: 290  67  67
+
+ Node[504]o f t: 286  65  65
+
+ Node[505]o f t: 290  66  66
+
+ Node[506]o f t: 289  71  71
+
+ Node[507]o f t: 286  70  70
+
+ Node[508]o f t: 289  73  73
+
+ Node[509]o f t: 286  74  74
+
+ Node[510]o f t: 286  69  69
+
+ Node[511]o f t: 286  68  68
+
+ Node[512]o f t: 289  72  72
+
+ Node[513]o f t: 290  74  74
+
+ Node[514]o f t: 290  71  71
+
+ Node[515]o f t: 287  68  68
+
+ Node[516]o f t: 289  73  73
+
+ Node[517]o f t: 289  92  92
+
+ Node[518]o f t: 290  78  78
+
+ Node[519]o f t: 287  71  71
+
+ Node[520]o f t: 290  74  74
+
+ Node[521]o f t: 290  75  75
+
+ Node[522]o f t: 288  93  93
+
+ Node[523]o f t: 288  69  69
+
+ Node[524]o f t: 287  72  72
+
+ Node[525]o f t: 290  70  70
+
+ Node[526]o f t: 288  75  75
+
+ Node[527]o f t: 286  66  66
+
+ Node[528]o f t: 287  69  69
+
+ Node[529]o f t: 288  74  74
+
+ Node[530]o f t: 288  76  76
+
+ Node[531]o f t: 287  76  76
+
+ Node[532]o f t: 290  73  73
+
+ Node[533]o f t: 288  74  74
+
+ Node[534]o f t: 287  89  89
+
+ Node[535]o f t: 289  106  106
+
+ Node[536]o f t: 286  72  72
+
+ Node[537]o f t: 290  74  74
+
+ Node[538]o f t: 287  74  74
+
+ Node[539]o f t: 289  72  72
+
+ Node[540]o f t: 287  71  71
+
+ Node[541]o f t: 289  73  73
+
+ Node[542]o f t: 286  82  82
+
+ Node[543]o f t: 287  76  76
+
+ Node[544]o f t: 288  71  71
+
+ Node[545]o f t: 288  101  101
+
+ Node[546]o f t: 286  72  72
+
+ Node[547]o f t: 289  72  72
+
+ Node[548]o f t: 289  83  83
+
+ Node[549]o f t: 286  69  69
+
+ Node[550]o f t: 289  71  71
+
+ Node[551]o f t: 288  69  69
+
+ Node[552]o f t: 289  74  74
+
+ Node[553]o f t: 290  73  73
+
+ Node[554]o f t: 289  70  70
+
+ Node[555]o f t: 289  75  75
+
+ Node[556]o f t: 289  71  71
+
+ Node[557]o f t: 286  69  69
+
+ Node[558]o f t: 288  73  73
+
+ Node[559]o f t: 289  71  71
+
+ Node[560]o f t: 286  75  75
+
+ Node[561]o f t: 289  71  71
+
+ Node[562]o f t: 286  68  68
+
+ Node[563]o f t: 290  72  72
+
+ Node[564]o f t: 289  72  72
+
+ Node[565]o f t: 286  71  71
+
+ Node[566]o f t: 286  68  68
+
+ Node[567]o f t: 289  68  68
+
+ Node[568]o f t: 286  71  71
+
+ Node[569]o f t: 288  72  72
+
+ Node[570]o f t: 290  74  74
+
+ Node[571]o f t: 289  85  85
+
+ Node[572]o f t: 287  70  70
+
+ Node[573]o f t: 288  73  73
+
+ Node[574]o f t: 287  87  87
+
+ Node[575]o f t: 289  75  75
+
+ Node[576]o f t: 286  71  71
+
+ Node[577]o f t: 287  69  69
+
+ Node[578]o f t: 289  75  75
+
+ Node[579]o f t: 287  72  72
+
+ Node[580]o f t: 289  73  73
+
+ Node[581]o f t: 288  96  96
+
+ Node[582]o f t: 287  70  70
+
+ Node[583]o f t: 286  68  68
+
+ Node[584]o f t: 290  71  71
+
+ Node[585]o f t: 286  72  72
+
+ Node[586]o f t: 286  93  93
+
+ Node[587]o f t: 287  70  70
+
+ Node[588]o f t: 287  68  68
+
+ Node[589]o f t: 286  70  70
+
+ Node[590]o f t: 290  72  72
+
+ Node[591]o f t: 287  71  71
+
+ Node[592]o f t: 286  73  73
+
+ Node[593]o f t: 288  70  70
+
+ Node[594]o f t: 288  69  69
+
+ Node[595]o f t: 286  67  67
+
+ Node[596]o f t: 289  68  68
+
+ Node[597]o f t: 286  86  86
+
+ Node[598]o f t: 286  65  65
+
+ Node[599]o f t: 290  68  68
+
+ Node[600]o f t: 289  72  72
+
+ Node[601]o f t: 286  100  100
+
+ Node[602]o f t: 287  77  77
+
+ Node[603]o f t: 286  68  68
+
+ Node[604]o f t: 287  70  70
+
+ Node[605]o f t: 289  86  86
+
+ Node[606]o f t: 287  68  68
+
+ Node[607]o f t: 288  90  90
+
+ Node[608]o f t: 286  72  72
+
+ Node[609]o f t: 289  71  71
+
+ Node[610]o f t: 288  71  71
+
+ Node[611]o f t: 290  75  75
+
+ Node[612]o f t: 286  84  84
+
+ Node[613]o f t: 290  72  72
+
+ Node[614]o f t: 289  70  70
+
+ Node[615]o f t: 290  75  75
+
+ Node[616]o f t: 289  70  70
+
+ Node[617]o f t: 289  71  71
+
+ Node[618]o f t: 286  71  71
+
+ Node[619]o f t: 288  73  73
+
+ Node[620]o f t: 289  73  73
+
+ Node[621]o f t: 289  74  74
+
+ Node[622]o f t: 289  72  72
+
+ Node[623]o f t: 287  68  68
+
+ Node[624]o f t: 286  71  71
+
+ Node[625]o f t: 289  83  83
+
+ Node[626]o f t: 290  78  78
+
+ Node[627]o f t: 288  67  67
+
+ Node[628]o f t: 290  72  72
+
+ Node[629]o f t: 289  71  71
+
+ Node[630]o f t: 286  74  74
+
+ Node[631]o f t: 287  72  72
+
+ Node[632]o f t: 286  102  102
+
+ Node[633]o f t: 289  74  74
+
+ Node[634]o f t: 290  75  75
+
+ Node[635]o f t: 289  73  73
+
+ Node[636]o f t: 288  75  75
+
+ Node[637]o f t: 287  70  70
+
+ Node[638]o f t: 289  85  85
+
+ Node[639]o f t: 288  68  68
+
+ Node[640]o f t: 289  72  72
+
+ Node[641]o f t: 289  83  83
+
+ Node[642]o f t: 288  75  75
+
+ Node[643]o f t: 288  76  76
+
+ Node[644]o f t: 287  69  69
+
+ Node[645]o f t: 286  88  88
+
+ Node[646]o f t: 286  73  73
+
+ Node[647]o f t: 288  108  108
+
+ Node[648]o f t: 289  76  76
+
+ Node[649]o f t: 290  66  66
+
+ Node[650]o f t: 288  72  72
+
+ Node[651]o f t: 289  74  74
+
+ Node[652]o f t: 287  74  74
+
+ Node[653]o f t: 290  98  98
+
+ Node[654]o f t: 289  74  74
+
+ Node[655]o f t: 290  72  72
+
+ Node[656]o f t: 287  76  76
+
+ Node[657]o f t: 286  103  103
+
+ Node[658]o f t: 286  64  64
+
+ Node[659]o f t: 289  75  75
+
+ Node[660]o f t: 286  72  72
+
+ Node[661]o f t: 290  77  77
+
+ Node[662]o f t: 290  78  78
+
+ Node[663]o f t: 288  70  70
+
+ Node[664]o f t: 290  97  97
+
+ Node[665]o f t: 290  101  101
+
+ Node[666]o f t: 290  75  75
+
+ Node[667]o f t: 288  70  70
+
+ Node[668]o f t: 286  99  99
+
+ Node[669]o f t: 287  70  70
+
+ Node[670]o f t: 286  70  70
+
+ Node[671]o f t: 290  66  66
+
+ Node[672]o f t: 290  72  72
+
+ Node[673]o f t: 290  105  105
+
+ Node[674]o f t: 290  72  72
+
+ Node[675]o f t: 286  76  76
+
+ Node[676]o f t: 286  69  69
+
+ Node[677]o f t: 286  69  69
+
+ Node[678]o f t: 288  75  75
+
+ Node[679]o f t: 286  69  69
+
+ Node[680]o f t: 287  83  83
+
+ Node[681]o f t: 288  65  65
+
+ Node[682]o f t: 288  73  73
+
+ Node[683]o f t: 287  69  69
+
+ Node[684]o f t: 286  71  71
+
+ Node[685]o f t: 288  75  75
+
+ Node[686]o f t: 287  67  67
+
+ Node[687]o f t: 289  73  73
+
+ Node[688]o f t: 286  69  69
+
+ Node[689]o f t: 290  71  71
+
+ Node[690]o f t: 290  68  68
+
+ Node[691]o f t: 290  69  69
+
+ Node[692]o f t: 290  73  73
+
+ Node[693]o f t: 289  71  71
+
+ Node[694]o f t: 286  70  70
+
+ Node[695]o f t: 289  72  72
+
+ Node[696]o f t: 290  75  75
+
+ Node[697]o f t: 290  69  69
+
+ Node[698]o f t: 289  75  75
+
+ Node[699]o f t: 288  67  67
+
+ Node[700]o f t: 289  71  71
+
+ Node[701]o f t: 287  75  75
+
+ Node[702]o f t: 288  74  74
+
+ Node[703]o f t: 289  74  74
+
+ Node[704]o f t: 286  72  72
+
+ Node[705]o f t: 289  75  75
+
+ Node[706]o f t: 287  67  67
+
+ Node[707]o f t: 290  82  82
+
+ Node[708]o f t: 286  73  73
+
+ Node[709]o f t: 286  75  75
+
+ Node[710]o f t: 290  72  72
+
+ Node[711]o f t: 288  74  74
+
+ Node[712]o f t: 286  72  72
+
+ Node[713]o f t: 289  72  72
+
+ Node[714]o f t: 290  74  74
+
+ Node[715]o f t: 286  85  85
+
+ Node[716]o f t: 286  70  70
+
+ Node[717]o f t: 289  71  71
+
+ Node[718]o f t: 286  69  69
+
+ Node[719]o f t: 286  72  72
+
+ Node[720]o f t: 289  70  70
+
+ Node[721]o f t: 286  72  72
+
+ Node[722]o f t: 289  71  71
+
+ Node[723]o f t: 288  80  80
+
+ Node[724]o f t: 290  71  71
+
+ Node[725]o f t: 288  74  74
+
+ Node[726]o f t: 290  69  69
+
+ Node[727]o f t: 287  69  69
+
+ Node[728]o f t: 290  71  71
+
+ Node[729]o f t: 287  74  74
+
+ Node[730]o f t: 286  68  68
+
+ Node[731]o f t: 290  74  74
+
+ Node[732]o f t: 290  74  74
+
+ Node[733]o f t: 289  76  76
+
+ Node[734]o f t: 289  71  71
+
+ Node[735]o f t: 288  74  74
+
+ Node[736]o f t: 289  75  75
+
+ Node[737]o f t: 288  73  73
+
+ Node[738]o f t: 290  75  75
+
+ Node[739]o f t: 287  102  102
+
+ Node[740]o f t: 289  70  70
+
+ Node[741]o f t: 286  82  82
+
+ Node[742]o f t: 287  73  73
+
+ Node[743]o f t: 289  71  71
+
+ Node[744]o f t: 286  72  72
+
+ Node[745]o f t: 286  68  68
+
+ Node[746]o f t: 287  77  77
+
+ Node[747]o f t: 287  64  64
+
+ Node[748]o f t: 287  68  68
+
+ Node[749]o f t: 290  74  74
+
+awake time avg Node[1]: 46.512ms
+
+awake time avg Node[2]: 49.932ms
+
+awake time avg Node[3]: 49.932ms
+
+awake time avg Node[4]: 50.616ms
+
+awake time avg Node[5]: 44.46ms
+
+awake time avg Node[6]: 70.452ms
+
+awake time avg Node[7]: 47.196ms
+
+awake time avg Node[8]: 48.564ms
+
+awake time avg Node[9]: 45.828ms
+
+awake time avg Node[10]: 71.82ms
+
+awake time avg Node[11]: 49.248ms
+
+awake time avg Node[12]: 50.616ms
+
+awake time avg Node[13]: 49.932ms
+
+awake time avg Node[14]: 49.248ms
+
+awake time avg Node[15]: 49.248ms
+
+awake time avg Node[16]: 49.248ms
+
+awake time avg Node[17]: 47.196ms
+
+awake time avg Node[18]: 49.248ms
+
+awake time avg Node[19]: 48.564ms
+
+awake time avg Node[20]: 49.248ms
+
+awake time avg Node[21]: 69.084ms
+
+awake time avg Node[22]: 49.932ms
+
+awake time avg Node[23]: 59.508ms
+
+awake time avg Node[24]: 49.248ms
+
+awake time avg Node[25]: 47.196ms
+
+awake time avg Node[26]: 47.88ms
+
+awake time avg Node[27]: 53.352ms
+
+awake time avg Node[28]: 54.72ms
+
+awake time avg Node[29]: 47.88ms
+
+awake time avg Node[30]: 50.616ms
+
+awake time avg Node[31]: 46.512ms
+
+awake time avg Node[32]: 49.248ms
+
+awake time avg Node[33]: 48.564ms
+
+awake time avg Node[34]: 49.248ms
+
+awake time avg Node[35]: 49.932ms
+
+awake time avg Node[36]: 49.932ms
+
+awake time avg Node[37]: 48.564ms
+
+awake time avg Node[38]: 49.248ms
+
+awake time avg Node[39]: 72.504ms
+
+awake time avg Node[40]: 47.196ms
+
+awake time avg Node[41]: 47.88ms
+
+awake time avg Node[42]: 55.404ms
+
+awake time avg Node[43]: 61.56ms
+
+awake time avg Node[44]: 49.932ms
+
+awake time avg Node[45]: 56.088ms
+
+awake time avg Node[46]: 51.3ms
+
+awake time avg Node[47]: 48.564ms
+
+awake time avg Node[48]: 45.828ms
+
+awake time avg Node[49]: 47.88ms
+
+awake time avg Node[50]: 49.932ms
+
+awake time avg Node[51]: 61.56ms
+
+awake time avg Node[52]: 47.196ms
+
+awake time avg Node[53]: 45.144ms
+
+awake time avg Node[54]: 49.932ms
+
+awake time avg Node[55]: 44.46ms
+
+awake time avg Node[56]: 49.248ms
+
+awake time avg Node[57]: 47.196ms
+
+awake time avg Node[58]: 49.932ms
+
+awake time avg Node[59]: 49.932ms
+
+awake time avg Node[60]: 47.196ms
+
+awake time avg Node[61]: 47.196ms
+
+awake time avg Node[62]: 47.196ms
+
+awake time avg Node[63]: 65.664ms
+
+awake time avg Node[64]: 47.88ms
+
+awake time avg Node[65]: 47.88ms
+
+awake time avg Node[66]: 50.616ms
+
+awake time avg Node[67]: 55.404ms
+
+awake time avg Node[68]: 47.196ms
+
+awake time avg Node[69]: 47.196ms
+
+awake time avg Node[70]: 50.616ms
+
+awake time avg Node[71]: 51.3ms
+
+awake time avg Node[72]: 49.932ms
+
+awake time avg Node[73]: 47.88ms
+
+awake time avg Node[74]: 47.196ms
+
+awake time avg Node[75]: 51.3ms
+
+awake time avg Node[76]: 52.668ms
+
+awake time avg Node[77]: 54.036ms
+
+awake time avg Node[78]: 49.248ms
+
+awake time avg Node[79]: 47.88ms
+
+awake time avg Node[80]: 48.564ms
+
+awake time avg Node[81]: 53.352ms
+
+awake time avg Node[82]: 49.932ms
+
+awake time avg Node[83]: 48.564ms
+
+awake time avg Node[84]: 58.14ms
+
+awake time avg Node[85]: 49.932ms
+
+awake time avg Node[86]: 47.88ms
+
+awake time avg Node[87]: 47.88ms
+
+awake time avg Node[88]: 54.036ms
+
+awake time avg Node[89]: 50.616ms
+
+awake time avg Node[90]: 50.616ms
+
+awake time avg Node[91]: 48.564ms
+
+awake time avg Node[92]: 49.932ms
+
+awake time avg Node[93]: 53.352ms
+
+awake time avg Node[94]: 47.88ms
+
+awake time avg Node[95]: 51.984ms
+
+awake time avg Node[96]: 49.248ms
+
+awake time avg Node[97]: 49.932ms
+
+awake time avg Node[98]: 49.932ms
+
+awake time avg Node[99]: 49.932ms
+
+awake time avg Node[100]: 48.564ms
+
+awake time avg Node[101]: 47.196ms
+
+awake time avg Node[102]: 49.248ms
+
+awake time avg Node[103]: 49.248ms
+
+awake time avg Node[104]: 49.248ms
+
+awake time avg Node[105]: 49.248ms
+
+awake time avg Node[106]: 47.196ms
+
+awake time avg Node[107]: 47.196ms
+
+awake time avg Node[108]: 64.296ms
+
+awake time avg Node[109]: 51.3ms
+
+awake time avg Node[110]: 51.3ms
+
+awake time avg Node[111]: 48.564ms
+
+awake time avg Node[112]: 51.3ms
+
+awake time avg Node[113]: 47.88ms
+
+awake time avg Node[114]: 47.88ms
+
+awake time avg Node[115]: 49.248ms
+
+awake time avg Node[116]: 48.564ms
+
+awake time avg Node[117]: 46.512ms
+
+awake time avg Node[118]: 46.512ms
+
+awake time avg Node[119]: 50.616ms
+
+awake time avg Node[120]: 47.196ms
+
+awake time avg Node[121]: 50.616ms
+
+awake time avg Node[122]: 56.088ms
+
+awake time avg Node[123]: 49.932ms
+
+awake time avg Node[124]: 50.616ms
+
+awake time avg Node[125]: 45.828ms
+
+awake time avg Node[126]: 47.196ms
+
+awake time avg Node[127]: 45.828ms
+
+awake time avg Node[128]: 50.616ms
+
+awake time avg Node[129]: 47.196ms
+
+awake time avg Node[130]: 49.932ms
+
+awake time avg Node[131]: 50.616ms
+
+awake time avg Node[132]: 47.196ms
+
+awake time avg Node[133]: 45.828ms
+
+awake time avg Node[134]: 71.82ms
+
+awake time avg Node[135]: 50.616ms
+
+awake time avg Node[136]: 47.196ms
+
+awake time avg Node[137]: 67.032ms
+
+awake time avg Node[138]: 50.616ms
+
+awake time avg Node[139]: 60.876ms
+
+awake time avg Node[140]: 49.248ms
+
+awake time avg Node[141]: 49.248ms
+
+awake time avg Node[142]: 47.88ms
+
+awake time avg Node[143]: 49.932ms
+
+awake time avg Node[144]: 46.512ms
+
+awake time avg Node[145]: 48.564ms
+
+awake time avg Node[146]: 45.828ms
+
+awake time avg Node[147]: 51.984ms
+
+awake time avg Node[148]: 48.564ms
+
+awake time avg Node[149]: 63.612ms
+
+awake time avg Node[150]: 46.512ms
+
+awake time avg Node[151]: 51.984ms
+
+awake time avg Node[152]: 58.824ms
+
+awake time avg Node[153]: 50.616ms
+
+awake time avg Node[154]: 49.932ms
+
+awake time avg Node[155]: 46.512ms
+
+awake time avg Node[156]: 45.828ms
+
+awake time avg Node[157]: 47.88ms
+
+awake time avg Node[158]: 51.3ms
+
+awake time avg Node[159]: 49.932ms
+
+awake time avg Node[160]: 51.984ms
+
+awake time avg Node[161]: 51.3ms
+
+awake time avg Node[162]: 50.616ms
+
+awake time avg Node[163]: 49.248ms
+
+awake time avg Node[164]: 56.772ms
+
+awake time avg Node[165]: 49.248ms
+
+awake time avg Node[166]: 58.14ms
+
+awake time avg Node[167]: 48.564ms
+
+awake time avg Node[168]: 48.564ms
+
+awake time avg Node[169]: 48.564ms
+
+awake time avg Node[170]: 49.248ms
+
+awake time avg Node[171]: 50.616ms
+
+awake time avg Node[172]: 52.668ms
+
+awake time avg Node[173]: 48.564ms
+
+awake time avg Node[174]: 50.616ms
+
+awake time avg Node[175]: 52.668ms
+
+awake time avg Node[176]: 48.564ms
+
+awake time avg Node[177]: 49.248ms
+
+awake time avg Node[178]: 49.932ms
+
+awake time avg Node[179]: 47.88ms
+
+awake time avg Node[180]: 48.564ms
+
+awake time avg Node[181]: 50.616ms
+
+awake time avg Node[182]: 70.452ms
+
+awake time avg Node[183]: 48.564ms
+
+awake time avg Node[184]: 47.196ms
+
+awake time avg Node[185]: 46.512ms
+
+awake time avg Node[186]: 47.88ms
+
+awake time avg Node[187]: 49.248ms
+
+awake time avg Node[188]: 48.564ms
+
+awake time avg Node[189]: 50.616ms
+
+awake time avg Node[190]: 45.144ms
+
+awake time avg Node[191]: 49.248ms
+
+awake time avg Node[192]: 46.512ms
+
+awake time avg Node[193]: 47.88ms
+
+awake time avg Node[194]: 48.564ms
+
+awake time avg Node[195]: 75.924ms
+
+awake time avg Node[196]: 49.932ms
+
+awake time avg Node[197]: 47.88ms
+
+awake time avg Node[198]: 45.828ms
+
+awake time avg Node[199]: 72.504ms
+
+awake time avg Node[200]: 54.036ms
+
+awake time avg Node[201]: 54.72ms
+
+awake time avg Node[202]: 51.3ms
+
+awake time avg Node[203]: 51.3ms
+
+awake time avg Node[204]: 49.932ms
+
+awake time avg Node[205]: 49.932ms
+
+awake time avg Node[206]: 47.88ms
+
+awake time avg Node[207]: 49.248ms
+
+awake time avg Node[208]: 49.248ms
+
+awake time avg Node[209]: 45.828ms
+
+awake time avg Node[210]: 46.512ms
+
+awake time avg Node[211]: 43.776ms
+
+awake time avg Node[212]: 49.932ms
+
+awake time avg Node[213]: 49.248ms
+
+awake time avg Node[214]: 49.248ms
+
+awake time avg Node[215]: 46.512ms
+
+awake time avg Node[216]: 45.144ms
+
+awake time avg Node[217]: 48.564ms
+
+awake time avg Node[218]: 68.4ms
+
+awake time avg Node[219]: 59.508ms
+
+awake time avg Node[220]: 49.248ms
+
+awake time avg Node[221]: 49.248ms
+
+awake time avg Node[222]: 47.196ms
+
+awake time avg Node[223]: 47.88ms
+
+awake time avg Node[224]: 49.932ms
+
+awake time avg Node[225]: 51.3ms
+
+awake time avg Node[226]: 69.084ms
+
+awake time avg Node[227]: 47.88ms
+
+awake time avg Node[228]: 48.564ms
+
+awake time avg Node[229]: 51.3ms
+
+awake time avg Node[230]: 58.14ms
+
+awake time avg Node[231]: 49.248ms
+
+awake time avg Node[232]: 55.404ms
+
+awake time avg Node[233]: 50.616ms
+
+awake time avg Node[234]: 49.932ms
+
+awake time avg Node[235]: 51.3ms
+
+awake time avg Node[236]: 50.616ms
+
+awake time avg Node[237]: 51.984ms
+
+awake time avg Node[238]: 60.192ms
+
+awake time avg Node[239]: 49.248ms
+
+awake time avg Node[240]: 47.88ms
+
+awake time avg Node[241]: 51.984ms
+
+awake time avg Node[242]: 49.248ms
+
+awake time avg Node[243]: 49.248ms
+
+awake time avg Node[244]: 50.616ms
+
+awake time avg Node[245]: 49.932ms
+
+awake time avg Node[246]: 51.3ms
+
+awake time avg Node[247]: 48.564ms
+
+awake time avg Node[248]: 51.3ms
+
+awake time avg Node[249]: 60.876ms
+
+awake time avg Node[250]: 50.616ms
+
+awake time avg Node[251]: 79.344ms
+
+awake time avg Node[252]: 49.248ms
+
+awake time avg Node[253]: 47.196ms
+
+awake time avg Node[254]: 70.452ms
+
+awake time avg Node[255]: 46.512ms
+
+awake time avg Node[256]: 49.248ms
+
+awake time avg Node[257]: 60.192ms
+
+awake time avg Node[258]: 48.564ms
+
+awake time avg Node[259]: 51.3ms
+
+awake time avg Node[260]: 45.828ms
+
+awake time avg Node[261]: 47.88ms
+
+awake time avg Node[262]: 45.828ms
+
+awake time avg Node[263]: 47.196ms
+
+awake time avg Node[264]: 48.564ms
+
+awake time avg Node[265]: 47.196ms
+
+awake time avg Node[266]: 51.984ms
+
+awake time avg Node[267]: 54.036ms
+
+awake time avg Node[268]: 75.924ms
+
+awake time avg Node[269]: 48.564ms
+
+awake time avg Node[270]: 47.88ms
+
+awake time avg Node[271]: 50.616ms
+
+awake time avg Node[272]: 47.88ms
+
+awake time avg Node[273]: 49.932ms
+
+awake time avg Node[274]: 49.248ms
+
+awake time avg Node[275]: 54.72ms
+
+awake time avg Node[276]: 62.244ms
+
+awake time avg Node[277]: 49.932ms
+
+awake time avg Node[278]: 49.248ms
+
+awake time avg Node[279]: 63.612ms
+
+awake time avg Node[280]: 47.88ms
+
+awake time avg Node[281]: 49.932ms
+
+awake time avg Node[282]: 69.084ms
+
+awake time avg Node[283]: 58.14ms
+
+awake time avg Node[284]: 48.564ms
+
+awake time avg Node[285]: 49.932ms
+
+awake time avg Node[286]: 46.512ms
+
+awake time avg Node[287]: 47.88ms
+
+awake time avg Node[288]: 47.88ms
+
+awake time avg Node[289]: 49.248ms
+
+awake time avg Node[290]: 45.828ms
+
+awake time avg Node[291]: 47.88ms
+
+awake time avg Node[292]: 51.984ms
+
+awake time avg Node[293]: 52.668ms
+
+awake time avg Node[294]: 46.512ms
+
+awake time avg Node[295]: 57.456ms
+
+awake time avg Node[296]: 53.352ms
+
+awake time avg Node[297]: 47.196ms
+
+awake time avg Node[298]: 51.3ms
+
+awake time avg Node[299]: 48.564ms
+
+awake time avg Node[300]: 67.032ms
+
+awake time avg Node[301]: 49.248ms
+
+awake time avg Node[302]: 56.088ms
+
+awake time avg Node[303]: 73.188ms
+
+awake time avg Node[304]: 49.248ms
+
+awake time avg Node[305]: 47.196ms
+
+awake time avg Node[306]: 51.3ms
+
+awake time avg Node[307]: 51.984ms
+
+awake time avg Node[308]: 50.616ms
+
+awake time avg Node[309]: 49.248ms
+
+awake time avg Node[310]: 46.512ms
+
+awake time avg Node[311]: 71.136ms
+
+awake time avg Node[312]: 51.3ms
+
+awake time avg Node[313]: 47.196ms
+
+awake time avg Node[314]: 47.196ms
+
+awake time avg Node[315]: 47.88ms
+
+awake time avg Node[316]: 48.564ms
+
+awake time avg Node[317]: 45.144ms
+
+awake time avg Node[318]: 47.196ms
+
+awake time avg Node[319]: 50.616ms
+
+awake time avg Node[320]: 50.616ms
+
+awake time avg Node[321]: 49.932ms
+
+awake time avg Node[322]: 48.564ms
+
+awake time avg Node[323]: 52.668ms
+
+awake time avg Node[324]: 52.668ms
+
+awake time avg Node[325]: 47.88ms
+
+awake time avg Node[326]: 63.612ms
+
+awake time avg Node[327]: 50.616ms
+
+awake time avg Node[328]: 45.828ms
+
+awake time avg Node[329]: 51.984ms
+
+awake time avg Node[330]: 57.456ms
+
+awake time avg Node[331]: 51.3ms
+
+awake time avg Node[332]: 64.98ms
+
+awake time avg Node[333]: 49.932ms
+
+awake time avg Node[334]: 47.88ms
+
+awake time avg Node[335]: 65.664ms
+
+awake time avg Node[336]: 45.828ms
+
+awake time avg Node[337]: 48.564ms
+
+awake time avg Node[338]: 49.248ms
+
+awake time avg Node[339]: 57.456ms
+
+awake time avg Node[340]: 49.248ms
+
+awake time avg Node[341]: 49.248ms
+
+awake time avg Node[342]: 45.828ms
+
+awake time avg Node[343]: 47.196ms
+
+awake time avg Node[344]: 48.564ms
+
+awake time avg Node[345]: 46.512ms
+
+awake time avg Node[346]: 51.984ms
+
+awake time avg Node[347]: 60.876ms
+
+awake time avg Node[348]: 47.196ms
+
+awake time avg Node[349]: 55.404ms
+
+awake time avg Node[350]: 46.512ms
+
+awake time avg Node[351]: 47.196ms
+
+awake time avg Node[352]: 58.824ms
+
+awake time avg Node[353]: 49.932ms
+
+awake time avg Node[354]: 67.716ms
+
+awake time avg Node[355]: 48.564ms
+
+awake time avg Node[356]: 51.3ms
+
+awake time avg Node[357]: 49.932ms
+
+awake time avg Node[358]: 50.616ms
+
+awake time avg Node[359]: 47.88ms
+
+awake time avg Node[360]: 50.616ms
+
+awake time avg Node[361]: 57.456ms
+
+awake time avg Node[362]: 47.88ms
+
+awake time avg Node[363]: 48.564ms
+
+awake time avg Node[364]: 50.616ms
+
+awake time avg Node[365]: 61.56ms
+
+awake time avg Node[366]: 50.616ms
+
+awake time avg Node[367]: 48.564ms
+
+awake time avg Node[368]: 47.196ms
+
+awake time avg Node[369]: 47.88ms
+
+awake time avg Node[370]: 51.984ms
+
+awake time avg Node[371]: 48.564ms
+
+awake time avg Node[372]: 51.3ms
+
+awake time avg Node[373]: 52.668ms
+
+awake time avg Node[374]: 46.512ms
+
+awake time avg Node[375]: 48.564ms
+
+awake time avg Node[376]: 47.88ms
+
+awake time avg Node[377]: 53.352ms
+
+awake time avg Node[378]: 47.196ms
+
+awake time avg Node[379]: 46.512ms
+
+awake time avg Node[380]: 51.984ms
+
+awake time avg Node[381]: 69.084ms
+
+awake time avg Node[382]: 50.616ms
+
+awake time avg Node[383]: 51.3ms
+
+awake time avg Node[384]: 47.88ms
+
+awake time avg Node[385]: 49.248ms
+
+awake time avg Node[386]: 60.192ms
+
+awake time avg Node[387]: 48.564ms
+
+awake time avg Node[388]: 51.984ms
+
+awake time avg Node[389]: 49.248ms
+
+awake time avg Node[390]: 73.872ms
+
+awake time avg Node[391]: 47.88ms
+
+awake time avg Node[392]: 47.88ms
+
+awake time avg Node[393]: 54.72ms
+
+awake time avg Node[394]: 49.248ms
+
+awake time avg Node[395]: 51.3ms
+
+awake time avg Node[396]: 47.88ms
+
+awake time avg Node[397]: 45.828ms
+
+awake time avg Node[398]: 46.512ms
+
+awake time avg Node[399]: 52.668ms
+
+awake time avg Node[400]: 49.248ms
+
+awake time avg Node[401]: 49.248ms
+
+awake time avg Node[402]: 49.932ms
+
+awake time avg Node[403]: 52.668ms
+
+awake time avg Node[404]: 55.404ms
+
+awake time avg Node[405]: 50.616ms
+
+awake time avg Node[406]: 48.564ms
+
+awake time avg Node[407]: 44.46ms
+
+awake time avg Node[408]: 47.196ms
+
+awake time avg Node[409]: 53.352ms
+
+awake time avg Node[410]: 45.144ms
+
+awake time avg Node[411]: 54.72ms
+
+awake time avg Node[412]: 48.564ms
+
+awake time avg Node[413]: 49.248ms
+
+awake time avg Node[414]: 47.196ms
+
+awake time avg Node[415]: 51.3ms
+
+awake time avg Node[416]: 47.88ms
+
+awake time avg Node[417]: 52.668ms
+
+awake time avg Node[418]: 51.3ms
+
+awake time avg Node[419]: 47.88ms
+
+awake time avg Node[420]: 49.932ms
+
+awake time avg Node[421]: 49.932ms
+
+awake time avg Node[422]: 56.088ms
+
+awake time avg Node[423]: 46.512ms
+
+awake time avg Node[424]: 52.668ms
+
+awake time avg Node[425]: 51.3ms
+
+awake time avg Node[426]: 49.932ms
+
+awake time avg Node[427]: 49.932ms
+
+awake time avg Node[428]: 54.72ms
+
+awake time avg Node[429]: 49.248ms
+
+awake time avg Node[430]: 53.352ms
+
+awake time avg Node[431]: 64.296ms
+
+awake time avg Node[432]: 45.828ms
+
+awake time avg Node[433]: 49.248ms
+
+awake time avg Node[434]: 50.616ms
+
+awake time avg Node[435]: 57.456ms
+
+awake time avg Node[436]: 48.564ms
+
+awake time avg Node[437]: 49.932ms
+
+awake time avg Node[438]: 48.564ms
+
+awake time avg Node[439]: 47.196ms
+
+awake time avg Node[440]: 49.932ms
+
+awake time avg Node[441]: 49.932ms
+
+awake time avg Node[442]: 49.932ms
+
+awake time avg Node[443]: 66.348ms
+
+awake time avg Node[444]: 49.932ms
+
+awake time avg Node[445]: 49.932ms
+
+awake time avg Node[446]: 46.512ms
+
+awake time avg Node[447]: 51.3ms
+
+awake time avg Node[448]: 48.564ms
+
+awake time avg Node[449]: 55.404ms
+
+awake time avg Node[450]: 49.248ms
+
+awake time avg Node[451]: 50.616ms
+
+awake time avg Node[452]: 50.616ms
+
+awake time avg Node[453]: 47.88ms
+
+awake time avg Node[454]: 49.932ms
+
+awake time avg Node[455]: 48.564ms
+
+awake time avg Node[456]: 49.932ms
+
+awake time avg Node[457]: 65.664ms
+
+awake time avg Node[458]: 46.512ms
+
+awake time avg Node[459]: 58.824ms
+
+awake time avg Node[460]: 49.932ms
+
+awake time avg Node[461]: 47.196ms
+
+awake time avg Node[462]: 75.924ms
+
+awake time avg Node[463]: 47.88ms
+
+awake time avg Node[464]: 46.512ms
+
+awake time avg Node[465]: 48.564ms
+
+awake time avg Node[466]: 49.932ms
+
+awake time avg Node[467]: 47.88ms
+
+awake time avg Node[468]: 50.616ms
+
+awake time avg Node[469]: 51.984ms
+
+awake time avg Node[470]: 47.196ms
+
+awake time avg Node[471]: 47.196ms
+
+awake time avg Node[472]: 47.88ms
+
+awake time avg Node[473]: 48.564ms
+
+awake time avg Node[474]: 52.668ms
+
+awake time avg Node[475]: 49.932ms
+
+awake time avg Node[476]: 49.248ms
+
+awake time avg Node[477]: 48.564ms
+
+awake time avg Node[478]: 66.348ms
+
+awake time avg Node[479]: 49.248ms
+
+awake time avg Node[480]: 49.248ms
+
+awake time avg Node[481]: 53.352ms
+
+awake time avg Node[482]: 60.192ms
+
+awake time avg Node[483]: 53.352ms
+
+awake time avg Node[484]: 49.932ms
+
+awake time avg Node[485]: 51.3ms
+
+awake time avg Node[486]: 49.932ms
+
+awake time avg Node[487]: 56.088ms
+
+awake time avg Node[488]: 52.668ms
+
+awake time avg Node[489]: 45.828ms
+
+awake time avg Node[490]: 70.452ms
+
+awake time avg Node[491]: 53.352ms
+
+awake time avg Node[492]: 55.404ms
+
+awake time avg Node[493]: 47.196ms
+
+awake time avg Node[494]: 49.248ms
+
+awake time avg Node[495]: 49.248ms
+
+awake time avg Node[496]: 51.984ms
+
+awake time avg Node[497]: 47.196ms
+
+awake time avg Node[498]: 49.932ms
+
+awake time avg Node[499]: 47.88ms
+
+awake time avg Node[500]: 47.196ms
+
+awake time avg Node[501]: 48.564ms
+
+awake time avg Node[502]: 50.616ms
+
+awake time avg Node[503]: 45.828ms
+
+awake time avg Node[504]: 44.46ms
+
+awake time avg Node[505]: 45.144ms
+
+awake time avg Node[506]: 48.564ms
+
+awake time avg Node[507]: 47.88ms
+
+awake time avg Node[508]: 49.932ms
+
+awake time avg Node[509]: 50.616ms
+
+awake time avg Node[510]: 47.196ms
+
+awake time avg Node[511]: 46.512ms
+
+awake time avg Node[512]: 49.248ms
+
+awake time avg Node[513]: 50.616ms
+
+awake time avg Node[514]: 48.564ms
+
+awake time avg Node[515]: 46.512ms
+
+awake time avg Node[516]: 49.932ms
+
+awake time avg Node[517]: 62.928ms
+
+awake time avg Node[518]: 53.352ms
+
+awake time avg Node[519]: 48.564ms
+
+awake time avg Node[520]: 50.616ms
+
+awake time avg Node[521]: 51.3ms
+
+awake time avg Node[522]: 63.612ms
+
+awake time avg Node[523]: 47.196ms
+
+awake time avg Node[524]: 49.248ms
+
+awake time avg Node[525]: 47.88ms
+
+awake time avg Node[526]: 51.3ms
+
+awake time avg Node[527]: 45.144ms
+
+awake time avg Node[528]: 47.196ms
+
+awake time avg Node[529]: 50.616ms
+
+awake time avg Node[530]: 51.984ms
+
+awake time avg Node[531]: 51.984ms
+
+awake time avg Node[532]: 49.932ms
+
+awake time avg Node[533]: 50.616ms
+
+awake time avg Node[534]: 60.876ms
+
+awake time avg Node[535]: 72.504ms
+
+awake time avg Node[536]: 49.248ms
+
+awake time avg Node[537]: 50.616ms
+
+awake time avg Node[538]: 50.616ms
+
+awake time avg Node[539]: 49.248ms
+
+awake time avg Node[540]: 48.564ms
+
+awake time avg Node[541]: 49.932ms
+
+awake time avg Node[542]: 56.088ms
+
+awake time avg Node[543]: 51.984ms
+
+awake time avg Node[544]: 48.564ms
+
+awake time avg Node[545]: 69.084ms
+
+awake time avg Node[546]: 49.248ms
+
+awake time avg Node[547]: 49.248ms
+
+awake time avg Node[548]: 56.772ms
+
+awake time avg Node[549]: 47.196ms
+
+awake time avg Node[550]: 48.564ms
+
+awake time avg Node[551]: 47.196ms
+
+awake time avg Node[552]: 50.616ms
+
+awake time avg Node[553]: 49.932ms
+
+awake time avg Node[554]: 47.88ms
+
+awake time avg Node[555]: 51.3ms
+
+awake time avg Node[556]: 48.564ms
+
+awake time avg Node[557]: 47.196ms
+
+awake time avg Node[558]: 49.932ms
+
+awake time avg Node[559]: 48.564ms
+
+awake time avg Node[560]: 51.3ms
+
+awake time avg Node[561]: 48.564ms
+
+awake time avg Node[562]: 46.512ms
+
+awake time avg Node[563]: 49.248ms
+
+awake time avg Node[564]: 49.248ms
+
+awake time avg Node[565]: 48.564ms
+
+awake time avg Node[566]: 46.512ms
+
+awake time avg Node[567]: 46.512ms
+
+awake time avg Node[568]: 48.564ms
+
+awake time avg Node[569]: 49.248ms
+
+awake time avg Node[570]: 50.616ms
+
+awake time avg Node[571]: 58.14ms
+
+awake time avg Node[572]: 47.88ms
+
+awake time avg Node[573]: 49.932ms
+
+awake time avg Node[574]: 59.508ms
+
+awake time avg Node[575]: 51.3ms
+
+awake time avg Node[576]: 48.564ms
+
+awake time avg Node[577]: 47.196ms
+
+awake time avg Node[578]: 51.3ms
+
+awake time avg Node[579]: 49.248ms
+
+awake time avg Node[580]: 49.932ms
+
+awake time avg Node[581]: 65.664ms
+
+awake time avg Node[582]: 47.88ms
+
+awake time avg Node[583]: 46.512ms
+
+awake time avg Node[584]: 48.564ms
+
+awake time avg Node[585]: 49.248ms
+
+awake time avg Node[586]: 63.612ms
+
+awake time avg Node[587]: 47.88ms
+
+awake time avg Node[588]: 46.512ms
+
+awake time avg Node[589]: 47.88ms
+
+awake time avg Node[590]: 49.248ms
+
+awake time avg Node[591]: 48.564ms
+
+awake time avg Node[592]: 49.932ms
+
+awake time avg Node[593]: 47.88ms
+
+awake time avg Node[594]: 47.196ms
+
+awake time avg Node[595]: 45.828ms
+
+awake time avg Node[596]: 46.512ms
+
+awake time avg Node[597]: 58.824ms
+
+awake time avg Node[598]: 44.46ms
+
+awake time avg Node[599]: 46.512ms
+
+awake time avg Node[600]: 49.248ms
+
+awake time avg Node[601]: 68.4ms
+
+awake time avg Node[602]: 52.668ms
+
+awake time avg Node[603]: 46.512ms
+
+awake time avg Node[604]: 47.88ms
+
+awake time avg Node[605]: 58.824ms
+
+awake time avg Node[606]: 46.512ms
+
+awake time avg Node[607]: 61.56ms
+
+awake time avg Node[608]: 49.248ms
+
+awake time avg Node[609]: 48.564ms
+
+awake time avg Node[610]: 48.564ms
+
+awake time avg Node[611]: 51.3ms
+
+awake time avg Node[612]: 57.456ms
+
+awake time avg Node[613]: 49.248ms
+
+awake time avg Node[614]: 47.88ms
+
+awake time avg Node[615]: 51.3ms
+
+awake time avg Node[616]: 47.88ms
+
+awake time avg Node[617]: 48.564ms
+
+awake time avg Node[618]: 48.564ms
+
+awake time avg Node[619]: 49.932ms
+
+awake time avg Node[620]: 49.932ms
+
+awake time avg Node[621]: 50.616ms
+
+awake time avg Node[622]: 49.248ms
+
+awake time avg Node[623]: 46.512ms
+
+awake time avg Node[624]: 48.564ms
+
+awake time avg Node[625]: 56.772ms
+
+awake time avg Node[626]: 53.352ms
+
+awake time avg Node[627]: 45.828ms
+
+awake time avg Node[628]: 49.248ms
+
+awake time avg Node[629]: 48.564ms
+
+awake time avg Node[630]: 50.616ms
+
+awake time avg Node[631]: 49.248ms
+
+awake time avg Node[632]: 69.768ms
+
+awake time avg Node[633]: 50.616ms
+
+awake time avg Node[634]: 51.3ms
+
+awake time avg Node[635]: 49.932ms
+
+awake time avg Node[636]: 51.3ms
+
+awake time avg Node[637]: 47.88ms
+
+awake time avg Node[638]: 58.14ms
+
+awake time avg Node[639]: 46.512ms
+
+awake time avg Node[640]: 49.248ms
+
+awake time avg Node[641]: 56.772ms
+
+awake time avg Node[642]: 51.3ms
+
+awake time avg Node[643]: 51.984ms
+
+awake time avg Node[644]: 47.196ms
+
+awake time avg Node[645]: 60.192ms
+
+awake time avg Node[646]: 49.932ms
+
+awake time avg Node[647]: 73.872ms
+
+awake time avg Node[648]: 51.984ms
+
+awake time avg Node[649]: 45.144ms
+
+awake time avg Node[650]: 49.248ms
+
+awake time avg Node[651]: 50.616ms
+
+awake time avg Node[652]: 50.616ms
+
+awake time avg Node[653]: 67.032ms
+
+awake time avg Node[654]: 50.616ms
+
+awake time avg Node[655]: 49.248ms
+
+awake time avg Node[656]: 51.984ms
+
+awake time avg Node[657]: 70.452ms
+
+awake time avg Node[658]: 43.776ms
+
+awake time avg Node[659]: 51.3ms
+
+awake time avg Node[660]: 49.248ms
+
+awake time avg Node[661]: 52.668ms
+
+awake time avg Node[662]: 53.352ms
+
+awake time avg Node[663]: 47.88ms
+
+awake time avg Node[664]: 66.348ms
+
+awake time avg Node[665]: 69.084ms
+
+awake time avg Node[666]: 51.3ms
+
+awake time avg Node[667]: 47.88ms
+
+awake time avg Node[668]: 67.716ms
+
+awake time avg Node[669]: 47.88ms
+
+awake time avg Node[670]: 47.88ms
+
+awake time avg Node[671]: 45.144ms
+
+awake time avg Node[672]: 49.248ms
+
+awake time avg Node[673]: 71.82ms
+
+awake time avg Node[674]: 49.248ms
+
+awake time avg Node[675]: 51.984ms
+
+awake time avg Node[676]: 47.196ms
+
+awake time avg Node[677]: 47.196ms
+
+awake time avg Node[678]: 51.3ms
+
+awake time avg Node[679]: 47.196ms
+
+awake time avg Node[680]: 56.772ms
+
+awake time avg Node[681]: 44.46ms
+
+awake time avg Node[682]: 49.932ms
+
+awake time avg Node[683]: 47.196ms
+
+awake time avg Node[684]: 48.564ms
+
+awake time avg Node[685]: 51.3ms
+
+awake time avg Node[686]: 45.828ms
+
+awake time avg Node[687]: 49.932ms
+
+awake time avg Node[688]: 47.196ms
+
+awake time avg Node[689]: 48.564ms
+
+awake time avg Node[690]: 46.512ms
+
+awake time avg Node[691]: 47.196ms
+
+awake time avg Node[692]: 49.932ms
+
+awake time avg Node[693]: 48.564ms
+
+awake time avg Node[694]: 47.88ms
+
+awake time avg Node[695]: 49.248ms
+
+awake time avg Node[696]: 51.3ms
+
+awake time avg Node[697]: 47.196ms
+
+awake time avg Node[698]: 51.3ms
+
+awake time avg Node[699]: 45.828ms
+
+awake time avg Node[700]: 48.564ms
+
+awake time avg Node[701]: 51.3ms
+
+awake time avg Node[702]: 50.616ms
+
+awake time avg Node[703]: 50.616ms
+
+awake time avg Node[704]: 49.248ms
+
+awake time avg Node[705]: 51.3ms
+
+awake time avg Node[706]: 45.828ms
+
+awake time avg Node[707]: 56.088ms
+
+awake time avg Node[708]: 49.932ms
+
+awake time avg Node[709]: 51.3ms
+
+awake time avg Node[710]: 49.248ms
+
+awake time avg Node[711]: 50.616ms
+
+awake time avg Node[712]: 49.248ms
+
+awake time avg Node[713]: 49.248ms
+
+awake time avg Node[714]: 50.616ms
+
+awake time avg Node[715]: 58.14ms
+
+awake time avg Node[716]: 47.88ms
+
+awake time avg Node[717]: 48.564ms
+
+awake time avg Node[718]: 47.196ms
+
+awake time avg Node[719]: 49.248ms
+
+awake time avg Node[720]: 47.88ms
+
+awake time avg Node[721]: 49.248ms
+
+awake time avg Node[722]: 48.564ms
+
+awake time avg Node[723]: 54.72ms
+
+awake time avg Node[724]: 48.564ms
+
+awake time avg Node[725]: 50.616ms
+
+awake time avg Node[726]: 47.196ms
+
+awake time avg Node[727]: 47.196ms
+
+awake time avg Node[728]: 48.564ms
+
+awake time avg Node[729]: 50.616ms
+
+awake time avg Node[730]: 46.512ms
+
+awake time avg Node[731]: 50.616ms
+
+awake time avg Node[732]: 50.616ms
+
+awake time avg Node[733]: 51.984ms
+
+awake time avg Node[734]: 48.564ms
+
+awake time avg Node[735]: 50.616ms
+
+awake time avg Node[736]: 51.3ms
+
+awake time avg Node[737]: 49.932ms
+
+awake time avg Node[738]: 51.3ms
+
+awake time avg Node[739]: 69.768ms
+
+awake time avg Node[740]: 47.88ms
+
+awake time avg Node[741]: 56.088ms
+
+awake time avg Node[742]: 49.932ms
+
+awake time avg Node[743]: 48.564ms
+
+awake time avg Node[744]: 49.248ms
+
+awake time avg Node[745]: 46.512ms
+
+awake time avg Node[746]: 52.668ms
+
+awake time avg Node[747]: 43.776ms
+
+awake time avg Node[748]: 46.512ms
+
+awake time avg Node[749]: 50.616ms
+
+ Node[0]o f t: 0  0  0
+
+ Node[1]o f t: 68  64  64
+
+ Node[2]o f t: 73  70  70
+
+ Node[3]o f t: 73  72  72
+
+ Node[4]o f t: 74  42  42
+
+ Node[5]o f t: 65  64  64
+
+ Node[6]o f t: 103  14  14
+
+ Node[7]o f t: 69  37  37
+
+ Node[8]o f t: 71  51  51
+
+ Node[9]o f t: 67  58  58
+
+ Node[10]o f t: 105  14  14
+
+ Node[11]o f t: 72  62  62
+
+ Node[12]o f t: 74  52  52
+
+ Node[13]o f t: 73  42  42
+
+ Node[14]o f t: 72  68  68
+
+ Node[15]o f t: 72  44  44
+
+ Node[16]o f t: 72  70  70
+
+ Node[17]o f t: 69  45  45
+
+ Node[18]o f t: 72  53  53
+
+ Node[19]o f t: 71  32  32
+
+ Node[20]o f t: 72  59  59
+
+ Node[21]o f t: 101  15  15
+
+ Node[22]o f t: 73  43  43
+
+ Node[23]o f t: 87  29  29
+
+ Node[24]o f t: 72  67  67
+
+ Node[25]o f t: 69  41  41
+
+ Node[26]o f t: 70  41  41
+
+ Node[27]o f t: 78  30  30
+
+ Node[28]o f t: 80  30  30
+
+ Node[29]o f t: 70  38  38
+
+ Node[30]o f t: 74  44  44
+
+ Node[31]o f t: 68  54  54
+
+ Node[32]o f t: 72  59  59
+
+ Node[33]o f t: 71  71  71
+
+ Node[34]o f t: 72  67  67
+
+ Node[35]o f t: 73  66  66
+
+ Node[36]o f t: 73  71  71
+
+ Node[37]o f t: 71  44  44
+
+ Node[38]o f t: 72  66  66
+
+ Node[39]o f t: 106  18  18
+
+ Node[40]o f t: 69  42  42
+
+ Node[41]o f t: 70  30  30
+
+ Node[42]o f t: 81  37  37
+
+ Node[43]o f t: 90  23  23
+
+ Node[44]o f t: 73  55  55
+
+ Node[45]o f t: 82  25  25
+
+ Node[46]o f t: 75  36  36
+
+ Node[47]o f t: 71  45  45
+
+ Node[48]o f t: 67  59  59
+
+ Node[49]o f t: 70  70  70
+
+ Node[50]o f t: 73  52  52
+
+ Node[51]o f t: 90  16  16
+
+ Node[52]o f t: 69  36  36
+
+ Node[53]o f t: 66  36  36
+
+ Node[54]o f t: 73  72  72
+
+ Node[55]o f t: 65  64  64
+
+ Node[56]o f t: 72  67  67
+
+ Node[57]o f t: 69  69  69
+
+ Node[58]o f t: 73  42  42
+
+ Node[59]o f t: 73  40  40
+
+ Node[60]o f t: 69  46  46
+
+ Node[61]o f t: 69  57  57
+
+ Node[62]o f t: 69  30  30
+
+ Node[63]o f t: 96  18  18
+
+ Node[64]o f t: 70  69  69
+
+ Node[65]o f t: 70  70  70
+
+ Node[66]o f t: 74  37  37
+
+ Node[67]o f t: 81  36  36
+
+ Node[68]o f t: 69  60  60
+
+ Node[69]o f t: 69  48  48
+
+ Node[70]o f t: 74  50  50
+
+ Node[71]o f t: 75  72  72
+
+ Node[72]o f t: 73  36  36
+
+ Node[73]o f t: 70  46  46
+
+ Node[74]o f t: 69  52  52
+
+ Node[75]o f t: 75  59  59
+
+ Node[76]o f t: 77  61  61
+
+ Node[77]o f t: 79  18  18
+
+ Node[78]o f t: 72  55  55
+
+ Node[79]o f t: 70  44  44
+
+ Node[80]o f t: 71  41  41
+
+ Node[81]o f t: 78  31  31
+
+ Node[82]o f t: 73  49  49
+
+ Node[83]o f t: 71  32  32
+
+ Node[84]o f t: 85  23  23
+
+ Node[85]o f t: 73  70  70
+
+ Node[86]o f t: 70  31  31
+
+ Node[87]o f t: 70  42  42
+
+ Node[88]o f t: 79  77  77
+
+ Node[89]o f t: 74  73  73
+
+ Node[90]o f t: 74  74  74
+
+ Node[91]o f t: 71  68  68
+
+ Node[92]o f t: 73  63  63
+
+ Node[93]o f t: 78  29  29
+
+ Node[94]o f t: 70  52  52
+
+ Node[95]o f t: 76  47  47
+
+ Node[96]o f t: 72  66  66
+
+ Node[97]o f t: 73  60  60
+
+ Node[98]o f t: 73  72  72
+
+ Node[99]o f t: 73  51  51
+
+ Node[100]o f t: 71  51  51
+
+ Node[101]o f t: 69  68  68
+
+ Node[102]o f t: 72  51  51
+
+ Node[103]o f t: 72  58  58
+
+ Node[104]o f t: 72  71  71
+
+ Node[105]o f t: 72  59  59
+
+ Node[106]o f t: 69  69  69
+
+ Node[107]o f t: 69  63  63
+
+ Node[108]o f t: 94  18  18
+
+ Node[109]o f t: 75  50  50
+
+ Node[110]o f t: 75  75  75
+
+ Node[111]o f t: 71  54  54
+
+ Node[112]o f t: 75  75  75
+
+ Node[113]o f t: 70  63  63
+
+ Node[114]o f t: 70  51  51
+
+ Node[115]o f t: 72  64  64
+
+ Node[116]o f t: 71  53  53
+
+ Node[117]o f t: 68  66  66
+
+ Node[118]o f t: 68  46  46
+
+ Node[119]o f t: 74  51  51
+
+ Node[120]o f t: 69  36  36
+
+ Node[121]o f t: 74  47  47
+
+ Node[122]o f t: 82  36  36
+
+ Node[123]o f t: 73  48  48
+
+ Node[124]o f t: 74  74  74
+
+ Node[125]o f t: 67  66  66
+
+ Node[126]o f t: 69  48  48
+
+ Node[127]o f t: 67  60  60
+
+ Node[128]o f t: 74  74  74
+
+ Node[129]o f t: 69  68  68
+
+ Node[130]o f t: 73  71  71
+
+ Node[131]o f t: 74  43  43
+
+ Node[132]o f t: 69  58  58
+
+ Node[133]o f t: 67  45  45
+
+ Node[134]o f t: 105  22  22
+
+ Node[135]o f t: 74  50  50
+
+ Node[136]o f t: 69  58  58
+
+ Node[137]o f t: 98  29  29
+
+ Node[138]o f t: 74  43  43
+
+ Node[139]o f t: 89  38  38
+
+ Node[140]o f t: 72  69  69
+
+ Node[141]o f t: 72  68  68
+
+ Node[142]o f t: 70  69  69
+
+ Node[143]o f t: 73  60  60
+
+ Node[144]o f t: 68  60  60
+
+ Node[145]o f t: 71  37  37
+
+ Node[146]o f t: 67  47  47
+
+ Node[147]o f t: 76  73  73
+
+ Node[148]o f t: 71  61  61
+
+ Node[149]o f t: 93  22  22
+
+ Node[150]o f t: 68  35  35
+
+ Node[151]o f t: 76  41  41
+
+ Node[152]o f t: 86  23  23
+
+ Node[153]o f t: 74  61  61
+
+ Node[154]o f t: 73  42  42
+
+ Node[155]o f t: 68  42  42
+
+ Node[156]o f t: 67  57  57
+
+ Node[157]o f t: 70  55  55
+
+ Node[158]o f t: 75  75  75
+
+ Node[159]o f t: 73  45  45
+
+ Node[160]o f t: 76  61  61
+
+ Node[161]o f t: 75  34  34
+
+ Node[162]o f t: 74  65  65
+
+ Node[163]o f t: 72  70  70
+
+ Node[164]o f t: 83  35  35
+
+ Node[165]o f t: 72  38  38
+
+ Node[166]o f t: 85  27  27
+
+ Node[167]o f t: 71  66  66
+
+ Node[168]o f t: 71  44  44
+
+ Node[169]o f t: 71  46  46
+
+ Node[170]o f t: 72  64  64
+
+ Node[171]o f t: 74  46  46
+
+ Node[172]o f t: 77  74  74
+
+ Node[173]o f t: 71  48  48
+
+ Node[174]o f t: 74  73  73
+
+ Node[175]o f t: 77  28  28
+
+ Node[176]o f t: 71  66  66
+
+ Node[177]o f t: 72  67  67
+
+ Node[178]o f t: 73  49  49
+
+ Node[179]o f t: 70  67  67
+
+ Node[180]o f t: 71  71  71
+
+ Node[181]o f t: 74  36  36
+
+ Node[182]o f t: 103  18  18
+
+ Node[183]o f t: 71  56  56
+
+ Node[184]o f t: 69  65  65
+
+ Node[185]o f t: 68  50  50
+
+ Node[186]o f t: 70  55  55
+
+ Node[187]o f t: 72  51  51
+
+ Node[188]o f t: 71  41  41
+
+ Node[189]o f t: 74  73  73
+
+ Node[190]o f t: 66  55  55
+
+ Node[191]o f t: 72  69  69
+
+ Node[192]o f t: 68  65  65
+
+ Node[193]o f t: 70  50  50
+
+ Node[194]o f t: 71  63  63
+
+ Node[195]o f t: 111  10  10
+
+ Node[196]o f t: 73  61  61
+
+ Node[197]o f t: 70  51  51
+
+ Node[198]o f t: 67  46  46
+
+ Node[199]o f t: 106  22  22
+
+ Node[200]o f t: 79  51  51
+
+ Node[201]o f t: 80  42  42
+
+ Node[202]o f t: 75  36  36
+
+ Node[203]o f t: 75  75  75
+
+ Node[204]o f t: 73  43  43
+
+ Node[205]o f t: 73  71  71
+
+ Node[206]o f t: 70  55  55
+
+ Node[207]o f t: 72  58  58
+
+ Node[208]o f t: 72  70  70
+
+ Node[209]o f t: 67  67  67
+
+ Node[210]o f t: 68  35  35
+
+ Node[211]o f t: 64  64  64
+
+ Node[212]o f t: 73  54  54
+
+ Node[213]o f t: 72  72  72
+
+ Node[214]o f t: 72  43  43
+
+ Node[215]o f t: 68  48  48
+
+ Node[216]o f t: 66  57  57
+
+ Node[217]o f t: 71  44  44
+
+ Node[218]o f t: 100  27  27
+
+ Node[219]o f t: 87  20  20
+
+ Node[220]o f t: 72  41  41
+
+ Node[221]o f t: 72  67  67
+
+ Node[222]o f t: 69  42  42
+
+ Node[223]o f t: 70  44  44
+
+ Node[224]o f t: 73  42  42
+
+ Node[225]o f t: 75  68  68
+
+ Node[226]o f t: 101  23  23
+
+ Node[227]o f t: 70  48  48
+
+ Node[228]o f t: 71  69  69
+
+ Node[229]o f t: 75  74  74
+
+ Node[230]o f t: 85  20  20
+
+ Node[231]o f t: 72  72  72
+
+ Node[232]o f t: 81  31  31
+
+ Node[233]o f t: 74  74  74
+
+ Node[234]o f t: 73  44  44
+
+ Node[235]o f t: 75  73  73
+
+ Node[236]o f t: 74  39  39
+
+ Node[237]o f t: 76  63  63
+
+ Node[238]o f t: 88  29  29
+
+ Node[239]o f t: 72  57  57
+
+ Node[240]o f t: 70  47  47
+
+ Node[241]o f t: 76  62  62
+
+ Node[242]o f t: 72  49  49
+
+ Node[243]o f t: 72  58  58
+
+ Node[244]o f t: 74  36  36
+
+ Node[245]o f t: 73  71  71
+
+ Node[246]o f t: 75  50  50
+
+ Node[247]o f t: 71  63  63
+
+ Node[248]o f t: 75  64  64
+
+ Node[249]o f t: 89  15  15
+
+ Node[250]o f t: 74  35  35
+
+ Node[251]o f t: 116  19  19
+
+ Node[252]o f t: 72  57  57
+
+ Node[253]o f t: 69  45  45
+
+ Node[254]o f t: 103  17  17
+
+ Node[255]o f t: 68  53  53
+
+ Node[256]o f t: 72  49  49
+
+ Node[257]o f t: 88  24  24
+
+ Node[258]o f t: 71  69  69
+
+ Node[259]o f t: 75  41  41
+
+ Node[260]o f t: 67  60  60
+
+ Node[261]o f t: 70  55  55
+
+ Node[262]o f t: 67  65  65
+
+ Node[263]o f t: 69  48  48
+
+ Node[264]o f t: 71  48  48
+
+ Node[265]o f t: 69  44  44
+
+ Node[266]o f t: 76  76  76
+
+ Node[267]o f t: 79  35  35
+
+ Node[268]o f t: 111  18  18
+
+ Node[269]o f t: 71  70  70
+
+ Node[270]o f t: 70  57  57
+
+ Node[271]o f t: 74  65  65
+
+ Node[272]o f t: 70  54  54
+
+ Node[273]o f t: 73  48  48
+
+ Node[274]o f t: 72  55  55
+
+ Node[275]o f t: 80  29  29
+
+ Node[276]o f t: 91  16  16
+
+ Node[277]o f t: 73  40  40
+
+ Node[278]o f t: 72  35  35
+
+ Node[279]o f t: 93  21  21
+
+ Node[280]o f t: 70  68  68
+
+ Node[281]o f t: 73  34  34
+
+ Node[282]o f t: 101  22  22
+
+ Node[283]o f t: 85  27  27
+
+ Node[284]o f t: 71  63  63
+
+ Node[285]o f t: 73  44  44
+
+ Node[286]o f t: 68  40  40
+
+ Node[287]o f t: 70  50  50
+
+ Node[288]o f t: 70  54  54
+
+ Node[289]o f t: 72  39  39
+
+ Node[290]o f t: 67  43  43
+
+ Node[291]o f t: 70  45  45
+
+ Node[292]o f t: 76  76  76
+
+ Node[293]o f t: 77  27  27
+
+ Node[294]o f t: 68  58  58
+
+ Node[295]o f t: 84  15  15
+
+ Node[296]o f t: 78  75  75
+
+ Node[297]o f t: 69  48  48
+
+ Node[298]o f t: 75  69  69
+
+ Node[299]o f t: 71  42  42
+
+ Node[300]o f t: 98  24  24
+
+ Node[301]o f t: 72  69  69
+
+ Node[302]o f t: 82  28  28
+
+ Node[303]o f t: 107  11  11
+
+ Node[304]o f t: 72  71  71
+
+ Node[305]o f t: 69  37  37
+
+ Node[306]o f t: 75  66  66
+
+ Node[307]o f t: 76  64  64
+
+ Node[308]o f t: 74  38  38
+
+ Node[309]o f t: 72  62  62
+
+ Node[310]o f t: 68  66  66
+
+ Node[311]o f t: 104  14  14
+
+ Node[312]o f t: 75  50  50
+
+ Node[313]o f t: 69  69  69
+
+ Node[314]o f t: 69  43  43
+
+ Node[315]o f t: 70  58  58
+
+ Node[316]o f t: 71  68  68
+
+ Node[317]o f t: 66  56  56
+
+ Node[318]o f t: 69  68  68
+
+ Node[319]o f t: 74  69  69
+
+ Node[320]o f t: 74  61  61
+
+ Node[321]o f t: 73  45  45
+
+ Node[322]o f t: 71  61  61
+
+ Node[323]o f t: 77  77  77
+
+ Node[324]o f t: 77  37  37
+
+ Node[325]o f t: 70  65  65
+
+ Node[326]o f t: 93  23  23
+
+ Node[327]o f t: 74  74  74
+
+ Node[328]o f t: 67  67  67
+
+ Node[329]o f t: 76  76  76
+
+ Node[330]o f t: 84  33  33
+
+ Node[331]o f t: 75  60  60
+
+ Node[332]o f t: 95  21  21
+
+ Node[333]o f t: 73  34  34
+
+ Node[334]o f t: 70  44  44
+
+ Node[335]o f t: 96  18  18
+
+ Node[336]o f t: 67  46  46
+
+ Node[337]o f t: 71  70  70
+
+ Node[338]o f t: 72  62  62
+
+ Node[339]o f t: 84  22  22
+
+ Node[340]o f t: 72  71  71
+
+ Node[341]o f t: 72  58  58
+
+ Node[342]o f t: 67  67  67
+
+ Node[343]o f t: 69  41  41
+
+ Node[344]o f t: 71  67  67
+
+ Node[345]o f t: 68  67  67
+
+ Node[346]o f t: 76  31  31
+
+ Node[347]o f t: 89  26  26
+
+ Node[348]o f t: 69  52  52
+
+ Node[349]o f t: 81  52  52
+
+ Node[350]o f t: 68  48  48
+
+ Node[351]o f t: 69  49  49
+
+ Node[352]o f t: 86  29  29
+
+ Node[353]o f t: 73  72  72
+
+ Node[354]o f t: 99  17  17
+
+ Node[355]o f t: 71  42  42
+
+ Node[356]o f t: 75  53  53
+
+ Node[357]o f t: 73  53  53
+
+ Node[358]o f t: 74  74  74
+
+ Node[359]o f t: 70  69  69
+
+ Node[360]o f t: 74  65  65
+
+ Node[361]o f t: 84  31  31
+
+ Node[362]o f t: 70  69  69
+
+ Node[363]o f t: 71  43  43
+
+ Node[364]o f t: 74  65  65
+
+ Node[365]o f t: 90  25  25
+
+ Node[366]o f t: 74  74  74
+
+ Node[367]o f t: 71  71  71
+
+ Node[368]o f t: 69  69  69
+
+ Node[369]o f t: 70  68  68
+
+ Node[370]o f t: 76  73  73
+
+ Node[371]o f t: 71  64  64
+
+ Node[372]o f t: 75  74  74
+
+ Node[373]o f t: 77  48  48
+
+ Node[374]o f t: 68  54  54
+
+ Node[375]o f t: 71  51  51
+
+ Node[376]o f t: 70  67  67
+
+ Node[377]o f t: 78  66  66
+
+ Node[378]o f t: 69  59  59
+
+ Node[379]o f t: 68  41  41
+
+ Node[380]o f t: 76  76  76
+
+ Node[381]o f t: 101  24  24
+
+ Node[382]o f t: 74  71  71
+
+ Node[383]o f t: 75  75  75
+
+ Node[384]o f t: 70  35  35
+
+ Node[385]o f t: 72  59  59
+
+ Node[386]o f t: 88  33  33
+
+ Node[387]o f t: 71  54  54
+
+ Node[388]o f t: 76  65  65
+
+ Node[389]o f t: 72  60  60
+
+ Node[390]o f t: 108  24  24
+
+ Node[391]o f t: 70  70  70
+
+ Node[392]o f t: 70  66  66
+
+ Node[393]o f t: 80  70  70
+
+ Node[394]o f t: 72  58  58
+
+ Node[395]o f t: 75  44  44
+
+ Node[396]o f t: 70  64  64
+
+ Node[397]o f t: 67  63  63
+
+ Node[398]o f t: 68  68  68
+
+ Node[399]o f t: 77  40  40
+
+ Node[400]o f t: 72  66  66
+
+ Node[401]o f t: 72  51  51
+
+ Node[402]o f t: 73  65  65
+
+ Node[403]o f t: 77  39  39
+
+ Node[404]o f t: 81  37  37
+
+ Node[405]o f t: 74  53  53
+
+ Node[406]o f t: 71  71  71
+
+ Node[407]o f t: 65  56  56
+
+ Node[408]o f t: 69  64  64
+
+ Node[409]o f t: 78  27  27
+
+ Node[410]o f t: 66  66  66
+
+ Node[411]o f t: 80  59  59
+
+ Node[412]o f t: 71  43  43
+
+ Node[413]o f t: 72  61  61
+
+ Node[414]o f t: 69  58  58
+
+ Node[415]o f t: 75  43  43
+
+ Node[416]o f t: 70  36  36
+
+ Node[417]o f t: 77  74  74
+
+ Node[418]o f t: 75  75  75
+
+ Node[419]o f t: 70  37  37
+
+ Node[420]o f t: 73  51  51
+
+ Node[421]o f t: 73  36  36
+
+ Node[422]o f t: 82  31  31
+
+ Node[423]o f t: 68  62  62
+
+ Node[424]o f t: 77  69  69
+
+ Node[425]o f t: 75  40  40
+
+ Node[426]o f t: 73  48  48
+
+ Node[427]o f t: 73  40  40
+
+ Node[428]o f t: 80  38  38
+
+ Node[429]o f t: 72  58  58
+
+ Node[430]o f t: 78  43  43
+
+ Node[431]o f t: 94  23  23
+
+ Node[432]o f t: 67  67  67
+
+ Node[433]o f t: 72  69  69
+
+ Node[434]o f t: 74  64  64
+
+ Node[435]o f t: 84  31  31
+
+ Node[436]o f t: 71  48  48
+
+ Node[437]o f t: 73  52  52
+
+ Node[438]o f t: 71  50  50
+
+ Node[439]o f t: 69  50  50
+
+ Node[440]o f t: 73  38  38
+
+ Node[441]o f t: 73  60  60
+
+ Node[442]o f t: 73  49  49
+
+ Node[443]o f t: 97  23  23
+
+ Node[444]o f t: 73  49  49
+
+ Node[445]o f t: 73  73  73
+
+ Node[446]o f t: 68  54  54
+
+ Node[447]o f t: 75  50  50
+
+ Node[448]o f t: 71  58  58
+
+ Node[449]o f t: 81  33  33
+
+ Node[450]o f t: 72  40  40
+
+ Node[451]o f t: 74  63  63
+
+ Node[452]o f t: 74  52  52
+
+ Node[453]o f t: 70  39  39
+
+ Node[454]o f t: 73  60  60
+
+ Node[455]o f t: 71  47  47
+
+ Node[456]o f t: 73  49  49
+
+ Node[457]o f t: 96  27  27
+
+ Node[458]o f t: 68  46  46
+
+ Node[459]o f t: 86  22  22
+
+ Node[460]o f t: 73  71  71
+
+ Node[461]o f t: 69  48  48
+
+ Node[462]o f t: 111  20  20
+
+ Node[463]o f t: 70  70  70
+
+ Node[464]o f t: 68  44  44
+
+ Node[465]o f t: 71  70  70
+
+ Node[466]o f t: 73  61  61
+
+ Node[467]o f t: 70  59  59
+
+ Node[468]o f t: 74  63  63
+
+ Node[469]o f t: 76  48  48
+
+ Node[470]o f t: 69  35  35
+
+ Node[471]o f t: 69  57  57
+
+ Node[472]o f t: 70  69  69
+
+ Node[473]o f t: 71  54  54
+
+ Node[474]o f t: 77  71  71
+
+ Node[475]o f t: 73  59  59
+
+ Node[476]o f t: 72  72  72
+
+ Node[477]o f t: 71  50  50
+
+ Node[478]o f t: 97  22  22
+
+ Node[479]o f t: 72  47  47
+
+ Node[480]o f t: 72  71  71
+
+ Node[481]o f t: 78  76  76
+
+ Node[482]o f t: 88  18  18
+
+ Node[483]o f t: 78  56  56
+
+ Node[484]o f t: 73  69  69
+
+ Node[485]o f t: 75  75  75
+
+ Node[486]o f t: 73  54  54
+
+ Node[487]o f t: 82  28  28
+
+ Node[488]o f t: 77  59  59
+
+ Node[489]o f t: 67  60  60
+
+ Node[490]o f t: 103  13  13
+
+ Node[491]o f t: 78  53  53
+
+ Node[492]o f t: 81  35  35
+
+ Node[493]o f t: 69  46  46
+
+ Node[494]o f t: 72  65  65
+
+ Node[495]o f t: 72  65  65
+
+ Node[496]o f t: 76  62  62
+
+ Node[497]o f t: 69  69  69
+
+ Node[498]o f t: 73  71  71
+
+ Node[499]o f t: 70  46  46
+
+ Node[500]o f t: 69  69  69
+
+ Node[501]o f t: 71  66  66
+
+ Node[502]o f t: 74  60  60
+
+ Node[503]o f t: 67  67  67
+
+ Node[504]o f t: 65  42  42
+
+ Node[505]o f t: 66  46  46
+
+ Node[506]o f t: 71  70  70
+
+ Node[507]o f t: 70  69  69
+
+ Node[508]o f t: 73  73  73
+
+ Node[509]o f t: 74  66  66
+
+ Node[510]o f t: 69  57  57
+
+ Node[511]o f t: 68  62  62
+
+ Node[512]o f t: 72  44  44
+
+ Node[513]o f t: 74  71  71
+
+ Node[514]o f t: 71  40  40
+
+ Node[515]o f t: 68  62  62
+
+ Node[516]o f t: 73  39  39
+
+ Node[517]o f t: 92  19  19
+
+ Node[518]o f t: 78  52  52
+
+ Node[519]o f t: 71  38  38
+
+ Node[520]o f t: 74  37  37
+
+ Node[521]o f t: 75  43  43
+
+ Node[522]o f t: 93  17  17
+
+ Node[523]o f t: 69  69  69
+
+ Node[524]o f t: 72  55  55
+
+ Node[525]o f t: 70  57  57
+
+ Node[526]o f t: 75  51  51
+
+ Node[527]o f t: 66  66  66
+
+ Node[528]o f t: 69  38  38
+
+ Node[529]o f t: 74  39  39
+
+ Node[530]o f t: 76  64  64
+
+ Node[531]o f t: 76  37  37
+
+ Node[532]o f t: 73  58  58
+
+ Node[533]o f t: 74  45  45
+
+ Node[534]o f t: 89  31  31
+
+ Node[535]o f t: 106  20  20
+
+ Node[536]o f t: 72  66  66
+
+ Node[537]o f t: 74  43  43
+
+ Node[538]o f t: 74  64  64
+
+ Node[539]o f t: 72  55  55
+
+ Node[540]o f t: 71  41  41
+
+ Node[541]o f t: 73  73  73
+
+ Node[542]o f t: 82  26  26
+
+ Node[543]o f t: 76  74  74
+
+ Node[544]o f t: 71  71  71
+
+ Node[545]o f t: 101  16  16
+
+ Node[546]o f t: 72  72  72
+
+ Node[547]o f t: 72  38  38
+
+ Node[548]o f t: 83  37  37
+
+ Node[549]o f t: 69  43  43
+
+ Node[550]o f t: 71  35  35
+
+ Node[551]o f t: 69  53  53
+
+ Node[552]o f t: 74  42  42
+
+ Node[553]o f t: 73  44  44
+
+ Node[554]o f t: 70  36  36
+
+ Node[555]o f t: 75  63  63
+
+ Node[556]o f t: 71  44  44
+
+ Node[557]o f t: 69  50  50
+
+ Node[558]o f t: 73  73  73
+
+ Node[559]o f t: 71  54  54
+
+ Node[560]o f t: 75  53  53
+
+ Node[561]o f t: 71  47  47
+
+ Node[562]o f t: 68  39  39
+
+ Node[563]o f t: 72  41  41
+
+ Node[564]o f t: 72  50  50
+
+ Node[565]o f t: 71  71  71
+
+ Node[566]o f t: 68  65  65
+
+ Node[567]o f t: 68  54  54
+
+ Node[568]o f t: 71  42  42
+
+ Node[569]o f t: 72  32  32
+
+ Node[570]o f t: 74  62  62
+
+ Node[571]o f t: 85  35  35
+
+ Node[572]o f t: 70  59  59
+
+ Node[573]o f t: 73  73  73
+
+ Node[574]o f t: 87  29  29
+
+ Node[575]o f t: 75  72  72
+
+ Node[576]o f t: 71  67  67
+
+ Node[577]o f t: 69  60  60
+
+ Node[578]o f t: 75  71  71
+
+ Node[579]o f t: 72  64  64
+
+ Node[580]o f t: 73  40  40
+
+ Node[581]o f t: 96  24  24
+
+ Node[582]o f t: 70  48  48
+
+ Node[583]o f t: 68  35  35
+
+ Node[584]o f t: 71  42  42
+
+ Node[585]o f t: 72  71  71
+
+ Node[586]o f t: 93  36  36
+
+ Node[587]o f t: 70  70  70
+
+ Node[588]o f t: 68  66  66
+
+ Node[589]o f t: 70  32  32
+
+ Node[590]o f t: 72  58  58
+
+ Node[591]o f t: 71  34  34
+
+ Node[592]o f t: 73  45  45
+
+ Node[593]o f t: 70  48  48
+
+ Node[594]o f t: 69  53  53
+
+ Node[595]o f t: 67  43  43
+
+ Node[596]o f t: 68  59  59
+
+ Node[597]o f t: 86  17  17
+
+ Node[598]o f t: 65  59  59
+
+ Node[599]o f t: 68  68  68
+
+ Node[600]o f t: 72  67  67
+
+ Node[601]o f t: 100  17  17
+
+ Node[602]o f t: 77  50  50
+
+ Node[603]o f t: 68  45  45
+
+ Node[604]o f t: 70  67  67
+
+ Node[605]o f t: 86  37  37
+
+ Node[606]o f t: 68  68  68
+
+ Node[607]o f t: 90  29  29
+
+ Node[608]o f t: 72  43  43
+
+ Node[609]o f t: 71  64  64
+
+ Node[610]o f t: 71  31  31
+
+ Node[611]o f t: 75  47  47
+
+ Node[612]o f t: 84  33  33
+
+ Node[613]o f t: 72  66  66
+
+ Node[614]o f t: 70  42  42
+
+ Node[615]o f t: 75  68  68
+
+ Node[616]o f t: 70  70  70
+
+ Node[617]o f t: 71  71  71
+
+ Node[618]o f t: 71  49  49
+
+ Node[619]o f t: 73  50  50
+
+ Node[620]o f t: 73  51  51
+
+ Node[621]o f t: 74  60  60
+
+ Node[622]o f t: 72  44  44
+
+ Node[623]o f t: 68  48  48
+
+ Node[624]o f t: 71  28  28
+
+ Node[625]o f t: 83  40  40
+
+ Node[626]o f t: 78  72  72
+
+ Node[627]o f t: 67  41  41
+
+ Node[628]o f t: 72  51  51
+
+ Node[629]o f t: 71  51  51
+
+ Node[630]o f t: 74  68  68
+
+ Node[631]o f t: 72  68  68
+
+ Node[632]o f t: 102  22  22
+
+ Node[633]o f t: 74  74  74
+
+ Node[634]o f t: 75  46  46
+
+ Node[635]o f t: 73  47  47
+
+ Node[636]o f t: 75  62  62
+
+ Node[637]o f t: 70  39  39
+
+ Node[638]o f t: 85  37  37
+
+ Node[639]o f t: 68  42  42
+
+ Node[640]o f t: 72  56  56
+
+ Node[641]o f t: 83  27  27
+
+ Node[642]o f t: 75  53  53
+
+ Node[643]o f t: 76  51  51
+
+ Node[644]o f t: 69  67  67
+
+ Node[645]o f t: 88  24  24
+
+ Node[646]o f t: 73  59  59
+
+ Node[647]o f t: 108  13  13
+
+ Node[648]o f t: 76  68  68
+
+ Node[649]o f t: 66  36  36
+
+ Node[650]o f t: 72  72  72
+
+ Node[651]o f t: 74  35  35
+
+ Node[652]o f t: 74  74  74
+
+ Node[653]o f t: 98  27  27
+
+ Node[654]o f t: 74  56  56
+
+ Node[655]o f t: 72  71  71
+
+ Node[656]o f t: 76  62  62
+
+ Node[657]o f t: 103  22  22
+
+ Node[658]o f t: 64  44  44
+
+ Node[659]o f t: 75  54  54
+
+ Node[660]o f t: 72  60  60
+
+ Node[661]o f t: 77  77  77
+
+ Node[662]o f t: 78  35  35
+
+ Node[663]o f t: 70  47  47
+
+ Node[664]o f t: 97  19  19
+
+ Node[665]o f t: 101  27  27
+
+ Node[666]o f t: 75  43  43
+
+ Node[667]o f t: 70  56  56
+
+ Node[668]o f t: 99  19  19
+
+ Node[669]o f t: 70  70  70
+
+ Node[670]o f t: 70  29  29
+
+ Node[671]o f t: 66  47  47
+
+ Node[672]o f t: 72  72  72
+
+ Node[673]o f t: 105  19  19
+
+ Node[674]o f t: 72  39  39
+
+ Node[675]o f t: 76  75  75
+
+ Node[676]o f t: 69  68  68
+
+ Node[677]o f t: 69  60  60
+
+ Node[678]o f t: 75  47  47
+
+ Node[679]o f t: 69  36  36
+
+ Node[680]o f t: 83  20  20
+
+ Node[681]o f t: 65  64  64
+
+ Node[682]o f t: 73  73  73
+
+ Node[683]o f t: 69  57  57
+
+ Node[684]o f t: 71  71  71
+
+ Node[685]o f t: 75  73  73
+
+ Node[686]o f t: 67  54  54
+
+ Node[687]o f t: 73  69  69
+
+ Node[688]o f t: 69  59  59
+
+ Node[689]o f t: 71  70  70
+
+ Node[690]o f t: 68  50  50
+
+ Node[691]o f t: 69  38  38
+
+ Node[692]o f t: 73  57  57
+
+ Node[693]o f t: 71  41  41
+
+ Node[694]o f t: 70  37  37
+
+ Node[695]o f t: 72  58  58
+
+ Node[696]o f t: 75  49  49
+
+ Node[697]o f t: 69  58  58
+
+ Node[698]o f t: 75  73  73
+
+ Node[699]o f t: 67  45  45
+
+ Node[700]o f t: 71  48  48
+
+ Node[701]o f t: 75  75  75
+
+ Node[702]o f t: 74  66  66
+
+ Node[703]o f t: 74  74  74
+
+ Node[704]o f t: 72  56  56
+
+ Node[705]o f t: 75  44  44
+
+ Node[706]o f t: 67  48  48
+
+ Node[707]o f t: 82  25  25
+
+ Node[708]o f t: 73  66  66
+
+ Node[709]o f t: 75  33  33
+
+ Node[710]o f t: 72  68  68
+
+ Node[711]o f t: 74  41  41
+
+ Node[712]o f t: 72  72  72
+
+ Node[713]o f t: 72  72  72
+
+ Node[714]o f t: 74  65  65
+
+ Node[715]o f t: 85  28  28
+
+ Node[716]o f t: 70  68  68
+
+ Node[717]o f t: 71  43  43
+
+ Node[718]o f t: 69  56  56
+
+ Node[719]o f t: 72  53  53
+
+ Node[720]o f t: 70  65  65
+
+ Node[721]o f t: 72  39  39
+
+ Node[722]o f t: 71  70  70
+
+ Node[723]o f t: 80  30  30
+
+ Node[724]o f t: 71  54  54
+
+ Node[725]o f t: 74  48  48
+
+ Node[726]o f t: 69  54  54
+
+ Node[727]o f t: 69  43  43
+
+ Node[728]o f t: 71  48  48
+
+ Node[729]o f t: 74  48  48
+
+ Node[730]o f t: 68  60  60
+
+ Node[731]o f t: 74  74  74
+
+ Node[732]o f t: 74  43  43
+
+ Node[733]o f t: 76  29  29
+
+ Node[734]o f t: 71  64  64
+
+ Node[735]o f t: 74  33  33
+
+ Node[736]o f t: 75  52  52
+
+ Node[737]o f t: 73  60  60
+
+ Node[738]o f t: 75  75  75
+
+ Node[739]o f t: 102  18  18
+
+ Node[740]o f t: 70  39  39
+
+ Node[741]o f t: 82  35  35
+
+ Node[742]o f t: 73  73  73
+
+ Node[743]o f t: 71  40  40
+
+ Node[744]o f t: 72  42  42
+
+ Node[745]o f t: 68  54  54
+
+ Node[746]o f t: 77  37  37
+
+ Node[747]o f t: 64  43  43
+
+ Node[748]o f t: 68  64  64
+
+ Node[749]o f t: 74  67  67
+
+EndToEnd Delay avg Node[1]: 0.0ms
+
+EndToEnd Delay avg Node[2]: 8.14070591667ms
+
+EndToEnd Delay avg Node[3]: 1.92724866667ms
+
+EndToEnd Delay avg Node[4]: 0.0ms
+
+EndToEnd Delay avg Node[5]: 2.66493966667ms
+
+EndToEnd Delay avg Node[6]: 0.0ms
+
+EndToEnd Delay avg Node[7]: 0.0ms
+
+EndToEnd Delay avg Node[8]: 0.228156ms
+
+EndToEnd Delay avg Node[9]: 0.228123ms
+
+EndToEnd Delay avg Node[10]: 0.0ms
+
+EndToEnd Delay avg Node[11]: 15.3077843333ms
+
+EndToEnd Delay avg Node[12]: 0.228131ms
+
+EndToEnd Delay avg Node[13]: 0.0ms
+
+EndToEnd Delay avg Node[14]: 0.228061ms
+
+EndToEnd Delay avg Node[15]: 0.228207ms
+
+EndToEnd Delay avg Node[16]: 12.1113391563ms
+
+EndToEnd Delay avg Node[17]: 0.0ms
+
+EndToEnd Delay avg Node[18]: 0.228164ms
+
+EndToEnd Delay avg Node[19]: 0.228253ms
+
+EndToEnd Delay avg Node[20]: 0.228134ms
+
+EndToEnd Delay avg Node[21]: 0.0ms
+
+EndToEnd Delay avg Node[22]: 0.0ms
+
+EndToEnd Delay avg Node[23]: 0.0ms
+
+EndToEnd Delay avg Node[24]: 7.18100188889ms
+
+EndToEnd Delay avg Node[25]: 0.0ms
+
+EndToEnd Delay avg Node[26]: 9.9172915ms
+
+EndToEnd Delay avg Node[27]: 0.0ms
+
+EndToEnd Delay avg Node[28]: 0.228278ms
+
+EndToEnd Delay avg Node[29]: 0.228256ms
+
+EndToEnd Delay avg Node[30]: 0.22823ms
+
+EndToEnd Delay avg Node[31]: 0.228134ms
+
+EndToEnd Delay avg Node[32]: 14.877735ms
+
+EndToEnd Delay avg Node[33]: 3.82820560937ms
+
+EndToEnd Delay avg Node[34]: 0.228069ms
+
+EndToEnd Delay avg Node[35]: 0.228092ms
+
+EndToEnd Delay avg Node[36]: 0.228053ms
+
+EndToEnd Delay avg Node[37]: 14.9071173333ms
+
+EndToEnd Delay avg Node[38]: 0.228087ms
+
+EndToEnd Delay avg Node[39]: 0.228324ms
+
+EndToEnd Delay avg Node[40]: 13.1581716667ms
+
+EndToEnd Delay avg Node[41]: 0.0ms
+
+EndToEnd Delay avg Node[42]: 68.305664ms
+
+EndToEnd Delay avg Node[43]: 0.0ms
+
+EndToEnd Delay avg Node[44]: 20.577622ms
+
+EndToEnd Delay avg Node[45]: 0.0ms
+
+EndToEnd Delay avg Node[46]: 49.359006ms
+
+EndToEnd Delay avg Node[47]: 0.0ms
+
+EndToEnd Delay avg Node[48]: 0.228092ms
+
+EndToEnd Delay avg Node[49]: 0.247200594203ms
+
+EndToEnd Delay avg Node[50]: 0.228167ms
+
+EndToEnd Delay avg Node[51]: 0.0ms
+
+EndToEnd Delay avg Node[52]: 0.228256ms
+
+EndToEnd Delay avg Node[53]: 1.571497ms
+
+EndToEnd Delay avg Node[54]: 12.2378047647ms
+
+EndToEnd Delay avg Node[55]: 4.29850073171ms
+
+EndToEnd Delay avg Node[56]: 38.83469ms
+
+EndToEnd Delay avg Node[57]: 4.5813125ms
+
+EndToEnd Delay avg Node[58]: 0.0ms
+
+EndToEnd Delay avg Node[59]: 0.0ms
+
+EndToEnd Delay avg Node[60]: 0.228207ms
+
+EndToEnd Delay avg Node[61]: 0.228138ms
+
+EndToEnd Delay avg Node[62]: 0.0ms
+
+EndToEnd Delay avg Node[63]: 0.0ms
+
+EndToEnd Delay avg Node[64]: 2.52780289231ms
+
+EndToEnd Delay avg Node[65]: 0.228003ms
+
+EndToEnd Delay avg Node[66]: 0.228275ms
+
+EndToEnd Delay avg Node[67]: 45.497498ms
+
+EndToEnd Delay avg Node[68]: 7.90214418182ms
+
+EndToEnd Delay avg Node[69]: 0.228177ms
+
+EndToEnd Delay avg Node[70]: 0.228191ms
+
+EndToEnd Delay avg Node[71]: 11.09510728ms
+
+EndToEnd Delay avg Node[72]: 0.0ms
+
+EndToEnd Delay avg Node[73]: 0.228224ms
+
+EndToEnd Delay avg Node[74]: 5.88690271429ms
+
+EndToEnd Delay avg Node[75]: 1.03983466667ms
+
+EndToEnd Delay avg Node[76]: 0.228164ms
+
+EndToEnd Delay avg Node[77]: 0.0ms
+
+EndToEnd Delay avg Node[78]: 34.6150165ms
+
+EndToEnd Delay avg Node[79]: 0.0ms
+
+EndToEnd Delay avg Node[80]: 0.228235ms
+
+EndToEnd Delay avg Node[81]: 0.22828ms
+
+EndToEnd Delay avg Node[82]: 0.228186ms
+
+EndToEnd Delay avg Node[83]: 0.228241ms
+
+EndToEnd Delay avg Node[84]: 0.0ms
+
+EndToEnd Delay avg Node[85]: 2.76422373913ms
+
+EndToEnd Delay avg Node[86]: 0.0ms
+
+EndToEnd Delay avg Node[87]: 0.228257ms
+
+EndToEnd Delay avg Node[88]: 0.303696ms
+
+EndToEnd Delay avg Node[89]: 4.63018949123ms
+
+EndToEnd Delay avg Node[90]: 1.9517849697ms
+
+EndToEnd Delay avg Node[91]: 1.11068380769ms
+
+EndToEnd Delay avg Node[92]: 0.0ms
+
+EndToEnd Delay avg Node[93]: 0.0ms
+
+EndToEnd Delay avg Node[94]: 68.115953ms
+
+EndToEnd Delay avg Node[95]: 0.228251ms
+
+EndToEnd Delay avg Node[96]: 10.0373459ms
+
+EndToEnd Delay avg Node[97]: 0.228127ms
+
+EndToEnd Delay avg Node[98]: 5.63035622449ms
+
+EndToEnd Delay avg Node[99]: 0.228155ms
+
+EndToEnd Delay avg Node[100]: 16.2887861667ms
+
+EndToEnd Delay avg Node[101]: 9.27451331429ms
+
+EndToEnd Delay avg Node[102]: 0.228147ms
+
+EndToEnd Delay avg Node[103]: 3.89188028571ms
+
+EndToEnd Delay avg Node[104]: 4.47643810417ms
+
+EndToEnd Delay avg Node[105]: 8.971845ms
+
+EndToEnd Delay avg Node[106]: 3.99405057971ms
+
+EndToEnd Delay avg Node[107]: 0.228105ms
+
+EndToEnd Delay avg Node[108]: 0.0ms
+
+EndToEnd Delay avg Node[109]: 0.228215ms
+
+EndToEnd Delay avg Node[110]: 1.7862375ms
+
+EndToEnd Delay avg Node[111]: 0.0ms
+
+EndToEnd Delay avg Node[112]: 2.1519692ms
+
+EndToEnd Delay avg Node[113]: 19.3658347ms
+
+EndToEnd Delay avg Node[114]: 0.0ms
+
+EndToEnd Delay avg Node[115]: 5.4699335ms
+
+EndToEnd Delay avg Node[116]: 30.1780603333ms
+
+EndToEnd Delay avg Node[117]: 0.228052ms
+
+EndToEnd Delay avg Node[118]: 0.0ms
+
+EndToEnd Delay avg Node[119]: 0.228171ms
+
+EndToEnd Delay avg Node[120]: 0.228224ms
+
+EndToEnd Delay avg Node[121]: 0.0ms
+
+EndToEnd Delay avg Node[122]: 0.0ms
+
+EndToEnd Delay avg Node[123]: 0.228183ms
+
+EndToEnd Delay avg Node[124]: 0.909185447761ms
+
+EndToEnd Delay avg Node[125]: 3.00398687755ms
+
+EndToEnd Delay avg Node[126]: 0.0ms
+
+EndToEnd Delay avg Node[127]: 0.228125ms
+
+EndToEnd Delay avg Node[128]: 2.32030324658ms
+
+EndToEnd Delay avg Node[129]: 8.82979536364ms
+
+EndToEnd Delay avg Node[130]: 5.81320815217ms
+
+EndToEnd Delay avg Node[131]: 0.0ms
+
+EndToEnd Delay avg Node[132]: 0.228097ms
+
+EndToEnd Delay avg Node[133]: 0.0ms
+
+EndToEnd Delay avg Node[134]: 0.0ms
+
+EndToEnd Delay avg Node[135]: 5.5572985ms
+
+EndToEnd Delay avg Node[136]: 0.228105ms
+
+EndToEnd Delay avg Node[137]: 0.228315ms
+
+EndToEnd Delay avg Node[138]: 0.228225ms
+
+EndToEnd Delay avg Node[139]: 1.317479ms
+
+EndToEnd Delay avg Node[140]: 0.228062ms
+
+EndToEnd Delay avg Node[141]: 1.4213952381ms
+
+EndToEnd Delay avg Node[142]: 4.25368379545ms
+
+EndToEnd Delay avg Node[143]: 0.228158ms
+
+EndToEnd Delay avg Node[144]: 0.0ms
+
+EndToEnd Delay avg Node[145]: 0.22821ms
+
+EndToEnd Delay avg Node[146]: 64.660081ms
+
+EndToEnd Delay avg Node[147]: 4.94435406122ms
+
+EndToEnd Delay avg Node[148]: 8.0069295ms
+
+EndToEnd Delay avg Node[149]: 0.0ms
+
+EndToEnd Delay avg Node[150]: 0.0ms
+
+EndToEnd Delay avg Node[151]: 0.0ms
+
+EndToEnd Delay avg Node[152]: 0.228307ms
+
+EndToEnd Delay avg Node[153]: 0.228116ms
+
+EndToEnd Delay avg Node[154]: 0.0ms
+
+EndToEnd Delay avg Node[155]: 0.228167ms
+
+EndToEnd Delay avg Node[156]: 0.39588525ms
+
+EndToEnd Delay avg Node[157]: 21.5593636667ms
+
+EndToEnd Delay avg Node[158]: 2.08877374286ms
+
+EndToEnd Delay avg Node[159]: 0.228208ms
+
+EndToEnd Delay avg Node[160]: 0.228151ms
+
+EndToEnd Delay avg Node[161]: 0.0ms
+
+EndToEnd Delay avg Node[162]: 21.677275ms
+
+EndToEnd Delay avg Node[163]: 1.6272781ms
+
+EndToEnd Delay avg Node[164]: 0.22828ms
+
+EndToEnd Delay avg Node[165]: 0.0ms
+
+EndToEnd Delay avg Node[166]: 0.0ms
+
+EndToEnd Delay avg Node[167]: 0.22808ms
+
+EndToEnd Delay avg Node[168]: 0.6972296ms
+
+EndToEnd Delay avg Node[169]: 0.228233ms
+
+EndToEnd Delay avg Node[170]: 0.0ms
+
+EndToEnd Delay avg Node[171]: 7.418631ms
+
+EndToEnd Delay avg Node[172]: 7.08016563636ms
+
+EndToEnd Delay avg Node[173]: 0.0ms
+
+EndToEnd Delay avg Node[174]: 5.27586916667ms
+
+EndToEnd Delay avg Node[175]: 0.228301ms
+
+EndToEnd Delay avg Node[176]: 0.228074ms
+
+EndToEnd Delay avg Node[177]: 0.228072ms
+
+EndToEnd Delay avg Node[178]: 0.228172ms
+
+EndToEnd Delay avg Node[179]: 21.7200625ms
+
+EndToEnd Delay avg Node[180]: 5.55258078788ms
+
+EndToEnd Delay avg Node[181]: 0.0ms
+
+EndToEnd Delay avg Node[182]: 0.0ms
+
+EndToEnd Delay avg Node[183]: 0.228175ms
+
+EndToEnd Delay avg Node[184]: 0.228088ms
+
+EndToEnd Delay avg Node[185]: 0.0ms
+
+EndToEnd Delay avg Node[186]: 0.228149ms
+
+EndToEnd Delay avg Node[187]: 0.0ms
+
+EndToEnd Delay avg Node[188]: 0.228208ms
+
+EndToEnd Delay avg Node[189]: 6.02494520968ms
+
+EndToEnd Delay avg Node[190]: 0.228141ms
+
+EndToEnd Delay avg Node[191]: 3.4784505ms
+
+EndToEnd Delay avg Node[192]: 2.90939783333ms
+
+EndToEnd Delay avg Node[193]: 0.0ms
+
+EndToEnd Delay avg Node[194]: 17.477418375ms
+
+EndToEnd Delay avg Node[195]: 0.0ms
+
+EndToEnd Delay avg Node[196]: 6.31762366667ms
+
+EndToEnd Delay avg Node[197]: 0.228202ms
+
+EndToEnd Delay avg Node[198]: 0.228182ms
+
+EndToEnd Delay avg Node[199]: 21.9347303333ms
+
+EndToEnd Delay avg Node[200]: 0.22827ms
+
+EndToEnd Delay avg Node[201]: 0.22827ms
+
+EndToEnd Delay avg Node[202]: 52.865376ms
+
+EndToEnd Delay avg Node[203]: 2.31369987324ms
+
+EndToEnd Delay avg Node[204]: 0.0ms
+
+EndToEnd Delay avg Node[205]: 0.22804ms
+
+EndToEnd Delay avg Node[206]: 0.228167ms
+
+EndToEnd Delay avg Node[207]: 18.2976786667ms
+
+EndToEnd Delay avg Node[208]: 5.98633693333ms
+
+EndToEnd Delay avg Node[209]: 5.25099455556ms
+
+EndToEnd Delay avg Node[210]: 0.228266ms
+
+EndToEnd Delay avg Node[211]: 0.228002ms
+
+EndToEnd Delay avg Node[212]: 0.22814ms
+
+EndToEnd Delay avg Node[213]: 3.23119451613ms
+
+EndToEnd Delay avg Node[214]: 0.0ms
+
+EndToEnd Delay avg Node[215]: 0.0ms
+
+EndToEnd Delay avg Node[216]: 0.0ms
+
+EndToEnd Delay avg Node[217]: 47.785396ms
+
+EndToEnd Delay avg Node[218]: 0.0ms
+
+EndToEnd Delay avg Node[219]: 0.0ms
+
+EndToEnd Delay avg Node[220]: 0.228263ms
+
+EndToEnd Delay avg Node[221]: 0.228111ms
+
+EndToEnd Delay avg Node[222]: 0.0ms
+
+EndToEnd Delay avg Node[223]: 0.9190055ms
+
+EndToEnd Delay avg Node[224]: 0.0ms
+
+EndToEnd Delay avg Node[225]: 0.228074ms
+
+EndToEnd Delay avg Node[226]: 0.0ms
+
+EndToEnd Delay avg Node[227]: 4.82454685714ms
+
+EndToEnd Delay avg Node[228]: 14.9847445714ms
+
+EndToEnd Delay avg Node[229]: 0.228035ms
+
+EndToEnd Delay avg Node[230]: 0.0ms
+
+EndToEnd Delay avg Node[231]: 8.50786830508ms
+
+EndToEnd Delay avg Node[232]: 33.6028995ms
+
+EndToEnd Delay avg Node[233]: 3.46246125758ms
+
+EndToEnd Delay avg Node[234]: 0.228188ms
+
+EndToEnd Delay avg Node[235]: 2.77809269231ms
+
+EndToEnd Delay avg Node[236]: 0.228239ms
+
+EndToEnd Delay avg Node[237]: 27.5315862222ms
+
+EndToEnd Delay avg Node[238]: 0.0ms
+
+EndToEnd Delay avg Node[239]: 7.3731354ms
+
+EndToEnd Delay avg Node[240]: 0.228185ms
+
+EndToEnd Delay avg Node[241]: 48.1558425ms
+
+EndToEnd Delay avg Node[242]: 0.0ms
+
+EndToEnd Delay avg Node[243]: 0.22813ms
+
+EndToEnd Delay avg Node[244]: 0.228276ms
+
+EndToEnd Delay avg Node[245]: 5.33749804167ms
+
+EndToEnd Delay avg Node[246]: 0.0ms
+
+EndToEnd Delay avg Node[247]: 9.65402172727ms
+
+EndToEnd Delay avg Node[248]: 0.228122ms
+
+EndToEnd Delay avg Node[249]: 0.228298ms
+
+EndToEnd Delay avg Node[250]: 0.228198ms
+
+EndToEnd Delay avg Node[251]: 0.228331ms
+
+EndToEnd Delay avg Node[252]: 0.228158ms
+
+EndToEnd Delay avg Node[253]: 0.228225ms
+
+EndToEnd Delay avg Node[254]: 0.228329ms
+
+EndToEnd Delay avg Node[255]: 40.786411ms
+
+EndToEnd Delay avg Node[256]: 0.0ms
+
+EndToEnd Delay avg Node[257]: 0.0ms
+
+EndToEnd Delay avg Node[258]: 0.228073ms
+
+EndToEnd Delay avg Node[259]: 0.228221ms
+
+EndToEnd Delay avg Node[260]: 0.228054ms
+
+EndToEnd Delay avg Node[261]: 30.0747413333ms
+
+EndToEnd Delay avg Node[262]: 10.2993674516ms
+
+EndToEnd Delay avg Node[263]: 2.93811866667ms
+
+EndToEnd Delay avg Node[264]: 0.228179ms
+
+EndToEnd Delay avg Node[265]: 0.228211ms
+
+EndToEnd Delay avg Node[266]: 1.77172569118ms
+
+EndToEnd Delay avg Node[267]: 0.0ms
+
+EndToEnd Delay avg Node[268]: 0.228332ms
+
+EndToEnd Delay avg Node[269]: 32.0412405ms
+
+EndToEnd Delay avg Node[270]: 0.22813ms
+
+EndToEnd Delay avg Node[271]: 0.228105ms
+
+EndToEnd Delay avg Node[272]: 12.8093531667ms
+
+EndToEnd Delay avg Node[273]: 3.29904883333ms
+
+EndToEnd Delay avg Node[274]: 0.228118ms
+
+EndToEnd Delay avg Node[275]: 0.228286ms
+
+EndToEnd Delay avg Node[276]: 0.0ms
+
+EndToEnd Delay avg Node[277]: 0.228231ms
+
+EndToEnd Delay avg Node[278]: 0.0ms
+
+EndToEnd Delay avg Node[279]: 0.228301ms
+
+EndToEnd Delay avg Node[280]: 0.228063ms
+
+EndToEnd Delay avg Node[281]: 0.0ms
+
+EndToEnd Delay avg Node[282]: 0.0ms
+
+EndToEnd Delay avg Node[283]: 0.228294ms
+
+EndToEnd Delay avg Node[284]: 0.228111ms
+
+EndToEnd Delay avg Node[285]: 0.228182ms
+
+EndToEnd Delay avg Node[286]: 0.0ms
+
+EndToEnd Delay avg Node[287]: 0.0ms
+
+EndToEnd Delay avg Node[288]: 0.228128ms
+
+EndToEnd Delay avg Node[289]: 0.22822ms
+
+EndToEnd Delay avg Node[290]: 36.1363725ms
+
+EndToEnd Delay avg Node[291]: 55.855465ms
+
+EndToEnd Delay avg Node[292]: 2.13479539726ms
+
+EndToEnd Delay avg Node[293]: 0.0ms
+
+EndToEnd Delay avg Node[294]: 11.13083625ms
+
+EndToEnd Delay avg Node[295]: 0.228304ms
+
+EndToEnd Delay avg Node[296]: 0.228073ms
+
+EndToEnd Delay avg Node[297]: 34.7335515ms
+
+EndToEnd Delay avg Node[298]: 13.2539858125ms
+
+EndToEnd Delay avg Node[299]: 0.22824ms
+
+EndToEnd Delay avg Node[300]: 0.0ms
+
+EndToEnd Delay avg Node[301]: 19.6151066ms
+
+EndToEnd Delay avg Node[302]: 0.228292ms
+
+EndToEnd Delay avg Node[303]: 0.0ms
+
+EndToEnd Delay avg Node[304]: 2.9395552381ms
+
+EndToEnd Delay avg Node[305]: 39.0703865ms
+
+EndToEnd Delay avg Node[306]: 0.228088ms
+
+EndToEnd Delay avg Node[307]: 16.3662351765ms
+
+EndToEnd Delay avg Node[308]: 0.228233ms
+
+EndToEnd Delay avg Node[309]: 23.2596776ms
+
+EndToEnd Delay avg Node[310]: 0.0ms
+
+EndToEnd Delay avg Node[311]: 0.0ms
+
+EndToEnd Delay avg Node[312]: 0.228194ms
+
+EndToEnd Delay avg Node[313]: 6.53553171698ms
+
+EndToEnd Delay avg Node[314]: 0.0ms
+
+EndToEnd Delay avg Node[315]: 21.3713186667ms
+
+EndToEnd Delay avg Node[316]: 9.36423191176ms
+
+EndToEnd Delay avg Node[317]: 21.4477265ms
+
+EndToEnd Delay avg Node[318]: 3.72591560377ms
+
+EndToEnd Delay avg Node[319]: 5.08127853333ms
+
+EndToEnd Delay avg Node[320]: 23.5279615ms
+
+EndToEnd Delay avg Node[321]: 0.228195ms
+
+EndToEnd Delay avg Node[322]: 3.316244ms
+
+EndToEnd Delay avg Node[323]: 0.228ms
+
+EndToEnd Delay avg Node[324]: 0.228291ms
+
+EndToEnd Delay avg Node[325]: 0.0ms
+
+EndToEnd Delay avg Node[326]: 31.617317ms
+
+EndToEnd Delay avg Node[327]: 0.228023ms
+
+EndToEnd Delay avg Node[328]: 3.24307953226ms
+
+EndToEnd Delay avg Node[329]: 2.83379642857ms
+
+EndToEnd Delay avg Node[330]: 0.228291ms
+
+EndToEnd Delay avg Node[331]: 0.228162ms
+
+EndToEnd Delay avg Node[332]: 0.228311ms
+
+EndToEnd Delay avg Node[333]: 21.0173735ms
+
+EndToEnd Delay avg Node[334]: 0.228166ms
+
+EndToEnd Delay avg Node[335]: 0.228307ms
+
+EndToEnd Delay avg Node[336]: 14.7477082ms
+
+EndToEnd Delay avg Node[337]: 0.228037ms
+
+EndToEnd Delay avg Node[338]: 18.3921504ms
+
+EndToEnd Delay avg Node[339]: 0.22829ms
+
+EndToEnd Delay avg Node[340]: 0.22807ms
+
+EndToEnd Delay avg Node[341]: 0.228111ms
+
+EndToEnd Delay avg Node[342]: 0.984326474576ms
+
+EndToEnd Delay avg Node[343]: 0.0ms
+
+EndToEnd Delay avg Node[344]: 8.5415211875ms
+
+EndToEnd Delay avg Node[345]: 7.831715825ms
+
+EndToEnd Delay avg Node[346]: 0.0ms
+
+EndToEnd Delay avg Node[347]: 0.0ms
+
+EndToEnd Delay avg Node[348]: 16.3336118ms
+
+EndToEnd Delay avg Node[349]: 2.6449635ms
+
+EndToEnd Delay avg Node[350]: 0.0ms
+
+EndToEnd Delay avg Node[351]: 0.228147ms
+
+EndToEnd Delay avg Node[352]: 0.228285ms
+
+EndToEnd Delay avg Node[353]: 19.0727475263ms
+
+EndToEnd Delay avg Node[354]: 0.0ms
+
+EndToEnd Delay avg Node[355]: 40.824821ms
+
+EndToEnd Delay avg Node[356]: 0.0ms
+
+EndToEnd Delay avg Node[357]: 0.0ms
+
+EndToEnd Delay avg Node[358]: 2.70649770769ms
+
+EndToEnd Delay avg Node[359]: 16.4308928ms
+
+EndToEnd Delay avg Node[360]: 57.260389ms
+
+EndToEnd Delay avg Node[361]: 0.0ms
+
+EndToEnd Delay avg Node[362]: 1.83250606667ms
+
+EndToEnd Delay avg Node[363]: 0.228228ms
+
+EndToEnd Delay avg Node[364]: 28.2403665ms
+
+EndToEnd Delay avg Node[365]: 0.0ms
+
+EndToEnd Delay avg Node[366]: 5.15025619403ms
+
+EndToEnd Delay avg Node[367]: 6.93867827586ms
+
+EndToEnd Delay avg Node[368]: 0.228004ms
+
+EndToEnd Delay avg Node[369]: 18.8567083103ms
+
+EndToEnd Delay avg Node[370]: 0.22805ms
+
+EndToEnd Delay avg Node[371]: 7.45713314286ms
+
+EndToEnd Delay avg Node[372]: 4.30027625373ms
+
+EndToEnd Delay avg Node[373]: 0.228215ms
+
+EndToEnd Delay avg Node[374]: 0.228131ms
+
+EndToEnd Delay avg Node[375]: 0.228208ms
+
+EndToEnd Delay avg Node[376]: 0.228072ms
+
+EndToEnd Delay avg Node[377]: 0.228112ms
+
+EndToEnd Delay avg Node[378]: 5.980900625ms
+
+EndToEnd Delay avg Node[379]: 0.228233ms
+
+EndToEnd Delay avg Node[380]: 5.26466617143ms
+
+EndToEnd Delay avg Node[381]: 0.228318ms
+
+EndToEnd Delay avg Node[382]: 6.74742342105ms
+
+EndToEnd Delay avg Node[383]: 6.51496441176ms
+
+EndToEnd Delay avg Node[384]: 0.0ms
+
+EndToEnd Delay avg Node[385]: 0.228144ms
+
+EndToEnd Delay avg Node[386]: 0.0ms
+
+EndToEnd Delay avg Node[387]: 24.6917275ms
+
+EndToEnd Delay avg Node[388]: 21.0024695ms
+
+EndToEnd Delay avg Node[389]: 0.228114ms
+
+EndToEnd Delay avg Node[390]: 0.0ms
+
+EndToEnd Delay avg Node[391]: 0.228002ms
+
+EndToEnd Delay avg Node[392]: 73.438754ms
+
+EndToEnd Delay avg Node[393]: 13.5652593333ms
+
+EndToEnd Delay avg Node[394]: 0.228139ms
+
+EndToEnd Delay avg Node[395]: 0.22823ms
+
+EndToEnd Delay avg Node[396]: 0.228107ms
+
+EndToEnd Delay avg Node[397]: 0.0ms
+
+EndToEnd Delay avg Node[398]: 1.33114117742ms
+
+EndToEnd Delay avg Node[399]: 0.0ms
+
+EndToEnd Delay avg Node[400]: 17.2788470909ms
+
+EndToEnd Delay avg Node[401]: 0.0ms
+
+EndToEnd Delay avg Node[402]: 0.228152ms
+
+EndToEnd Delay avg Node[403]: 0.228263ms
+
+EndToEnd Delay avg Node[404]: 0.228279ms
+
+EndToEnd Delay avg Node[405]: 0.228146ms
+
+EndToEnd Delay avg Node[406]: 6.05795504839ms
+
+EndToEnd Delay avg Node[407]: 0.2281ms
+
+EndToEnd Delay avg Node[408]: 7.60090866667ms
+
+EndToEnd Delay avg Node[409]: 0.22828ms
+
+EndToEnd Delay avg Node[410]: 3.01082403333ms
+
+EndToEnd Delay avg Node[411]: 0.0ms
+
+EndToEnd Delay avg Node[412]: 10.1629526ms
+
+EndToEnd Delay avg Node[413]: 0.228121ms
+
+EndToEnd Delay avg Node[414]: 54.9909063333ms
+
+EndToEnd Delay avg Node[415]: 18.458602ms
+
+EndToEnd Delay avg Node[416]: 11.49215175ms
+
+EndToEnd Delay avg Node[417]: 9.40843478571ms
+
+EndToEnd Delay avg Node[418]: 2.0563936087ms
+
+EndToEnd Delay avg Node[419]: 0.0ms
+
+EndToEnd Delay avg Node[420]: 0.228166ms
+
+EndToEnd Delay avg Node[421]: 0.228259ms
+
+EndToEnd Delay avg Node[422]: 0.0ms
+
+EndToEnd Delay avg Node[423]: 7.08985875ms
+
+EndToEnd Delay avg Node[424]: 1.68423833333ms
+
+EndToEnd Delay avg Node[425]: 10.71228525ms
+
+EndToEnd Delay avg Node[426]: 9.29282433333ms
+
+EndToEnd Delay avg Node[427]: 0.228266ms
+
+EndToEnd Delay avg Node[428]: 39.798595ms
+
+EndToEnd Delay avg Node[429]: 0.228113ms
+
+EndToEnd Delay avg Node[430]: 0.22825ms
+
+EndToEnd Delay avg Node[431]: 0.0ms
+
+EndToEnd Delay avg Node[432]: 0.228001ms
+
+EndToEnd Delay avg Node[433]: 0.228053ms
+
+EndToEnd Delay avg Node[434]: 9.425581875ms
+
+EndToEnd Delay avg Node[435]: 0.228299ms
+
+EndToEnd Delay avg Node[436]: 22.025754ms
+
+EndToEnd Delay avg Node[437]: 0.228158ms
+
+EndToEnd Delay avg Node[438]: 20.0031055ms
+
+EndToEnd Delay avg Node[439]: 0.228148ms
+
+EndToEnd Delay avg Node[440]: 0.228274ms
+
+EndToEnd Delay avg Node[441]: 0.228107ms
+
+EndToEnd Delay avg Node[442]: 0.228187ms
+
+EndToEnd Delay avg Node[443]: 0.22832ms
+
+EndToEnd Delay avg Node[444]: 9.30271233333ms
+
+EndToEnd Delay avg Node[445]: 1.12960762319ms
+
+EndToEnd Delay avg Node[446]: 16.953183ms
+
+EndToEnd Delay avg Node[447]: 0.22819ms
+
+EndToEnd Delay avg Node[448]: 11.6596417273ms
+
+EndToEnd Delay avg Node[449]: 0.228283ms
+
+EndToEnd Delay avg Node[450]: 0.0ms
+
+EndToEnd Delay avg Node[451]: 23.0713005ms
+
+EndToEnd Delay avg Node[452]: 0.228212ms
+
+EndToEnd Delay avg Node[453]: 0.0ms
+
+EndToEnd Delay avg Node[454]: 8.612082ms
+
+EndToEnd Delay avg Node[455]: 0.228206ms
+
+EndToEnd Delay avg Node[456]: 0.0ms
+
+EndToEnd Delay avg Node[457]: 14.3598703333ms
+
+EndToEnd Delay avg Node[458]: 0.0ms
+
+EndToEnd Delay avg Node[459]: 0.228294ms
+
+EndToEnd Delay avg Node[460]: 0.228036ms
+
+EndToEnd Delay avg Node[461]: 0.228165ms
+
+EndToEnd Delay avg Node[462]: 0.228329ms
+
+EndToEnd Delay avg Node[463]: 5.55944810714ms
+
+EndToEnd Delay avg Node[464]: 0.228172ms
+
+EndToEnd Delay avg Node[465]: 2.35244970313ms
+
+EndToEnd Delay avg Node[466]: 0.228124ms
+
+EndToEnd Delay avg Node[467]: 0.228109ms
+
+EndToEnd Delay avg Node[468]: 0.228122ms
+
+EndToEnd Delay avg Node[469]: 43.377302ms
+
+EndToEnd Delay avg Node[470]: 0.0ms
+
+EndToEnd Delay avg Node[471]: 0.228121ms
+
+EndToEnd Delay avg Node[472]: 3.83204636111ms
+
+EndToEnd Delay avg Node[473]: 68.525585ms
+
+EndToEnd Delay avg Node[474]: 5.9531778ms
+
+EndToEnd Delay avg Node[475]: 0.0ms
+
+EndToEnd Delay avg Node[476]: 1.34802408197ms
+
+EndToEnd Delay avg Node[477]: 0.0ms
+
+EndToEnd Delay avg Node[478]: 0.0ms
+
+EndToEnd Delay avg Node[479]: 3.52958733333ms
+
+EndToEnd Delay avg Node[480]: 1.48464516418ms
+
+EndToEnd Delay avg Node[481]: 7.36955916667ms
+
+EndToEnd Delay avg Node[482]: 0.0ms
+
+EndToEnd Delay avg Node[483]: 0.228183ms
+
+EndToEnd Delay avg Node[484]: 7.24770966667ms
+
+EndToEnd Delay avg Node[485]: 4.86791503333ms
+
+EndToEnd Delay avg Node[486]: 7.70547657143ms
+
+EndToEnd Delay avg Node[487]: 4.11543ms
+
+EndToEnd Delay avg Node[488]: 14.667452ms
+
+EndToEnd Delay avg Node[489]: 0.0ms
+
+EndToEnd Delay avg Node[490]: 0.0ms
+
+EndToEnd Delay avg Node[491]: 0.228177ms
+
+EndToEnd Delay avg Node[492]: 0.228294ms
+
+EndToEnd Delay avg Node[493]: 0.228205ms
+
+EndToEnd Delay avg Node[494]: 3.58669376667ms
+
+EndToEnd Delay avg Node[495]: 5.11364334783ms
+
+EndToEnd Delay avg Node[496]: 0.228137ms
+
+EndToEnd Delay avg Node[497]: 1.55981666176ms
+
+EndToEnd Delay avg Node[498]: 0.228036ms
+
+EndToEnd Delay avg Node[499]: 0.228225ms
+
+EndToEnd Delay avg Node[500]: 3.55858387037ms
+
+EndToEnd Delay avg Node[501]: 9.77179867857ms
+
+EndToEnd Delay avg Node[502]: 0.228159ms
+
+EndToEnd Delay avg Node[503]: 9.95984311111ms
+
+EndToEnd Delay avg Node[504]: 0.22819ms
+
+EndToEnd Delay avg Node[505]: 0.228188ms
+
+EndToEnd Delay avg Node[506]: 0.979611522388ms
+
+EndToEnd Delay avg Node[507]: 6.87094198ms
+
+EndToEnd Delay avg Node[508]: 5.5673776ms
+
+EndToEnd Delay avg Node[509]: 0.228065ms
+
+EndToEnd Delay avg Node[510]: 0.228166ms
+
+EndToEnd Delay avg Node[511]: 13.3066385714ms
+
+EndToEnd Delay avg Node[512]: 0.228198ms
+
+EndToEnd Delay avg Node[513]: 0.228053ms
+
+EndToEnd Delay avg Node[514]: 0.228222ms
+
+EndToEnd Delay avg Node[515]: 0.228072ms
+
+EndToEnd Delay avg Node[516]: 52.336543ms
+
+EndToEnd Delay avg Node[517]: 33.4447375ms
+
+EndToEnd Delay avg Node[518]: 0.228184ms
+
+EndToEnd Delay avg Node[519]: 0.0ms
+
+EndToEnd Delay avg Node[520]: 0.22826ms
+
+EndToEnd Delay avg Node[521]: 0.228263ms
+
+EndToEnd Delay avg Node[522]: 44.9676895ms
+
+EndToEnd Delay avg Node[523]: 0.907927629032ms
+
+EndToEnd Delay avg Node[524]: 4.688874ms
+
+EndToEnd Delay avg Node[525]: 31.0531003333ms
+
+EndToEnd Delay avg Node[526]: 0.0ms
+
+EndToEnd Delay avg Node[527]: 5.47142544444ms
+
+EndToEnd Delay avg Node[528]: 0.228241ms
+
+EndToEnd Delay avg Node[529]: 0.0ms
+
+EndToEnd Delay avg Node[530]: 9.04086688889ms
+
+EndToEnd Delay avg Node[531]: 0.0ms
+
+EndToEnd Delay avg Node[532]: 0.228186ms
+
+EndToEnd Delay avg Node[533]: 0.228229ms
+
+EndToEnd Delay avg Node[534]: 0.0ms
+
+EndToEnd Delay avg Node[535]: 0.0ms
+
+EndToEnd Delay avg Node[536]: 15.8489202308ms
+
+EndToEnd Delay avg Node[537]: 0.228257ms
+
+EndToEnd Delay avg Node[538]: 6.31037254545ms
+
+EndToEnd Delay avg Node[539]: 0.9962233ms
+
+EndToEnd Delay avg Node[540]: 95.615788ms
+
+EndToEnd Delay avg Node[541]: 5.6195031ms
+
+EndToEnd Delay avg Node[542]: 73.775198ms
+
+EndToEnd Delay avg Node[543]: 8.31573088889ms
+
+EndToEnd Delay avg Node[544]: 1.45448177419ms
+
+EndToEnd Delay avg Node[545]: 0.228323ms
+
+EndToEnd Delay avg Node[546]: 4.17885158462ms
+
+EndToEnd Delay avg Node[547]: 0.228213ms
+
+EndToEnd Delay avg Node[548]: 40.662873ms
+
+EndToEnd Delay avg Node[549]: 0.0ms
+
+EndToEnd Delay avg Node[550]: 0.228276ms
+
+EndToEnd Delay avg Node[551]: 0.228133ms
+
+EndToEnd Delay avg Node[552]: 31.4997495ms
+
+EndToEnd Delay avg Node[553]: 3.437584ms
+
+EndToEnd Delay avg Node[554]: 49.385205ms
+
+EndToEnd Delay avg Node[555]: 0.0ms
+
+EndToEnd Delay avg Node[556]: 0.228215ms
+
+EndToEnd Delay avg Node[557]: 37.048597ms
+
+EndToEnd Delay avg Node[558]: 9.10990850794ms
+
+EndToEnd Delay avg Node[559]: 0.228134ms
+
+EndToEnd Delay avg Node[560]: 0.0ms
+
+EndToEnd Delay avg Node[561]: 0.228199ms
+
+EndToEnd Delay avg Node[562]: 40.5181975ms
+
+EndToEnd Delay avg Node[563]: 38.843023ms
+
+EndToEnd Delay avg Node[564]: 0.228224ms
+
+EndToEnd Delay avg Node[565]: 0.877223202899ms
+
+EndToEnd Delay avg Node[566]: 0.228059ms
+
+EndToEnd Delay avg Node[567]: 0.228148ms
+
+EndToEnd Delay avg Node[568]: 0.0ms
+
+EndToEnd Delay avg Node[569]: 0.0ms
+
+EndToEnd Delay avg Node[570]: 5.78685685714ms
+
+EndToEnd Delay avg Node[571]: 31.043051ms
+
+EndToEnd Delay avg Node[572]: 0.0ms
+
+EndToEnd Delay avg Node[573]: 1.22703392958ms
+
+EndToEnd Delay avg Node[574]: 0.0ms
+
+EndToEnd Delay avg Node[575]: 8.32325425ms
+
+EndToEnd Delay avg Node[576]: 7.7166455ms
+
+EndToEnd Delay avg Node[577]: 0.0ms
+
+EndToEnd Delay avg Node[578]: 3.50488123077ms
+
+EndToEnd Delay avg Node[579]: 2.08336022222ms
+
+EndToEnd Delay avg Node[580]: 0.228226ms
+
+EndToEnd Delay avg Node[581]: 0.228299ms
+
+EndToEnd Delay avg Node[582]: 0.0ms
+
+EndToEnd Delay avg Node[583]: 0.228247ms
+
+EndToEnd Delay avg Node[584]: 0.228254ms
+
+EndToEnd Delay avg Node[585]: 6.19838564286ms
+
+EndToEnd Delay avg Node[586]: 0.228304ms
+
+EndToEnd Delay avg Node[587]: 2.86414905085ms
+
+EndToEnd Delay avg Node[588]: 7.0372455641ms
+
+EndToEnd Delay avg Node[589]: 0.0ms
+
+EndToEnd Delay avg Node[590]: 27.717109ms
+
+EndToEnd Delay avg Node[591]: 0.228263ms
+
+EndToEnd Delay avg Node[592]: 0.0ms
+
+EndToEnd Delay avg Node[593]: 20.445278ms
+
+EndToEnd Delay avg Node[594]: 0.228149ms
+
+EndToEnd Delay avg Node[595]: 0.228188ms
+
+EndToEnd Delay avg Node[596]: 0.228127ms
+
+EndToEnd Delay avg Node[597]: 0.0ms
+
+EndToEnd Delay avg Node[598]: 0.228093ms
+
+EndToEnd Delay avg Node[599]: 6.58477906667ms
+
+EndToEnd Delay avg Node[600]: 0.228096ms
+
+EndToEnd Delay avg Node[601]: 0.0ms
+
+EndToEnd Delay avg Node[602]: 0.228209ms
+
+EndToEnd Delay avg Node[603]: 0.228176ms
+
+EndToEnd Delay avg Node[604]: 4.07877966667ms
+
+EndToEnd Delay avg Node[605]: 0.228287ms
+
+EndToEnd Delay avg Node[606]: 4.12357848148ms
+
+EndToEnd Delay avg Node[607]: 0.0ms
+
+EndToEnd Delay avg Node[608]: 0.0ms
+
+EndToEnd Delay avg Node[609]: 0.228126ms
+
+EndToEnd Delay avg Node[610]: 0.228261ms
+
+EndToEnd Delay avg Node[611]: 0.228212ms
+
+EndToEnd Delay avg Node[612]: 0.228287ms
+
+EndToEnd Delay avg Node[613]: 18.5312032857ms
+
+EndToEnd Delay avg Node[614]: 46.245147ms
+
+EndToEnd Delay avg Node[615]: 0.228086ms
+
+EndToEnd Delay avg Node[616]: 0.490437402985ms
+
+EndToEnd Delay avg Node[617]: 0.64824138806ms
+
+EndToEnd Delay avg Node[618]: 0.22814ms
+
+EndToEnd Delay avg Node[619]: 0.0ms
+
+EndToEnd Delay avg Node[620]: 14.1660745ms
+
+EndToEnd Delay avg Node[621]: 0.228128ms
+
+EndToEnd Delay avg Node[622]: 18.270749ms
+
+EndToEnd Delay avg Node[623]: 47.6700835ms
+
+EndToEnd Delay avg Node[624]: 43.8391795ms
+
+EndToEnd Delay avg Node[625]: 0.228275ms
+
+EndToEnd Delay avg Node[626]: 4.72958453333ms
+
+EndToEnd Delay avg Node[627]: 47.373525ms
+
+EndToEnd Delay avg Node[628]: 0.228152ms
+
+EndToEnd Delay avg Node[629]: 0.228176ms
+
+EndToEnd Delay avg Node[630]: 44.199809ms
+
+EndToEnd Delay avg Node[631]: 12.237563ms
+
+EndToEnd Delay avg Node[632]: 0.0ms
+
+EndToEnd Delay avg Node[633]: 1.19707953623ms
+
+EndToEnd Delay avg Node[634]: 0.228184ms
+
+EndToEnd Delay avg Node[635]: 0.228179ms
+
+EndToEnd Delay avg Node[636]: 0.228127ms
+
+EndToEnd Delay avg Node[637]: 0.228264ms
+
+EndToEnd Delay avg Node[638]: 0.228288ms
+
+EndToEnd Delay avg Node[639]: 0.228229ms
+
+EndToEnd Delay avg Node[640]: 0.669627666667ms
+
+EndToEnd Delay avg Node[641]: 0.228287ms
+
+EndToEnd Delay avg Node[642]: 0.0ms
+
+EndToEnd Delay avg Node[643]: 0.22817ms
+
+EndToEnd Delay avg Node[644]: 21.1463400952ms
+
+EndToEnd Delay avg Node[645]: 0.0ms
+
+EndToEnd Delay avg Node[646]: 0.228132ms
+
+EndToEnd Delay avg Node[647]: 0.0ms
+
+EndToEnd Delay avg Node[648]: 0.228081ms
+
+EndToEnd Delay avg Node[649]: 0.228203ms
+
+EndToEnd Delay avg Node[650]: 1.38056446032ms
+
+EndToEnd Delay avg Node[651]: 0.228275ms
+
+EndToEnd Delay avg Node[652]: 3.44625233333ms
+
+EndToEnd Delay avg Node[653]: 0.22831ms
+
+EndToEnd Delay avg Node[654]: 42.9480883333ms
+
+EndToEnd Delay avg Node[655]: 14.2778960625ms
+
+EndToEnd Delay avg Node[656]: 0.22812ms
+
+EndToEnd Delay avg Node[657]: 0.0ms
+
+EndToEnd Delay avg Node[658]: 0.228201ms
+
+EndToEnd Delay avg Node[659]: 24.49288525ms
+
+EndToEnd Delay avg Node[660]: 0.228131ms
+
+EndToEnd Delay avg Node[661]: 1.10746531429ms
+
+EndToEnd Delay avg Node[662]: 14.2078276667ms
+
+EndToEnd Delay avg Node[663]: 0.228193ms
+
+EndToEnd Delay avg Node[664]: 35.1350655ms
+
+EndToEnd Delay avg Node[665]: 0.228316ms
+
+EndToEnd Delay avg Node[666]: 0.228198ms
+
+EndToEnd Delay avg Node[667]: 0.228161ms
+
+EndToEnd Delay avg Node[668]: 0.0ms
+
+EndToEnd Delay avg Node[669]: 1.99555146269ms
+
+EndToEnd Delay avg Node[670]: 0.0ms
+
+EndToEnd Delay avg Node[671]: 0.228211ms
+
+EndToEnd Delay avg Node[672]: 5.51336478462ms
+
+EndToEnd Delay avg Node[673]: 0.0ms
+
+EndToEnd Delay avg Node[674]: 16.848673ms
+
+EndToEnd Delay avg Node[675]: 0.572824333333ms
+
+EndToEnd Delay avg Node[676]: 2.8839317619ms
+
+EndToEnd Delay avg Node[677]: 0.228121ms
+
+EndToEnd Delay avg Node[678]: 0.0ms
+
+EndToEnd Delay avg Node[679]: 0.0ms
+
+EndToEnd Delay avg Node[680]: 0.0ms
+
+EndToEnd Delay avg Node[681]: 3.66928018421ms
+
+EndToEnd Delay avg Node[682]: 5.23963164407ms
+
+EndToEnd Delay avg Node[683]: 13.0203285ms
+
+EndToEnd Delay avg Node[684]: 0.939197461538ms
+
+EndToEnd Delay avg Node[685]: 4.84080106061ms
+
+EndToEnd Delay avg Node[686]: 0.0ms
+
+EndToEnd Delay avg Node[687]: 0.228049ms
+
+EndToEnd Delay avg Node[688]: 46.590106ms
+
+EndToEnd Delay avg Node[689]: 5.4364222766ms
+
+EndToEnd Delay avg Node[690]: 0.228156ms
+
+EndToEnd Delay avg Node[691]: 26.751875ms
+
+EndToEnd Delay avg Node[692]: 0.228166ms
+
+EndToEnd Delay avg Node[693]: 0.228242ms
+
+EndToEnd Delay avg Node[694]: 0.0ms
+
+EndToEnd Delay avg Node[695]: 46.9665726667ms
+
+EndToEnd Delay avg Node[696]: 0.228231ms
+
+EndToEnd Delay avg Node[697]: 0.228124ms
+
+EndToEnd Delay avg Node[698]: 0.228065ms
+
+EndToEnd Delay avg Node[699]: 0.228199ms
+
+EndToEnd Delay avg Node[700]: 57.85637ms
+
+EndToEnd Delay avg Node[701]: 3.51637042647ms
+
+EndToEnd Delay avg Node[702]: 10.9686176667ms
+
+EndToEnd Delay avg Node[703]: 8.47627653448ms
+
+EndToEnd Delay avg Node[704]: 13.432625ms
+
+EndToEnd Delay avg Node[705]: 0.0ms
+
+EndToEnd Delay avg Node[706]: 0.228189ms
+
+EndToEnd Delay avg Node[707]: 0.0ms
+
+EndToEnd Delay avg Node[708]: 0.228074ms
+
+EndToEnd Delay avg Node[709]: 0.0ms
+
+EndToEnd Delay avg Node[710]: 0.228082ms
+
+EndToEnd Delay avg Node[711]: 0.228263ms
+
+EndToEnd Delay avg Node[712]: 4.93078365079ms
+
+EndToEnd Delay avg Node[713]: 0.228005ms
+
+EndToEnd Delay avg Node[714]: 0.228121ms
+
+EndToEnd Delay avg Node[715]: 40.823681ms
+
+EndToEnd Delay avg Node[716]: 0.228048ms
+
+EndToEnd Delay avg Node[717]: 24.2677575ms
+
+EndToEnd Delay avg Node[718]: 40.3606795ms
+
+EndToEnd Delay avg Node[719]: 44.7413535ms
+
+EndToEnd Delay avg Node[720]: 0.228102ms
+
+EndToEnd Delay avg Node[721]: 0.228247ms
+
+EndToEnd Delay avg Node[722]: 7.90080782143ms
+
+EndToEnd Delay avg Node[723]: 0.0ms
+
+EndToEnd Delay avg Node[724]: 0.228176ms
+
+EndToEnd Delay avg Node[725]: 0.228199ms
+
+EndToEnd Delay avg Node[726]: 0.228184ms
+
+EndToEnd Delay avg Node[727]: 0.0ms
+
+EndToEnd Delay avg Node[728]: 0.228187ms
+
+EndToEnd Delay avg Node[729]: 0.0ms
+
+EndToEnd Delay avg Node[730]: 0.228091ms
+
+EndToEnd Delay avg Node[731]: 3.61452870833ms
+
+EndToEnd Delay avg Node[732]: 27.085383ms
+
+EndToEnd Delay avg Node[733]: 0.0ms
+
+EndToEnd Delay avg Node[734]: 37.6006415ms
+
+EndToEnd Delay avg Node[735]: 0.0ms
+
+EndToEnd Delay avg Node[736]: 36.4222065ms
+
+EndToEnd Delay avg Node[737]: 0.228156ms
+
+EndToEnd Delay avg Node[738]: 7.42478721429ms
+
+EndToEnd Delay avg Node[739]: 85.263177ms
+
+EndToEnd Delay avg Node[740]: 0.0ms
+
+EndToEnd Delay avg Node[741]: 0.228292ms
+
+EndToEnd Delay avg Node[742]: 6.90784107246ms
+
+EndToEnd Delay avg Node[743]: 0.228237ms
+
+EndToEnd Delay avg Node[744]: 32.6805076667ms
+
+EndToEnd Delay avg Node[745]: 3.44193266667ms
+
+EndToEnd Delay avg Node[746]: 0.0ms
+
+EndToEnd Delay avg Node[747]: 26.79363ms
+
+EndToEnd Delay avg Node[748]: 20.0508704ms
+
+EndToEnd Delay avg Node[749]: 0.228068ms

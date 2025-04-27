@@ -1,0 +1,48 @@
+run CsmaSCRIPTN4D100M3P64T0.0001seed1
+attr experiment "wifi-distance-test"
+attr strategy "wifi-default"
+attr measurement "100"
+attr description ""
+attr "author" "tjkopena"
+
+scalar . measurement "100"
+scalar . "author" "tjkopena"
+scalar node[1] avec nodeID: 1 wifi-tx-frames 54954
+scalar node[2] avec nodeID: 2 wifi-tx-frames 50756
+scalar node[3] avec nodeID: 3 wifi-tx-frames 53303
+scalar node[0] wifi-rx-frames 6183
+scalar node[1] sender-tx-packets 54984
+scalar node[2] sender-tx-packets 50816
+scalar node[3] sender-tx-packets 53393
+scalar node[0] receiver-rx-packets 6180
+statistic node[1] tx-pkt-size
+field count 54984
+field sum 4.83859e+06
+field mean 88
+field min 88
+field max 88
+field sqrsum 4.25796e+08
+field stddev 0
+statistic node[2] tx-pkt-size
+field count 50816
+field sum 4.47181e+06
+field mean 88
+field min 88
+field max 88
+field sqrsum 3.93519e+08
+field stddev 0
+statistic node[3] tx-pkt-size
+field count 53393
+field sum 4.69858e+06
+field mean 88
+field min 88
+field max 88
+field sqrsum 4.13475e+08
+field stddev 0
+scalar . delay-count 6180
+scalar . delay-total 1041325332293
+scalar . delay-average 168499244
+scalar . delay-max 501632072
+scalar . delay-min 228333
+
+

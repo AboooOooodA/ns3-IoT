@@ -1,0 +1,10 @@
+Node[0] Tx frames: 544 Rx frames: 522 [Frame Proba succes: 0.959558823529] AvgRetry: 0.0379310344828 Tx packets: 522 Rx packets: 522 [Packet Proba succes: 1.0] seed1
+Node[1] Tx frames: 58 Rx frames: 58 Proba succes: 1.0 AvgRetry: 0.0 Tx packets: 58 Rx packets: 58
+Node[2] Tx frames: 61 Rx frames: 58 Proba succes: 0.950819672131 AvgRetry: 0.051724137931 Tx packets: 58 Rx packets: 58
+Node[3] Tx frames: 67 Rx frames: 58 Proba succes: 0.865671641791 AvgRetry: 0.155172413793 Tx packets: 58 Rx packets: 58
+Node[4] Tx frames: 58 Rx frames: 58 Proba succes: 1.0 AvgRetry: 0.0 Tx packets: 58 Rx packets: 58
+Node[5] Tx frames: 58 Rx frames: 58 Proba succes: 1.0 AvgRetry: 0.0 Tx packets: 58 Rx packets: 58
+Node[6] Tx frames: 58 Rx frames: 58 Proba succes: 1.0 AvgRetry: 0.0 Tx packets: 58 Rx packets: 58
+Node[7] Tx frames: 58 Rx frames: 58 Proba succes: 1.0 AvgRetry: 0.0 Tx packets: 58 Rx packets: 58
+Node[8] Tx frames: 68 Rx frames: 58 Proba succes: 0.852941176471 AvgRetry: 0.172413793103 Tx packets: 58 Rx packets: 58
+Node[9] Tx frames: 58 Rx frames: 58 Proba succes: 1.0 AvgRetry: 0.0 Tx packets: 58 Rx packets: 58

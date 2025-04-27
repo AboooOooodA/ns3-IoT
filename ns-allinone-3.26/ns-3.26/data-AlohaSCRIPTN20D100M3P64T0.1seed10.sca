@@ -1,0 +1,208 @@
+run AlohaSCRIPTN20D100M3P64T0.1seed10
+attr experiment "wifi-distance-test"
+attr strategy "wifi-default"
+attr measurement "100"
+attr description ""
+attr "author" "tjkopena"
+
+scalar . measurement "100"
+scalar . "author" "tjkopena"
+scalar node[1] avec nodeID: 1 wifi-tx-frames 294
+scalar node[2] avec nodeID: 2 wifi-tx-frames 293
+scalar node[3] avec nodeID: 3 wifi-tx-frames 296
+scalar node[4] avec nodeID: 4 wifi-tx-frames 293
+scalar node[5] avec nodeID: 5 wifi-tx-frames 296
+scalar node[6] avec nodeID: 6 wifi-tx-frames 292
+scalar node[7] avec nodeID: 7 wifi-tx-frames 293
+scalar node[8] avec nodeID: 8 wifi-tx-frames 295
+scalar node[9] avec nodeID: 9 wifi-tx-frames 294
+scalar node[10] avec nodeID: 10 wifi-tx-frames 296
+scalar node[11] avec nodeID: 11 wifi-tx-frames 294
+scalar node[12] avec nodeID: 12 wifi-tx-frames 296
+scalar node[13] avec nodeID: 13 wifi-tx-frames 296
+scalar node[14] avec nodeID: 14 wifi-tx-frames 292
+scalar node[15] avec nodeID: 15 wifi-tx-frames 295
+scalar node[16] avec nodeID: 16 wifi-tx-frames 295
+scalar node[17] avec nodeID: 17 wifi-tx-frames 293
+scalar node[18] avec nodeID: 18 wifi-tx-frames 295
+scalar node[19] avec nodeID: 19 wifi-tx-frames 296
+scalar node[0] wifi-rx-frames 5594
+scalar node[1] sender-tx-packets 293
+scalar node[2] sender-tx-packets 292
+scalar node[3] sender-tx-packets 295
+scalar node[4] sender-tx-packets 292
+scalar node[5] sender-tx-packets 295
+scalar node[6] sender-tx-packets 291
+scalar node[7] sender-tx-packets 292
+scalar node[8] sender-tx-packets 294
+scalar node[9] sender-tx-packets 293
+scalar node[10] sender-tx-packets 295
+scalar node[11] sender-tx-packets 293
+scalar node[12] sender-tx-packets 295
+scalar node[13] sender-tx-packets 295
+scalar node[14] sender-tx-packets 291
+scalar node[15] sender-tx-packets 294
+scalar node[16] sender-tx-packets 294
+scalar node[17] sender-tx-packets 292
+scalar node[18] sender-tx-packets 294
+scalar node[19] sender-tx-packets 295
+scalar node[0] receiver-rx-packets 5575
+statistic node[1] tx-pkt-size
+field count 293
+field sum 25784
+field mean 88
+field min 88
+field max 88
+field sqrsum 2.26899e+06
+field stddev 0
+statistic node[2] tx-pkt-size
+field count 292
+field sum 25696
+field mean 88
+field min 88
+field max 88
+field sqrsum 2.26125e+06
+field stddev 0
+statistic node[3] tx-pkt-size
+field count 295
+field sum 25960
+field mean 88
+field min 88
+field max 88
+field sqrsum 2.28448e+06
+field stddev 0
+statistic node[4] tx-pkt-size
+field count 292
+field sum 25696
+field mean 88
+field min 88
+field max 88
+field sqrsum 2.26125e+06
+field stddev 0
+statistic node[5] tx-pkt-size
+field count 295
+field sum 25960
+field mean 88
+field min 88
+field max 88
+field sqrsum 2.28448e+06
+field stddev 0
+statistic node[6] tx-pkt-size
+field count 291
+field sum 25608
+field mean 88
+field min 88
+field max 88
+field sqrsum 2.2535e+06
+field stddev 0
+statistic node[7] tx-pkt-size
+field count 292
+field sum 25696
+field mean 88
+field min 88
+field max 88
+field sqrsum 2.26125e+06
+field stddev 0
+statistic node[8] tx-pkt-size
+field count 294
+field sum 25872
+field mean 88
+field min 88
+field max 88
+field sqrsum 2.27674e+06
+field stddev 0
+statistic node[9] tx-pkt-size
+field count 293
+field sum 25784
+field mean 88
+field min 88
+field max 88
+field sqrsum 2.26899e+06
+field stddev 0
+statistic node[10] tx-pkt-size
+field count 295
+field sum 25960
+field mean 88
+field min 88
+field max 88
+field sqrsum 2.28448e+06
+field stddev 0
+statistic node[11] tx-pkt-size
+field count 293
+field sum 25784
+field mean 88
+field min 88
+field max 88
+field sqrsum 2.26899e+06
+field stddev 0
+statistic node[12] tx-pkt-size
+field count 295
+field sum 25960
+field mean 88
+field min 88
+field max 88
+field sqrsum 2.28448e+06
+field stddev 0
+statistic node[13] tx-pkt-size
+field count 295
+field sum 25960
+field mean 88
+field min 88
+field max 88
+field sqrsum 2.28448e+06
+field stddev 0
+statistic node[14] tx-pkt-size
+field count 291
+field sum 25608
+field mean 88
+field min 88
+field max 88
+field sqrsum 2.2535e+06
+field stddev 0
+statistic node[15] tx-pkt-size
+field count 294
+field sum 25872
+field mean 88
+field min 88
+field max 88
+field sqrsum 2.27674e+06
+field stddev 0
+statistic node[16] tx-pkt-size
+field count 294
+field sum 25872
+field mean 88
+field min 88
+field max 88
+field sqrsum 2.27674e+06
+field stddev 0
+statistic node[17] tx-pkt-size
+field count 292
+field sum 25696
+field mean 88
+field min 88
+field max 88
+field sqrsum 2.26125e+06
+field stddev 0
+statistic node[18] tx-pkt-size
+field count 294
+field sum 25872
+field mean 88
+field min 88
+field max 88
+field sqrsum 2.27674e+06
+field stddev 0
+statistic node[19] tx-pkt-size
+field count 295
+field sum 25960
+field mean 88
+field min 88
+field max 88
+field sqrsum 2.28448e+06
+field stddev 0
+scalar . delay-count 5575
+scalar . delay-total 1438950528
+scalar . delay-average 258107
+scalar . delay-max 9580804
+scalar . delay-min 228012
+
+
